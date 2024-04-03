@@ -3648,3 +3648,20 @@ creatures/Original-creatures/Original-minotaur.dat
 [?2004lexit
 
 Script done on 2024-04-02 18:46:31+05:30 [COMMAND_EXIT_CODE="0"]
+Script started on 2024-04-03 13:33:37+05:30 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="73" LINES="27"]
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[00m$ git con fig --list
+[?2004l[?1h=user.eamil=vikram.n@tigeranalytics.com[m
+user.name=tigertribe6259[m
+core.repositoryformatversion=0[m
+core.filemode=false[m
+core.bare=false[m
+core.logallrefupdates=true[m
+core.ignorecase=true[m
+remote.origin.url=git@github.com:tigertribe6259/TAMLEP.git[m
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*[m
+branch.main.remote=origin[m
+branch.main.merge=refs/heads/main[m
+[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[00m$ exit
+[?2004lexit
+
+Script done on 2024-04-03 13:34:02+05:30 [COMMAND_EXIT_CODE="0"]
