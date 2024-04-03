@@ -1,3 +1,0 @@
-#File to ignore the files to commit to the repository
-*.out
-!JSON.out
