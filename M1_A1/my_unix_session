@@ -3665,3 +3665,103 @@ branch.main.merge=refs/heads/main[m
 [?2004lexit
 
 Script done on 2024-04-03 13:34:02+05:30 [COMMAND_EXIT_CODE="0"]
+Script started on 2024-04-03 13:56:57+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="73" LINES="27"]
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[00m$ gti sta tus
+[?2004lCommand 'gti' not found, did you mean:
+  command 'gt' from deb genometools (1.6.2+ds-2)
+  command 'ti' from deb ticgit (1.0.2.17-2.1)
+  command 'git' from deb git (1:2.34.1-1ubuntu1.10)
+  command 'gsi' from deb gambc (4.9.3-1.2)
+  command 'bti' from deb bti (034-6)
+  command 'ghi' from deb ghi (1.2.0-1.1)
+  command 'gtf' from deb xserver-xorg-core (2:21.1.4-2ubuntu1.7~22.04.2)
+  command 'gli' from deb ruby-gli (2.14.0-1.1)
+  command 'gt5' from deb gt5 (1.5.0~20111220+bzr29-4)
+  command 'gmi' from deb lieer (1.3-6)
+  command 'gth' from deb genomethreader (1.7.3+dfsg-6)
+Try: sudo apt install <deb name>
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[00m$ gti [K[K[Kiy[Kt sta tus
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   my_unix_session[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[00m$ gti [K[K[Kit com mit -a -m "Refreshing the Direc[K[K[K[K[KRepository[K[K[K[K[K[K[K[K[K[K[K Directory and repository"
+[?2004l[main b2319b3] Refreshing the Directory and repository
+ Committer: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[00m$ gti pus h origin main
+[?2004lCommand 'gti' not found, did you mean:
+  command 'bti' from deb bti (034-6)
+  command 'gt' from deb genometools (1.6.2+ds-2)
+  command 'gtf' from deb xserver-xorg-core (2:21.1.4-2ubuntu1.7~22.04.2)
+  command 'git' from deb git (1:2.34.1-1ubuntu1.10)
+  command 'gmi' from deb lieer (1.3-6)
+  command 'gth' from deb genomethreader (1.7.3+dfsg-6)
+  command 'gsi' from deb gambc (4.9.3-1.2)
+  command 'gli' from deb ruby-gli (2.14.0-1.1)
+  command 'ti' from deb ticgit (1.0.2.17-2.1)
+  command 'gt5' from deb gt5 (1.5.0~20111220+bzr29-4)
+  command 'ghi' from deb ghi (1.2.0-1.1)
+Try: sudo apt install <deb name>
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[00m$ git pus h origin main
+[?2004lEnumerating objects: 7, done.
+Counting objects:  14% (1/7)Counting objects:  28% (2/7)Counting objects:  42% (3/7)Counting objects:  57% (4/7)Counting objects:  71% (5/7)Counting objects:  85% (6/7)Counting objects: 100% (7/7)Counting objects: 100% (7/7), done.
+Delta compression using up to 8 threads
+Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
+Writing objects:  25% (1/4)Writing objects:  50% (2/4)Writing objects:  75% (3/4)Writing objects: 100% (4/4)Writing objects: 100% (4/4), 794 bytes | 36.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To github.com:tigertribe6259/TAMLEP.git
+   353f87f..b2319b3  main -> main
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[00m$ gti [K[K[Kit sta tus
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   my_unix_session[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[00m$ [K]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[00m$ $ echo[K[K[K[K[K[Kcd ..
+[?2004l[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ echo "[7m# TAMLE[27m[7mP[27m[7m [27m
+[7mData Science Insights Training Program[27m
+[7mThis Repository is created to submit the assignment for TAMLEP training P[27m[7mr[27m[7mogram by Tiger Analytics[27m[A[A[A[A]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ [C[C[C[C[C[C# TAMLEP
+Data Science Insights Training Program
+This Repository is created to submit the assignment for TAMLEP training Program by Tiger Analytics[A[A[A[A]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ [8Pcd ..
+[K
+[K
+[K
+[K[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "# TAMLEP 
+Data Science Insights Training Program
+This Repository is created to submit the assignment for TAMLEP training Program by Tiger Analytics[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C"[A[A[A[A]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ [C[C[C[C[C[C[C[CTAMLEP  [A]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ [C[C[C[C[C[C[C[1PTAMLEP
+Data Science Insights Training Program
+This Repository is created to submit the assignment for TAMLEP training Pr[47Pogram by Tiger Analytics"
+[K[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C > README.txt
+[?2004l[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ gti[K[Kit status
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working
