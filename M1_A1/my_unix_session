@@ -4291,3 +4291,517 @@ Changes not staged for commit:
 [?2004lexit
 
 Script done on 2024-04-03 15:13:59+05:30 [COMMAND_EXIT_CODE="0"]
+Script started on 2024-04-03 16:25:56+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="73" LINES="34"]
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[00m$ git log  -p [K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004lgit: 'lo' is not a git command. See 'git --help'.
+
+The most similar commands are
+	log
+	clone
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[00m$ git log [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kg
+[?2004l[?1h=[33mcommit f80dce0e10a4327e14280749c8202a9172ac7514[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/mai[m [33m[m[33m[m[1;36m[m[1;32m[m[33m[m[1;31mn[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 15:14:36 2024 +0530[m
+[m
+    Renamed the Readme file and Recorded the session[m
+[m
+[33mcommit 4c918c1137b981ca927988f41f0b844c0ae45fc7[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 15:05:54 2024 +0530[m
+[m
+    git status working[m
+[m
+[33mcommit a647855a3310fcd714e25f1ff8cb5bfcef64ae52[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 14:26:44 2024 +0530[m
+[m
+    Adding New Readme File[m
+[m
+[33mcommit b2319b3ce5422db1a977bdd5bab36587ac9d023e[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 14:10:33 2024 +0530[m
+[m
+    Refreshing the Directory and repository[m
+[m
+[33mcommit 353f87fc128456f53589f67cc5a997e04cbcd139[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 12:39:56 2024 +0530[m
+[m
+    2nd commit as part of practice[m
+[m
+[33mcommit 307d78283a65d0a20f6a1eb5fef9bf744c71104b[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Wed Apr 3 11:19:09 2024 +0530[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    Shell Session Recording 1st Commit[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit fab7df3910efb5ebc01d10de6e715af094a6eb40[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: tigertribe6259 <165360251+tigertribe6259@users.noreply.github.com[m :[K[K [KESCESC[KOO[KBB[K>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Wed Apr 3 10:37:52 2024 +0530[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    Creating README.md[m
+:[K[K [KESCESC[KOO[KBB[K    [m
+:[K[K [KESCESC[KOO[KBB[K    Readme file for repository description[m
+:[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K[HM    git status working[m
+[HM[m
+[HMDate:   Wed Apr 3 15:05:54 2024 +0530[m
+[HMAuthor: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+[HM[33mcommit 4c918c1137b981ca927988f41f0b844c0ae45fc7[m[m
+[HM[m
+[HM    Renamed the Readme file and Recorded the session[m
+[HM[m
+[HMDate:   Wed Apr 3 15:14:36 2024 +0530[m
+[HMAuthor: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+[HM[33m[m[33m[m[1;36m[m[1;32m[m[33m[m[1;31mn[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+[HM[33mcommit f80dce0e10a4327e14280749c8202a9172ac7514[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/mai[m[34;1H[K:[K[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[00m$ git [K[K[K[Kcd ..
+[?2004l[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log -p -2 [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K2
+[?2004l[?1h=[33mcommit f80dce0e10a4327e14280749c8202a9172ac7514[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/mai[m [33m[m[33m[m[1;36m[m[1;32m[m[33m[m[1;31mn[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 15:14:36 2024 +0530[m
+[m
+    Renamed the Readme file and Recorded the session[m
+[m
+[1mdiff --git a/.gitignore b/.gitignore[m[m
+[1mdeleted file mode 100644[m[m
+[1mindex 5dfdee4..0000000[m[m
+[1m--- a/.gitignore[m[m
+[1m+++ /dev/null[m[m
+[36m@@ -1,3 +0,0 @@[m[m
+[31m-#File to ignore the files to commit to the repository[m[m
+[31m-*.out[m[m
+[31m-!JSON.out[m[m
+\ No newline at end of file[m[m
+[1mdiff --git a/M1_A1/my_unix_session b/M1_A1/my_unix_session[m[m
+[1mindex 265ad71..547a4be 100644[m[m
+[1m--- a/M1_A1/my_unix_session[m[m
+[1m+++ b/M1_A1/my_unix_session[m[m
+[36m@@ -3764,4 +3764,530 @@[m [mYour branch is up to date with 'origin/main'.[m[m
+ [m[m
+ Changes not staged for commit:[m[m
+   (use "git add/rm <file>..." to update what will be committed)[m[m
+[31m-  (use "git restore <file>..." to discard changes in working[m[m
+\ No newline at end of file[m[m
+[32m+[m[32m  (use "git restore <file>..." to discard changes in working directory)[m[41m[7m^[27m[m [32m[m[32m[m[41m[7m^M[27m[m[m
+[32m+[m       [32m[31mmodified:   M1_A1/my_unix_session[m[m[41m[7m^M[27m[m[m
+[32m+[m       [32m[31mdeleted:    README.md[m[m[41m[7m^M[27m[m[m
+[32m+[m[41m[7m^M[27m[m[m
+[32m+[m[32mUntracked files:[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m  (use "git add <file>..." to include in what will be committed)[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m       [32m[31mREADME.txt[m[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mno changes added to commit (use "git add" and/or "git commit -a")[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[7m^G[27m[01;32mvikram6259@T[m :[K[K [KESCESC[KOO[KBB[K[32m[m[32m[01;32mIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git commit -a [7m^M[27m [7m^M[27m[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m[7m^M^H^H^H^H^H^H^H^H^H[27m add R[7m^G[27mEADME.txt[m[41m [7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m[7m^M[27mikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[7m^G[27m[01;32mvikram6259[m :[K[K [KESCESC[KOO[KBB[K[32m[m[32m[01;32m@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git status[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m[7m^M[27mOn branch main[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mYour branch is up to date with 'origin/main'.[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mChanges to be committed:[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m  (use "git restore --staged <file>..." to unstage)[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m       [32m[32mnew file:   README.txt[m[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mChanges not staged for commit:[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m  (use "git add/rm <file>..." to update what will be committed)[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m  (use "git restore <file>..." to discard changes in working directory)[m[41m[7m^[27m[m :[K[K [KESCESC[KOO[KBB[K[32m[m[32m[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m       [32m[31mmodified:   M1_A1/my_unix_session[m[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m       [32m[31mdeleted:    README.md[m[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[7m^G[27m[01;32mvikram6259@T[m :[K[K [KESCESC[KOO[KBB[K[32m[m[32m[01;32mIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git commit -a [7m^M[27m -m "Addin[m :[K[K [KESCESC[KOO[KBB[K[32m[m[32m[01;32m[00m[01;34m[00mtg New Readme File"[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m[7m^M[27m[main a647855] Adding New Readme File[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m Committer: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m[41m[7m^[27m[m :[K[K [KESCESC[KOO[KBB[K[32m[m[32m[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mYour name and email address were configured automatically based[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mon your username and hostname. Please check that they are accurate.[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mYou can suppress this message by setting them explicitly:[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m    git config --global user.name "Your Name"[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m    git config --global user.email you@example.com[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mAfter doing this, you may fix the identity used for this commit with:[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m    git commit --amend --reset-author[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m 2 files changed, 101 insertions(+), 1 deletion(-)[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m rename README.md => README.txt (93%)[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[7m^G[27m[01;32mvikram6259@T[m :[K[K [KESCESC[KOO[KBB[K[32m[m[32m[01;32mIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git status[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m[7m^M[27mOn branch main[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mYour branch is ahead of 'origin/main' by 1 commit.[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32m  (use "git push" to publish your local commits)[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mnothing to commit, working tree clean[m[41m[7m^M[27m[m[m
+:[K[K [KESCESC[KOO[KBB[K[32m+[m[32mikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[7m^G[27m[01;32mvikram6259@T[m :[K[K[HM[32m+[m[32mChanges not staged for commit:[m[41m[7m^M[27m[m[m
+[HM[32m+[m[41m[7m^M[27m[m[m
+[HM[32m+[m       [32m[32mnew file:   README.txt[m[m[41m[7m^M[27m[m[m
+[HM[32m+[m[32m  (use "git restore --staged <file>..." to unstage)[m[41m[7m^M[27m[m[m
+[HM[32m+[m[32mChanges to be committed:[m[41m[7m^M[27m[m[m
+[HM[32m+[m[41m[7m^M[27m[m[m
+[HM[32m+[m[32mYour branch is up to date with 'origin/main'.[m[41m[7m^M[27m[m[m
+[HM[32m+[m[32m[7m^M[27mOn branch main[m[41m[7m^M[27m[m[m
+[HM[32m[m[32m[01;32m@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git status[m[41m[7m^M[27m[m[m
+[HM[32m+[m[32m[7m^M[27mikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[7m^G[27m[01;32mvikram6259[m[HM[32m+[m[32m[7m^M^H^H^H^H^H^H^H^H^H[27m add R[7m^G[27mEADME.txt[m[41m [7m^M[27m[m[m
+[HM[32m[m[32m[01;32mIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git commit -a [7m^M[27m [7m^M[27m[m[41m[7m^M[27m[m[m
+[HM[32m+[m[32mikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[7m^G[27m[01;32mvikram6259@T[m[HM[32m+[m[32mno changes added to commit (use "git add" and/or "git commit -a")[m[41m[7m^M[27m[m[m
+[HM[32m+[m[41m[7m^M[27m[m[m
+[HM[32m+[m       [32m[31mREADME.txt[m[m[41m[7m^M[27m[m[m
+[HM[32m+[m[32m  (use "git add <file>..." to include in what will be committed)[m[41m[7m^M[27m[m[m
+[HM[32m+[m[32mUntracked files:[m[41m[7m^M[27m[m[m
+[HM[32m+[m[41m[7m^M[27m[m[m
+[HM[32m+[m       [32m[31mdeleted:    README.md[m[m[41m[7m^M[27m[m[m
+[HM[32m+[m       [32m[31mmodified:   M1_A1/my_unix_session[m[m[41m[7m^M[27m[m[m
+[HM[32m[m[32m[m[41m[7m^M[27m[m[m
+[HM[32m+[m[32m  (use "git restore <file>..." to discard changes in working directory)[m[41m[7m^[27m[m[HM\ No newline at end of file[m[m
+[HM[31m-  (use "git restore <file>..." to discard changes in working[m[m
+[HM   (use "git add/rm <file>..." to update what will be committed)[m[m
+[HM Changes not staged for commit:[m[m
+[HM [m[m
+[HM[36m@@ -3764,4 +3764,530 @@[m [mYour branch is up to date with 'origin/main'.[m[m
+[HM[1m+++ b/M1_A1/my_unix_session[m[m
+[HM[1m--- a/M1_A1/my_unix_session[m[m
+[HM[1mindex 265ad71..547a4be 100644[m[m
+[HM[1mdiff --git a/M1_A1/my_unix_session b/M1_A1/my_unix_session[m[m
+[34;1H[K:[K[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log --sta t
+[?2004l[?1h=[33mcommit f80dce0e10a4327e14280749c8202a9172ac7514[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/mai[m [33m[m[33m[m[1;36m[m[1;32m[m[33m[m[1;31mn[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 15:14:36 2024 +0530[m
+[m
+    Renamed the Readme file and Recorded the session[m
+[m
+ .gitignore                    |   3 [31m-[m[m
+ M1_A1/my_unix_session         | 528 [32m++++++++++++++++++++++++++++++++++[m[31m-[m[m
+ README.txt => REPO_README.txt |   0[m
+ 3 files changed, 527 insertions(+), 4 deletions(-)[m
+[m
+[33mcommit 4c918c1137b981ca927988f41f0b844c0ae45fc7[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 15:05:54 2024 +0530[m
+[m
+    git status working[m
+[m
+ .gitignore | 3 [32m+++[m[m
+ README.txt | 2 [32m+[m[31m-[m[m
+ 2 files changed, 4 insertions(+), 1 deletion(-)[m
+[m
+[33mcommit a647855a3310fcd714e25f1ff8cb5bfcef64ae52[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 14:26:44 2024 +0530[m
+[m
+    Adding New Readme File[m
+[m
+ M1_A1/my_unix_session   | 100 [32m+++++++++++++++++++++++++++++++++++++++++[m[m
+ README.md => README.txt |   2 [32m+[m[31m-[m[m
+ 2 files changed, 101 insertions(+), 1 deletion(-)[m
+[m
+[33mcommit b2319b3ce5422db1a977bdd5bab36587ac9d023e[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Wed Apr 3 14:10:33 2024 +0530[m
+:[K[K[HM[33m[m[33m[m[1;36m[m[1;32m[m[33m[m[1;31mn[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+[HM[33mcommit f80dce0e10a4327e14280749c8202a9172ac7514[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/mai[m[34;1H[K:[K[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git pt[Krettu[Kyn[K [K=on eline[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clpretty=oneline[A]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ [C[C[C[C[Copretty=oneline[A]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ [C[C[C[C[C[Cgpretty=oneline[A]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ [C[C[C[C[C[C[C pretty=oneline[A]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ [C[C[C[C[C[C[C[C-pretty=oneline[A]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ [C[C[C[C[C[C[C[C[C-pretty=oneline[A]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ [C[C[C[C[C[C[C[C[C[C
+
+[?2004l[?1h=[33mf80dce0e10a4327e14280749c8202a9172ac7514[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morig[m [33m[m[33m[m[1;36m[m[1;32m[m[33m[m[1;31m[m[33m[m[1;31min/HEAD[m[33m)[m Renamed the Readme file and Recorded the session[m
+[33m4c918c1137b981ca927988f41f0b844c0ae45fc7[m git status working[m
+[33ma647855a3310fcd714e25f1ff8cb5bfcef64ae52[m Adding New Readme File[m
+[33mb2319b3ce5422db1a977bdd5bab36587ac9d023e[m Refreshing the Directory and rep[m [33m[mository[m
+[33m353f87fc128456f53589f67cc5a997e04cbcd139[m 2nd commit as part of practice[m
+[33m307d78283a65d0a20f6a1eb5fef9bf744c71104b[m Shell Session Recording 1st Comm[m [33m[mit[m
+[33mfab7df3910efb5ebc01d10de6e715af094a6eb40[m Creating README.md[m
+[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ gti [K[K[Kit log --pre tty=short
+[?2004l[?1h=[33mcommit f80dce0e10a4327e14280749c8202a9172ac7514[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/mai[m [33m[m[33m[m[1;36m[m[1;32m[m[33m[m[1;31mn[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+[m
+    Renamed the Readme file and Recorded the session[m
+[m
+[33mcommit 4c918c1137b981ca927988f41f0b844c0ae45fc7[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+[m
+    git status working[m
+[m
+[33mcommit a647855a3310fcd714e25f1ff8cb5bfcef64ae52[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+[m
+    Adding New Readme File[m
+[m
+[33mcommit b2319b3ce5422db1a977bdd5bab36587ac9d023e[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+[m
+    Refreshing the Directory and repository[m
+[m
+[33mcommit 353f87fc128456f53589f67cc5a997e04cbcd139[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+[m
+    2nd commit as part of practice[m
+[m
+[33mcommit 307d78283a65d0a20f6a1eb5fef9bf744c71104b[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+[m
+    Shell Session Recording 1st Commit[m
+[m
+[33mcommit fab7df3910efb5ebc01d10de6e715af094a6eb40[m[m
+Author: tigertribe6259 <165360251+tigertribe6259@users.noreply.github.com[m :[K[K[K:[K[K:[K[K[7mNo next tag  (press RETURN)[27m[34;1H[K[K:[K[K:[K[K:[K[K[K:[K[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git pret[K[K[K[Klog prett y=full
+[?2004lfatal: ambiguous argument 'pretty=full': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log --pe[Kre tty =[K[K=fuller
+[?2004l[?1h=[33mcommit f80dce0e10a4327e14280749c8202a9172ac7514[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/mai[m [33m[m[33m[m[1;36m[m[1;32m[m[33m[m[1;31mn[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author:     tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+AuthorDate: Wed Apr 3 15:14:36 2024 +0530[m
+Commit:     tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+CommitDate: Wed Apr 3 15:14:36 2024 +0530[m
+[m
+    Renamed the Readme file and Recorded the session[m
+[m
+[33mcommit 4c918c1137b981ca927988f41f0b844c0ae45fc7[m[m
+Author:     tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+AuthorDate: Wed Apr 3 15:05:54 2024 +0530[m
+Commit:     tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+CommitDate: Wed Apr 3 15:05:54 2024 +0530[m
+[m
+    git status working[m
+[m
+[33mcommit a647855a3310fcd714e25f1ff8cb5bfcef64ae52[m[m
+Author:     tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+AuthorDate: Wed Apr 3 14:26:44 2024 +0530[m
+Commit:     tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+CommitDate: Wed Apr 3 14:26:44 2024 +0530[m
+[m
+    Adding New Readme File[m
+[m
+[33mcommit b2319b3ce5422db1a977bdd5bab36587ac9d023e[m[m
+Author:     tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+AuthorDate: Wed Apr 3 14:10:33 2024 +0530[m
+Commit:     tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+CommitDate: Wed Apr 3 14:10:33 2024 +0530[m
+[m
+    Refreshing the Directory and repository[m
+[m
+:[K[K[K:[K[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log --pre tty=format:[K: "%H - %an, [K[K[K[Kcn, %cd $s"
+[?2004lfatal: ambiguous argument '%H - %cn, %cd ': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log --pretty=format: "%H - %cn, %cd $s"[C[1Ps"%s"
+[?2004lfatal: ambiguous argument '%H - %cn, %cd %s': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log --pretty=format: "%H - %cn, %cd %s"[C[1P[1@:[C[1P
+[?2004l[?1h=f80dce0e10a4327e14280749c8202a9172ac7514 - tigertribe6259, Wed Apr 3 15:1[m 4:36 2024 +0530 Renamed the Readme file and Recorded the session[m
+4c918c1137b981ca927988f41f0b844c0ae45fc7 - tigertribe6259, Wed Apr 3 15:0[m 5:54 2024 +0530 git status working[m
+a647855a3310fcd714e25f1ff8cb5bfcef64ae52 - tigertribe6259, Wed Apr 3 14:2[m 6:44 2024 +0530 Adding New Readme File[m
+b2319b3ce5422db1a977bdd5bab36587ac9d023e - tigertribe6259, Wed Apr 3 14:1[m 0:33 2024 +0530 Refreshing the Directory and repository[m
+353f87fc128456f53589f67cc5a997e04cbcd139 - tigertribe6259, Wed Apr 3 12:3[m 9:56 2024 +0530 2nd commit as part of practice[m
+307d78283a65d0a20f6a1eb5fef9bf744c71104b - tigertribe6259, Wed Apr 3 11:1[m 9:09 2024 +0530 Shell Session Recording 1st Commit[m
+fab7df3910efb5ebc01d10de6e715af094a6eb40 - GitHub, Wed Apr 3 10:37:52 202[m 4 +0530 Creating README.md[m
+[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ [K]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ [K]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log --pre tty=fom[Krmat:"%h %s" --graph
+[?2004l[?1h=* f80dce0 Renamed the Readme file and Recorded the session[m
+* 4c918c1 git status working[m
+* a647855 Adding New Readme File[m
+* b2319b3 Refreshing the Directory and repository[m
+* 353f87f 2nd commit as part of practice[m
+* 307d782 Shell Session Recording 1st Commit[m
+* fab7df3 Creating README.md[m
+[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log --nam e-only
+[?2004l[?1h=[33mcommit f80dce0e10a4327e14280749c8202a9172ac7514[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/mai[m [33m[m[33m[m[1;36m[m[1;32m[m[33m[m[1;31mn[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 15:14:36 2024 +0530[m
+[m
+    Renamed the Readme file and Recorded the session[m
+[m
+.gitignore[m
+M1_A1/my_unix_session[m
+REPO_README.txt[m
+[m
+[33mcommit 4c918c1137b981ca927988f41f0b844c0ae45fc7[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 15:05:54 2024 +0530[m
+[m
+    git status working[m
+[m
+.gitignore[m
+README.txt[m
+[m
+[33mcommit a647855a3310fcd714e25f1ff8cb5bfcef64ae52[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 14:26:44 2024 +0530[m
+[m
+    Adding New Readme File[m
+[m
+M1_A1/my_unix_session[m
+README.txt[m
+[m
+[33mcommit b2319b3ce5422db1a977bdd5bab36587ac9d023e[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 14:10:33 2024 +0530[m
+[m
+:[K[K[K:[K[K:[K[K[7mNo next tag  (press RETURN)[27m[34;1H[K[K:[K[K:[K[K:[K[K[K:[K[K    Refreshing the Directory and repository[m
+[m
+M1_A1/my_unix_session[m
+[m
+[33mcommit 353f87fc128456f53589f67cc5a997e04cbcd139[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 12:39:56 2024 +0530[m
+[m
+    2nd commit as part of practice[m
+[m
+README.md[m
+[m
+[33mcommit 307d78283a65d0a20f6a1eb5fef9bf744c71104b[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 11:19:09 2024 +0530[m
+[m
+    Shell Session Recording 1st Commit[m
+[m
+M1_A1/my_unix_session[m
+[m
+[33mcommit fab7df3910efb5ebc01d10de6e715af094a6eb40[m[m
+Author: tigertribe6259 <165360251+tigertribe6259@users.noreply.github.com[m >[m
+Date:   Wed Apr 3 10:37:52 2024 +0530[m
+[m
+    Creating README.md[m
+    [m
+    Readme file for repository description[m
+[m
+README.md[m
+[7m(END)[27m[K[K[HM[33mcommit b2319b3ce5422db1a977bdd5bab36587ac9d023e[m[m
+[HM[m
+[HMREADME.txt[m
+[HMM1_A1/my_unix_session[m
+[HM[m
+[HM    Adding New Readme File[m
+[HM[m
+[HMDate:   Wed Apr 3 14:26:44 2024 +0530[m
+[HMAuthor: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+[HM[33mcommit a647855a3310fcd714e25f1ff8cb5bfcef64ae52[m[m
+[HM[m
+[HMREADME.txt[m
+[HM.gitignore[m
+[HM[m
+[HM    git status working[m
+[HM[m
+[HMDate:   Wed Apr 3 15:05:54 2024 +0530[m
+[HMAuthor: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+[HM[33mcommit 4c918c1137b981ca927988f41f0b844c0ae45fc7[m[m
+[HM[m
+[HMREPO_README.txt[m
+[HMM1_A1/my_unix_session[m
+[HM.gitignore[m
+[HM[m
+[HM    Renamed the Readme file and Recorded the session[m
+[HM[m
+[HMDate:   Wed Apr 3 15:14:36 2024 +0530[m
+[HMAuthor: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+[HM[33m[m[33m[m[1;36m[m[1;32m[m[33m[m[1;31mn[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+[HM[33mcommit f80dce0e10a4327e14280749c8202a9172ac7514[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/mai[m[34;1H[K:[K[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log --sho rtstat
+[?2004l[?1h=[33mcommit f80dce0e10a4327e14280749c8202a9172ac7514[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/mai[m [33m[m[33m[m[1;36m[m[1;32m[m[33m[m[1;31mn[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 15:14:36 2024 +0530[m
+[m
+    Renamed the Readme file and Recorded the session[m
+[m
+ 3 files changed, 527 insertions(+), 4 deletions(-)[m
+[m
+[33mcommit 4c918c1137b981ca927988f41f0b844c0ae45fc7[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 15:05:54 2024 +0530[m
+[m
+    git status working[m
+[m
+ 2 files changed, 4 insertions(+), 1 deletion(-)[m
+[m
+[33mcommit a647855a3310fcd714e25f1ff8cb5bfcef64ae52[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 14:26:44 2024 +0530[m
+[m
+    Adding New Readme File[m
+[m
+ 2 files changed, 101 insertions(+), 1 deletion(-)[m
+[m
+[33mcommit b2319b3ce5422db1a977bdd5bab36587ac9d023e[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 14:10:33 2024 +0530[m
+[m
+    Refreshing the Directory and repository[m
+[m
+ 1 file changed, 17 insertions(+)[m
+[m
+:[K[K[K:[K[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log --sin ce=2h[K.hours[K[K[K[K[K[K[K"2 hours"
+[?2004l[?1h=[33mcommit f80dce0e10a4327e14280749c8202a9172ac7514[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/mai[m [33m[m[33m[m[1;36m[m[1;32m[m[33m[m[1;31mn[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 15:14:36 2024 +0530[m
+[m
+    Renamed the Readme file and Recorded the session[m
+[m
+[33mcommit 4c918c1137b981ca927988f41f0b844c0ae45fc7[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 15:05:54 2024 +0530[m
+[m
+    git status working[m
+[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log --com mitter="[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K-aut hor="tigertribe6259" -2
+[?2004l[?1h=[33mcommit f80dce0e10a4327e14280749c8202a9172ac7514[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/mai[m [33m[m[33m[m[1;36m[m[1;32m[m[33m[m[1;31mn[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: [1;31mtigertribe6259[m <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 15:14:36 2024 +0530[m
+[m
+    Renamed the Readme file and Recorded the session[m
+[m
+[33mcommit 4c918c1137b981ca927988f41f0b844c0ae45fc7[m[m
+Author: [1;31mtigertribe6259[m <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 15:05:54 2024 +0530[m
+[m
+    git status working[m
+[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log --gre p="refresh" ="refresh"[C[C-="refresh"[C[C[Ci="refresh"[C[C[C[C ="refresh"[C[C[C[C[C[C[C[C[1Pefresh"refresh"
+[?2004lfatal: ambiguous argument '=refresh': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log --grep -i ="refresh"[1P="refresh"[C[C[C[C
+[?2004l[?1h=[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log --grep -i="refresh"[1P="refresh"[C[C[C[1P="refresh"[C[C[1P="refresh"[C
+[?2004l[?1h=[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log --grep="refresh"[1Pefresh"[C[C[CRefresh"[C[C[C[C[C[C[C[C[C[C "&"[1P"*"
+[?2004l[?1h=[33mcommit b2319b3ce5422db1a977bdd5bab36587ac9d023e[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 14:10:33 2024 +0530[m
+[m
+    [1;31mRefresh[ming the Directory and repository[m
+[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log --grep="Refresh *"[1@ [1@-[1@i[1@ [1P[C[C[C[1P[1@r
+[?2004l[?1h=[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log --grep -i="refresh *"[C[1@-[1@w[1@ [C[C[C[1@ [1P[C[1P[1@=[C[1P[C[C[C[C[C[C[C[C[C[C[K[K[K*
+[?2004lfatal: unrecognized argument: -i=refresh*
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log --grep -w -i=refresh*"=refresh*[1P=refresh*[C[C[C[C[C[C[C[C"refresh*[C[C[C[C[C[C[C[C"
+[?2004lfatal: unrecognized argument: -i=refresh*
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log --grep -w -i="refresh*"[1P="refresh*"[C[C[C[C[C[C[1P="refresh*"[C[C[C[C[C[1P="refresh*"[C[C[C[C
+[?2004l[?1h=[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log --grep -w="refresh*"[1Pefresh*"[C[C[C[C[C[CRefresh*"
+[?2004l[?1h=[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log --grep -w="Refresh*"[1P"i"n"g"
+[?2004l[?1h=[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log --grep -w="Refreshing"[1P="Refreshing"[C[C[C[1P="Refreshing"[C[C[1P="Refreshing"[C ="Refreshing"[C[C
+[?2004l[?1h=[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log --grep ="Refreshing"*"
+[?2004l[?1h=[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log --grep ="Refreshing*"[C *"
+[?2004l[?1h=[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log --grep ="Refreshing *"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[1P
+[?2004l[?1h=[33mcommit b2319b3ce5422db1a977bdd5bab36587ac9d023e[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 14:10:33 2024 +0530[m
+[m
+    [1;31mRefreshing [mthe Directory and repository[m
+[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log --grep="Refreshing *"[C[1P"[1P"
+[?2004l[?1h=[33mcommit b2319b3ce5422db1a977bdd5bab36587ac9d023e[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 14:10:33 2024 +0530[m
+[m
+    [1;31mRefreshing[m the Directory and repository[m
+[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ grep log -s[KS:[K=" Refrs[Keshing"
+[?2004lgrep: invalid option -- 'S'
+Usage: grep [OPTION]... PATTERNS [FILE]...
+Try 'grep --help' for more information.
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ grep log -S="Refreshing"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-S="Refreshing"[A]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ [C[C[C[C[C[C[C[C[C[C[C
+
+[?2004lgrep: unrecognized option '--S=Refreshing'
+Usage: grep [OPTION]... PATTERNS [FILE]...
+Try 'grep --help' for more information.
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ grep log --S="Refreshing"[C[C
+[?2004lgrep: unrecognized option '--S=Refreshing'
+Usage: grep [OPTION]... PATTERNS [FILE]...
+Try 'grep --help' for more information.
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log -- [7m/m[27m[7mn[27m[7mt/c/Users/vikram.n/Desktop/TAMLEP[27m[A]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ [C[C[C[C[C[C[C[C[C[C[C/mnt/c/Users/vikram.n/Desktop/TAMLEP/REPO_README.txt
+[?2004l[?1h=[33mcommit f80dce0e10a4327e14280749c8202a9172ac7514[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/mai[m [33m[m[33m[m[1;36m[m[1;32m[m[33m[m[1;31mn[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Wed Apr 3 15:14:36 2024 +0530[m
+[m
+    Renamed the Readme file and Recorded the session[m
+[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ exit
+[?2004lexit
+
+Script done on 2024-04-03 17:04:50+05:30 [COMMAND_EXIT_CODE="0"]
