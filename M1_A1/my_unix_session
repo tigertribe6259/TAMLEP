@@ -4805,3 +4805,277 @@ Date:   Wed Apr 3 15:14:36 2024 +0530[m
 [?2004lexit
 
 Script done on 2024-04-03 17:04:50+05:30 [COMMAND_EXIT_CODE="0"]
+Script started on 2024-04-04 07:50:00+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="201" LINES="34"]
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[00m$ [K]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[00m$ git status
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m../Git Practice.txt[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[00m$ git add Git[K[K[K"git[K[K[KGit Practiv[Kce.txt"
+[?2004lfatal: pathspec 'Git Practice.txt' did not match any files
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP/M1_A1[00m$ cd ..
+[?2004l[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git status
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mGit_Practice.txt[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git add Git_Practice.txt 
+[?2004l[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git staus[K[Ktus
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   Git_Practice.txt[m
+
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git commit
+[?2004lhint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[1;34r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[32;51H(B[0;7m[ Reading... ](B[m[32;50H(B[0;7m[ Read 12 lines ](B[m[H(B[0;7m  GNU nano 6.2                  /mnt/c/Users/vikram.n/Desktop/TAMLEP/.git/COMMIT_EDITMSG                           [1;114H(B[m[33d(B[0;7m^G(B[m Help[33;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut[33;65H(B[0;7m^T(B[m Execute[81G(B[0;7m^C(B[m Location     (B[0;7mM-U(B[m Undo[34d(B[0;7m^X(B[m Exit[34;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste[34;65H(B[0;7m^J(B[m Justify[81G(B[0;7m^/(B[m Go To Line   (B[0;7mM-E(B[m Redo[3d[36m# Please enter the commit message for your changes. Lines starting[4d# with '#' will be ignored, and an empty message aborts the commit.[5d#[6d# Committer: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[7d#[8d# On branch main[9d# Your branch is up to date with 'origin/main'.[10d#[11d# Changes to be committed:[12d#[38;5;208m       [36mnew file:   Git_Practice.txt[13d#[2d[39m(B[m[?12l[?25h[?25l[1;90H(B[0;7m*[114G(B[m[?12l[?25h[2d[36m#[39m(B[m[?25l[?12l[?25h[36mw[39m(B[m[?25l[?12l[?25h[36mi[39m(B[m[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[36mi[39m(B[m[?25l[?12l[?25h[36mg[39m(B[m[?25l[?12l[?25h[36mn[39m(B[m[?25l[?12l[?25h[36mo[39m(B[m[?25l[?12l[?25h[36mr[39m(B[m[?25l[?12l[?25h[36me[39m(B[m[?25l7[3;31r8[3dM[1;34r[3;1H[?12l[?25h[?25l[3;31r[31;1H
+[1;34r[2;8H[?12l[?25h[?25l[?12l[?25h[36mo[39m(B[m[?25l[?12l[?25h [?25l[33;17H            (B[0;7mM-D(B[m DOS Format[14X[33;57H(B[0;7mM-A(B[m Append        [81G    (B[0;7mM-B(B[m Backup File[K[34;2H(B[0;7mC(B[m Cancel[17G            (B[0;7mM-M(B[m Mac Format[49G        (B[0;7mM-P(B[m Prepend       [81G    (B[0;7m^T(B[m Browse[K[32d(B[0;7mFile Name to Write: /mnt/c/Users/vikram.n/Desktop/TAMLEP/.git/COMMIT_EDITMSG                                       [32;77H(B[m[?12l[?25h[?25l[32;50H[1K (B[0;7m[ Writing... ](B[m[K[1;90H(B[0;7m [114G(B[m[32;49H(B[0;7m[ Wrote 12 lines ](B[m[33;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut          (B[0;7m^T(B[m Execute[81G(B[0;7m^C(B[m Location     (B[0;7mM-U(B[m Undo[34;2H(B[0;7mX(B[m Exit  [17G(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste        (B[0;7m^J(B[m Justify[81G(B[0;7m^/(B[m Go To Line   (B[0;7mM-E(B[m Redo[?12l[?25h[2;8H[?25l[32d[J[34d[?12l[?25h[34;1H[?1049l[23;0;0t[?1l>[?2004l[KAborting commit due to empty commit message.
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git commit -m "Undoing the s[KStage"
+[?2004l[main 490d0b1] Undoing the Stage
+ Committer: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+ create mode 100644 Git_Practice.txt
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git commit --amend
+[?2004lhint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[1;34r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[32;51H(B[0;7m[ Reading... ](B[m[32;50H(B[0;7m[ Read 18 lines ](B[m[H(B[0;7m  GNU nano 6.2                  /mnt/c/Users/vikram.n/Desktop/TAMLEP/.git/COMMIT_EDITMSG                           [1;114H(B[m[33d(B[0;7m^G(B[m Help[33;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut[33;65H(B[0;7m^T(B[m Execute[81G(B[0;7m^C(B[m Location     (B[0;7mM-U(B[m Undo[34d(B[0;7m^X(B[m Exit[34;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste[34;65H(B[0;7m^J(B[m Justify[81G(B[0;7m^/(B[m Go To Line   (B[0;7mM-E(B[m Redo[2dUndoing the Stage[4d[36m# Please enter the commit message for your changes. Lines starting[5d# with '#' will be ignored, and an empty message aborts the commit.[6d#[7d# Date:      Thu Apr 4 07:53:53 2024 +0530[8d# Committer: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[9d#[10d# On branch main[11d# Your branch is ahead of 'origin/main' by 1 commit.[12d#   (use "git push" to publish your local commits)[13d#[14d# Changes to be committed:[15d#[38;5;208m       [36mnew file:   Git_Practice.txt[16d#[17d# Changes not staged for commit:[18d#[38;5;208m       [36mmodified:   M1_A1/my_unix_session[19d#[2d[39m(B[m[?12l[?25h[?25l[?12l[?25hU[?25l[?12l[?25hn[?25l[?12l[?25hd[?25l[?12l[?25ho[?25l[?12l[?25hi[?25l[?12l[?25hn[?25l[?12l[?25hg[?25l[?12l[?25h [?25l[?12l[?25ht[?25l[?12l[?25hh[?25l[?12l[?25he[?25l[?12l[?25h [?25l[?12l[?25hS[?25l[?12l[?25ht[?25l[?12l[?25ha[?25l[?12l[?25hg[?25l[?12l[?25he[?25l[1;90H(B[0;7m*[114G(B[m[?12l[?25h[2;17H [?25l[?12l[?25h [?25l[32d[K[?12l[?25h[2;15H [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[?12l[?25hC[?25l[?12l[?25hh[?25l[?12l[?25ha[?25l[?12l[?25hn[?25l[?12l[?25hg[?25l[?12l[?25hi[?25l[?12l[?25hn[?25l[?12l[?25hg[?25l[?12l[?25h [?25l[?12l[?25ht[?25l[?12l[?25hh[?25l[?12l[?25he[?25l[?12l[?25h [?25l[?12l[?25hC[?25l[?12l[?25ho[?25l[?12l[?25hm[?25l[?12l[?25hm[?25l[?12l[?25hi[?25l[?12l[?25ht[?25l[?12l[?25h [?25l[?12l[?25hM[?25l[?12l[?25he[?25l[?12l[?25hs[?25l[?12l[?25hs[?25l[?12l[?25ha[?25l[?12l[?25hg[?25l[?12l[?25he[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[?12l[?25hC[?25l[?12l[?25hh[?25l[?12l[?25ha[?25l[?12l[?25hn[?25l[?12l[?25hg[?25l[?12l[?25hi[?25l[?12l[?25hn[?25l[?12l[?25hg[?25l[?12l[?25h [?25l[?12l[?25ht[?25l[?12l[?25hh[?25l[?12l[?25he[?25l[?12l[?25h [?25l[?12l[?25hc[?25l[?12l[?25ho[?25l[?12l[?25hm[?25l[?12l[?25hm[?25l[?12l[?25hi[?25l[?12l[?25ht[?25l[?12l[?25h [?25l[?12l[?25hm[?25l[?12l[?25he[?25l[?12l[?25hs[?25l[?12l[?25hs[?25l[?12l[?25ha[?25l[?12l[?25hg[?25l[?12l[?25he[?25l[33;17H            (B[0;7mM-D(B[m DOS Format[14X[33;57H(B[0;7mM-A(B[m Append        [81G    (B[0;7mM-B(B[m Backup File[K[34;2H(B[0;7mC(B[m Cancel[17G            (B[0;7mM-M(B[m Mac Format[49G        (B[0;7mM-P(B[m Prepend       [81G    (B[0;7m^T(B[m Browse[K[32d(B[0;7mFile Name to Write: /mnt/c/Users/vikram.n/Desktop/TAMLEP/.git/COMMIT_EDITMSG                                       [32;77H(B[m[?12l[?25h[?25l[32;50H[1K (B[0;7m[ Writing... ](B[m[K[1;90H(B[0;7m [114G(B[m[32;49H(B[0;7m[ Wrote 18 lines ](B[m[33;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut          (B[0;7m^T(B[m Execute[81G(B[0;7m^C(B[m Location     (B[0;7mM-U(B[m Undo[34;2H(B[0;7mX(B[m Exit  [17G(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste        (B[0;7m^J(B[m Justify[81G(B[0;7m^/(B[m Go To Line   (B[0;7mM-E(B[m Redo[?12l[?25h[2;28H[?25l[32d[J[34d[?12l[?25h[34;1H[?1049l[23;0;0t[?1l>[?2004l[K[main cc94d6d] Changing the commit message
+ Date: Thu Apr 4 07:53:53 2024 +0530
+ Committer: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+ create mode 100644 Git_Practice.txt
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ Nano Git_Practice.txt 
+[?2004lCommand 'Nano' not found, did you mean:
+  command 'nano' from deb nano (6.2-1)
+Try: sudo apt install <deb name>
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ nano git[K[K[KGit_Practice.txt 
+[?2004l[?2004h[?1049h[22;0;0t[1;34r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[32;51H(B[0;7m[ Reading... ](B[m[32;57H(B[0;7m 1 line ](B[m[H(B[0;7m  GNU nano 6.2                                      Git_Practice.txt                                               [1;114H(B[m[33d(B[0;7m^G(B[m Help[33;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut[33;65H(B[0;7m^T(B[m Execute[81G(B[0;7m^C(B[m Location     (B[0;7mM-U(B[m Undo[34d(B[0;7m^X(B[m Exit[34;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste[34;65H(B[0;7m^J(B[m Justify[81G(B[0;7m^/(B[m Go To Line   (B[0;7mM-E(B[m Redo[2dText Document to Practice Git Commands[?12l[?25h[?25l[1;70H(B[0;7m*[114G(B[m[?12l[?25h[2dDText Document to Practice Git CommandsD[?25l[?12l[?25huText Document to Practice Git CommandsDu[?25l[?12l[?25hmText Document to Practice Git CommandsDum[?25l[?12l[?25hmmText Document to Practice Git Commands[5G[?25l[?12l[?25hyText Document to Practice Git Commands[6G[?25l[?12l[?25h Text Document to Practice Git Commands[7G[?25l[?12l[?25hT[?25l[?12l[?25h[1P[?25l[?12l[?25htext Document to Practice Git Commands[8G[?25l[33;17H            (B[0;7mM-D(B[m DOS Format[14X[33;57H(B[0;7mM-A(B[m Append        [81G    (B[0;7mM-B(B[m Backup File[K[34;2H(B[0;7mC(B[m Cancel[17G            (B[0;7mM-M(B[m Mac Format[49G        (B[0;7mM-P(B[m Prepend       [81G    (B[0;7m^T(B[m Browse[K[32d(B[0;7mFile Name to Write: Git_Practice.txt                                                                               [32;37H(B[m[?12l[?25h[?25l[32;50H[1K (B[0;7m[ Writing... ](B[m[K[1;70H(B[0;7m [114G(B[m[32;50H(B[0;7m[ Wrote 1 line ](B[m[33;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut          (B[0;7m^T(B[m Execute[81G(B[0;7m^C(B[m Location     (B[0;7mM-U(B[m Undo[34;2H(B[0;7mX(B[m Exit  [17G(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste        (B[0;7m^J(B[m Justify[81G(B[0;7m^/(B[m Go To Line   (B[0;7mM-E(B[m Redo[?12l[?25h[2;8H[?25l[32d[J[34d[?12l[?25h[34;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git commit --ammend[K[K[K[Kend
+[?2004lhint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[1;34r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[32;51H(B[0;7m[ Reading... ](B[m[32;50H(B[0;7m[ Read 19 lines ](B[m[H(B[0;7m  GNU nano 6.2                  /mnt/c/Users/vikram.n/Desktop/TAMLEP/.git/COMMIT_EDITMSG                           [1;114H(B[m[33d(B[0;7m^G(B[m Help[33;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut[33;65H(B[0;7m^T(B[m Execute[81G(B[0;7m^C(B[m Location     (B[0;7mM-U(B[m Undo[34d(B[0;7m^X(B[m Exit[34;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste[34;65H(B[0;7m^J(B[m Justify[81G(B[0;7m^/(B[m Go To Line   (B[0;7mM-E(B[m Redo[2dChanging the commit message[4d[36m# Please enter the commit message for your changes. Lines starting[5d# with '#' will be ignored, and an empty message aborts the commit.[6d#[7d# Date:      Thu Apr 4 07:53:53 2024 +0530[8d# Committer: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[9d#[10d# On branch main[11d# Your branch is ahead of 'origin/main' by 1 commit.[12d#   (use "git push" to publish your local commits)[13d#[14d# Changes to be committed:[15d#[38;5;208m       [36mnew file:   Git_Practice.txt[16d#[17d# Changes not staged for commit:[18d#[38;5;208m       [36mmodified:   Git_Practice.txt[19d#[38;5;208m       [36mmodified:   M1_A1/my_unix_session[20d#[2d[39m(B[m[?12l[?25h[?25l[33;17H            (B[0;7mM-D(B[m DOS Format[14X[33;57H(B[0;7mM-A(B[m Append        [81G    (B[0;7mM-B(B[m Backup File[K[34;2H(B[0;7mC(B[m Cancel[17G            (B[0;7mM-M(B[m Mac Format[49G        (B[0;7mM-P(B[m Prepend       [81G    (B[0;7m^T(B[m Browse[K[32d(B[0;7mFile Name to Write: /mnt/c/Users/vikram.n/Desktop/TAMLEP/.git/COMMIT_EDITMSG                                       [32;77H(B[m[?12l[?25h[?25l[32;50H[1K (B[0;7m[ Writing... ](B[m[K[1;114H[32;49H(B[0;7m[ Wrote 19 lines ](B[m[33;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut          (B[0;7m^T(B[m Execute[81G(B[0;7m^C(B[m Location     (B[0;7mM-U(B[m Undo[34;2H(B[0;7mX(B[m Exit  [17G(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste        (B[0;7m^J(B[m Justify[81G(B[0;7m^/(B[m Go To Line   (B[0;7mM-E(B[m Redo[?12l[?25h[2d[?25l[32d[J[34d[?12l[?25h[34;1H[?1049l[23;0;0t[?1l>[?2004l[K[main 497311b] Changing the commit message
+ Date: Thu Apr 4 07:53:53 2024 +0530
+ Committer: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+ create mode 100644 Git_Practice.txt
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git status
+[?2004lOn branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   Git_Practice.txt[m
+	[31mmodified:   M1_A1/my_unix_session[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git [K[K[K[Kgit add Git_Practice.txt 
+[?2004l[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git status
+[?2004lOn branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   Git_Practice.txt[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   M1_A1/my_unix_session[m
+
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ gti [K[K[Kit add M1_A1/my_unix_session 
+[?2004l[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git stauts
+[?2004lgit: 'stauts' is not a git command. See 'git --help'.
+
+The most similar command is
+	status
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git status
+[?2004lOn branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   Git_Practice.txt[m
+	[32mmodified:   M1_A1/my_unix_session[m
+
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git restore --stg[Kaged Git_Practice.txt m1[K[KM1_A1/my_unix_session
+[?2004l[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git stauts
+[?2004lgit: 'stauts' is not a git command. See 'git --help'.
+
+The most similar command is
+	status
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git stauts[K[K[Ktus
+[?2004lOn branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   Git_Practice.txt[m
+	[31mmodified:   M1_A1/my_unix_session[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git restore Git_Practice.txt
+[?2004l[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git status
+[?2004lOn branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   M1_A1/my_unix_session[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git remote
+[?2004lorigin
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git remote -v
+[?2004lorigin	git@github.com:tigertribe6259/TAMLEP.git (fetch)
+origin	git@github.com:tigertribe6259/TAMLEP.git (push)
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ cd grit
+[?2004lbash: cd: grit: No such file or directory
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git remote add test [K[K[K[K[Ktest[K[K[K[Ktest[K[K[K[Ktr[Kest [7mhttps://github.com/tigertribe6259/T[27m[7mA[27m[7mMLEP.git[27m[A]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/tigertribe6259/TAMLEP.git[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP ractive[K[Kce_repo
+[?2004l[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git remote
+[?2004lorigin
+test
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git remote -c[Kv
+[?2004lorigin	git@github.com:tigertribe6259/TAMLEP.git (fetch)
+origin	git@github.com:tigertribe6259/TAMLEP.git (push)
+test	https://github.com/tigertribe6259/Practice_repo (fetch)
+test	https://github.com/tigertribe6259/Practice_repo (push)
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git fetch tets[K[Kst
+[?2004lUsername for 'https://github.com': tigertriv be6259
+Password for 'https://tigertribe6259@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/tigertribe6259/Practice_repo/'
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git fetch origin
+[?2004lremote: Enumerating objects: 4, done.[K
+remote: Counting objects:  25% (1/4)[Kremote: Counting objects:  50% (2/4)[Kremote: Counting objects:  75% (3/4)[Kremote: Counting objects: 100% (4/4)[Kremote: Counting objects: 100% (4/4), done.[K
+remote: Compressing objects:  33% (1/3)[Kremote: Compressing objects:  66% (2/3)[Kremote: Compressing objects: 100% (3/3)[Kremote: Compressing objects: 100% (3/3), done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)Unpacking objects:  66% (2/3)Unpacking objects: 100% (3/3)Unpacking objects: 100% (3/3), 1.00 KiB | 12.00 KiB/s, done.
+From github.com:tigertribe6259/TAMLEP
+   3c3c614..da29bba  main       -> origin/main
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git status
+[?2004lOn branch main
+Your branch and 'origin/main' have diverged,
+and have 1 and 1 different commits each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   M1_A1/my_unix_session[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git pull
+[?2004l[33mhint: You have divergent branches and need to specify how to reconcile them.[m
+[33mhint: You can do so by running one of the following commands sometime before[m
+[33mhint: your next pull:[m
+[33mhint: [m
+[33mhint:   git config pull.rebase false  # merge (the default strategy)[m
+[33mhint:   git config pull.rebase true   # rebase[m
+[33mhint:   git config pull.ff only       # fast-forward only[m
+[33mhint: [m
+[33mhint: You can replace "git config" with "git config --global" to set a default[m
+[33mhint: preference for all repositories. You can also pass --rebase, --no-rebase,[m
+[33mhint: or --ff-only on the command line to override the configured default per[m
+[33mhint: invocation.[m
+fatal: Need to specify how to reconcile divergent branches.
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git config pull.rebase false
+[?2004l[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git staus
+[?2004lgit: 'staus' is not a git command. See 'git --help'.
+
+The most similar command is
+	status
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ f[Kgit status
+[?2004lOn branch main
+Your branch and 'origin/main' have diverged,
+and have 1 and 1 different commits each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   M1_A1/my_unix_session[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git pull
+[?2004lhint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[1;34r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[32;51H(B[0;7m[ Reading... ](B[m[32;50H(B[0;7m[ Read 6 lines ](B[m[H(B[0;7m  GNU nano 6.2                    /mnt/c/Users/vikram.n/Desktop/TAMLEP/.git/MERGE_MSG                              [1;114H(B[m[33d(B[0;7m^G(B[m Help[33;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut[33;65H(B[0;7m^T(B[m Execute[81G(B[0;7m^C(B[m Location     (B[0;7mM-U(B[m Undo[34d(B[0;7m^X(B[m Exit[34;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste[34;65H(B[0;7m^J(B[m Justify[81G(B[0;7m^/(B[m Go To Line   (B[0;7mM-E(B[m Redo[2dMerge branch 'main' of github.com:tigertribe6259/TAMLEP[3d[36m# Please enter a commit message to explain why this merge is necessary,[4d# especially if it merges an updated upstream into a topic branch.[5d#[6d# Lines starting with '#' will be ignored, and an empty message aborts[7d# the commit.[2d[39m(B[m[?12l[?25h[?25l[33;17H            (B[0;7mM-D(B[m DOS Format[14X[33;57H(B[0;7mM-A(B[m Append        [81G    (B[0;7mM-B(B[m Backup File[K[34;2H(B[0;7mC(B[m Cancel[17G            (B[0;7mM-M(B[m Mac Format[49G        (B[0;7mM-P(B[m Prepend       [81G    (B[0;7m^T(B[m Browse[K[32d(B[0;7mFile Name to Write: /mnt/c/Users/vikram.n/Desktop/TAMLEP/.git/MERGE_MSG                                            [32;72H(B[m[?12l[?25h[?25l[32;50H[1K (B[0;7m[ Writing... ](B[m[K[1;114H[32;50H(B[0;7m[ Wrote 6 lines ](B[m[33;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut          (B[0;7m^T(B[m Execute[81G(B[0;7m^C(B[m Location     (B[0;7mM-U(B[m Undo[34;2H(B[0;7mX(B[m Exit  [17G(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste        (B[0;7m^J(B[m Justify[81G(B[0;7m^/(B[m Go To Line   (B[0;7mM-E(B[m Redo[?12l[?25h[2d[?25l[32d[J[34d[?12l[?25h[34;1H[?1049l[23;0;0t[?1l>[?2004l[KMerge made by the 'ort' strategy.
+
+ Fetch Practice.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+ create mode 100644 Fetch Practice.txt
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ 
+[?2004l[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git remote show origin
+[?2004l* remote origin
+  Fetch URL: git@github.com:tigertribe6259/TAMLEP.git
+  Push  URL: git@github.com:tigertribe6259/TAMLEP.git
+  HEAD branch: main
+  Remote branch:
+    main tracked
+  Local branch configured for 'git pull':
+    main merges with remote main
+  Local ref configured for 'git push':
+    main pushes to main (fast-forwardable)
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git remote rename test del
+[?2004l[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ gti [K[K[Kit remote -v
+[?2004l^[[Ddel	https://github.com/tigertribe6259/Practice_repo (fetch)
+del	https://github.com/tigertribe6259/Practice_repo (push)
+origin	git@github.com:tigertribe6259/TAMLEP.git (fetch)
+origin	git@github.com:tigertribe6259/TAMLEP.git (push)
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git remote -v
+[?2004ldel	https://github.com/tigertribe6259/Practice_repo (fetch)
+del	https://github.com/tigertribe6259/Practice_repo (push)
+origin	git@github.com:tigertribe6259/TAMLEP.git (fetch)
+origin	git@github.com:tigertribe6259/TAMLEP.git (push)
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git remote remove del
+[?2004l[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git remote remove del-v[K
+[?2004lorigin	git@github.com:tigertribe6259/TAMLEP.git (fetch)
+origin	git@github.com:tigertribe6259/TAMLEP.git (push)
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ exit
+[?2004lexit
+
+Script done on 2024-04-04 08:53:31+05:30 [COMMAND_EXIT_CODE="0"]
