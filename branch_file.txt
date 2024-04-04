@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-File created as part of Matser branch
-=======
 New File for the Branch Testing
->>>>>>> testing
-=======
-New File for the Branch Testing
->>>>>>> testing
+
