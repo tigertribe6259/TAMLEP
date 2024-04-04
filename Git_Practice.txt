@@ -1,2 +1,6 @@
 Text Document to Practice Git Commands
+<<<<<<< HEAD
 Modifiying the file with Hotfix branch
+=======
+Editing as part of Branching and merging work after hotfix branch
+>>>>>>> testing
