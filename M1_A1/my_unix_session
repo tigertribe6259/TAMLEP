@@ -5543,3 +5543,6386 @@ origin	git@github.com:tigertribe6259/TAMLEP.git (push)
 [?2004lexit
 
 Script done on 2024-04-05 13:22:16+05:30 [COMMAND_EXIT_CODE="0"]
+Script started on 2024-04-05 15:02:20+05:30 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="173" LINES="34"]
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ cd ~
+[?2004l[?2004h]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ pws[Kd
+[?2004l/home/vikram6259
+[?2004h]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ [K]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ cd miniconda3/[K[K[K[K[K[K[K[K[K[K[K[K[K[Krm miniconda3/[K[K[K[K[K[K[K[K[K[K[K[K[K[Kmkdir -=[Kpm [K[K `[K~/minid[Kconda3
+[?2004l[?2004h]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ [7mwget https://repo.anaconda.com/miniconda/Miniconda3-latest-Lin[27m[7mu[27m[7mx-x86_64.sh -O ~/miniconda3/miniconda.sh[27m[Awget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/miniconda.sh
+[?2004l--2024-04-05 15:04:17--  https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+Resolving repo.anaconda.com (repo.anaconda.com)... 104.16.131.3, 104.16.130.3, 2606:4700:83b3:2d92:61dd:d5:6810:8203
+Connecting to repo.anaconda.com (repo.anaconda.com)|104.16.131.3|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 144041912 (137M) [application/octet-stream]
+Saving to: ‘/home/vikram6259/miniconda3/miniconda.sh’
+
+           /home/vikr   0%[                         ]       0  --.-KB/s                         /home/vikra   0%[                         ]   1.15M  5.70MB/s                        /home/vikram   4%[>                        ]   6.69M  16.7MB/s                       /home/vikram6   5%[>                        ]   7.76M  12.4MB/s                      /home/vikram62  10%[=>                       ]  13.97M  17.0MB/s                     /home/vikram625  11%[=>                       ]  16.38M  16.0MB/s                    /home/vikram6259  14%[==>                      ]  20.54M  15.8MB/s                   /home/vikram6259/  19%[===>                     ]  26.55M  17.7MB/s                  /home/vikram6259/m  21%[====>                    ]  30.08M  17.7MB/s                 /home/vikram6259/mi  24%[=====>                   ]  34.04M  17.9MB/s                /home/vikram6259/min  26%[=====>                   ]  36.51M  17.0MB/s               /home/vikram6259/mini  30%[======>                  ]  42.48M  18.1MB/s               home/vikram6259/minic  33%[=======>                 ]  46.23M  18.1MB/s               ome/vikram6259/minico  35%[=======>                 ]  48.44M  17.6MB/s               me/vikram6259/minicon  38%[========>                ]  53.13M  18.0MB/s               e/vikram6259/minicond  41%[=========>               ]  57.33M  18.2MB/s    eta 4s     /vikram6259/miniconda  44%[==========>              ]  61.20M  18.9MB/s    eta 4s     vikram6259/miniconda3  47%[==========>              ]  64.94M  18.7MB/s    eta 4s     ikram6259/miniconda3/  50%[===========>             ]  68.69M  19.2MB/s    eta 4s     kram6259/miniconda3/m  52%[============>            ]  72.42M  18.6MB/s    eta 4s     ram6259/miniconda3/mi  55%[============>            ]  76.16M  19.2MB/s    eta 3s     am6259/miniconda3/min  58%[=============>           ]  79.91M  18.6MB/s    eta 3s     m6259/miniconda3/mini  60%[==============>          ]  83.66M  18.6MB/s    eta 3s     6259/miniconda3/minic  63%[==============>          ]  87.40M  19.4MB/s    eta 3s     259/miniconda3/minico  66%[===============>         ]  91.13M  18.6MB/s    eta 3s     59/miniconda3/minicon  69%[================>        ]  94.87M  19.4MB/s    eta 2s     9/miniconda3/minicond  71%[================>        ]  98.62M  18.6MB/s    eta 2s     /miniconda3/miniconda  74%[=================>       ] 102.35M  18.6MB/s    eta 2s     miniconda3/miniconda.  77%[==================>      ] 106.10M  19.2MB/s    eta 2s     iniconda3/miniconda.s  79%[==================>      ] 109.83M  18.9MB/s    eta 2s     niconda3/miniconda.sh  82%[===================>     ] 113.58M  18.8MB/s    eta 1s     iconda3/miniconda.sh   85%[====================>    ] 117.32M  18.6MB/s    eta 1s     conda3/miniconda.sh    88%[=====================>   ] 121.05M  18.6MB/s    eta 1s     onda3/miniconda.sh     90%[=====================>   ] 124.79M  18.6MB/s    eta 1s     nda3/miniconda.sh      93%[======================>  ] 128.51M  18.6MB/s    eta 1s     da3/miniconda.sh       96%[=======================> ] 132.26M  18.6MB/s    eta 0s     a3/miniconda.sh        99%[=======================> ] 136.00M  18.6MB/s    eta 0s     /home/vikram6259/mini 100%[========================>] 137.37M  18.6MB/s    in 7.4s    
+
+2024-04-05 15:04:25 (18.5 MB/s) - ‘/home/vikram6259/miniconda3/miniconda.sh’ saved [144041912/144041912]
+
+[?2004h]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ a[Kbash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3/[K
+[?2004lPREFIX=/home/vikram6259/miniconda3
+Unpacking payload ...
+  0%|                                                           | 0/73 [00:00<?, ?it/s]Extracting : conda-package-handling-2.2.0-py312h06a4308_0.conda:   0%| | 0/73 [00:00<?,Extracting : conda-package-streaming-0.9.0-py312h06a4308_0.conda:   1%| | 1/73 [00:00<0Extracting : libcurl-8.5.0-h251f7ec_0.conda:   3%|▏     | 2/73 [00:00<00:01, 55.08it/s]Extracting : tqdm-4.65.0-py312he106c6f_0.conda:   4%|   | 3/73 [00:00<00:01, 44.89it/s]Extracting : ruamel.yaml-0.17.21-py312h5eee18b_0.conda:   5%| | 4/73 [00:00<00:01, 59.6Extracting : libev-4.33-h7f8727e_1.conda:   7%|▌        | 5/73 [00:00<00:00, 74.23it/s]Extracting : libuuid-1.41.5-h5eee18b_0.conda:   8%|▍    | 6/73 [00:00<00:00, 88.87it/s]Extracting : pycparser-2.21-pyhd3eb1b0_0.conda:  10%|▏ | 7/73 [00:00<00:00, 103.53it/s]Extracting : idna-3.4-py312h06a4308_0.conda:  11%|▌    | 8/73 [00:00<00:00, 106.79it/s]Extracting : tk-8.6.12-h1ccaba5_0.conda:  12%|█▏        | 9/73 [00:00<00:01, 39.98it/s]Extracting : tk-8.6.12-h1ccaba5_0.conda:  14%|█▏       | 10/73 [00:00<00:01, 44.35it/s]Extracting : archspec-0.2.1-pyhd3eb1b0_0.conda:  14%|▎ | 10/73 [00:00<00:01, 44.35it/s]Extracting : libsolv-0.7.24-he621ea3_0.conda:  15%|▌   | 11/73 [00:00<00:01, 44.35it/s]Extracting : pybind11-abi-4-hd3eb1b0_1.conda:  16%|▋   | 12/73 [00:00<00:01, 44.35it/s]Extracting : pcre2-10.42-hebb0a14_0.conda:  18%|█▏     | 13/73 [00:00<00:01, 44.35it/s]Extracting : readline-8.2-h5eee18b_0.conda:  19%|█▏    | 14/73 [00:00<00:01, 44.35it/s]Extracting : tzdata-2023d-h04d1e81_0.conda:  21%|█▏    | 15/73 [00:00<00:01, 44.35it/s]Extracting : cryptography-41.0.7-py312hdda0065_0.conda:  22%|▏| 16/73 [00:00<00:01, 44.Extracting : xz-5.4.5-h5eee18b_0.conda:  23%|██▎       | 17/73 [00:00<00:01, 44.35it/s]Extracting : xz-5.4.5-h5eee18b_0.conda:  25%|██▍       | 18/73 [00:00<00:00, 56.75it/s]Extracting : python-3.12.1-h996f2a0_0.conda:  25%|█▏   | 18/73 [00:01<00:00, 56.75it/s]Extracting : icu-73.1-h6a678d5_0.conda:  26%|██▌       | 19/73 [00:01<00:00, 56.75it/s]Extracting : libgomp-11.2.0-h1234567_1.conda:  27%|█   | 20/73 [00:01<00:00, 56.75it/s]Extracting : ca-certificates-2023.12.12-h06a4308_0.conda:  29%|▎| 21/73 [00:01<00:00, 5Extracting : sqlite-3.41.2-h5eee18b_0.conda:  30%|█▌   | 22/73 [00:01<00:00, 56.75it/s]Extracting : ld_impl_linux-64-2.38-h1181459_1.conda:  32%|▎| 23/73 [00:01<00:00, 56.75iExtracting : libnghttp2-1.57.0-h2d74bed_0.conda:  33%|▎| 24/73 [00:01<00:00, 56.75it/s]Extracting : libnghttp2-1.57.0-h2d74bed_0.conda:  34%|▎| 25/73 [00:01<00:03, 15.26it/s]Extracting : reproc-cpp-14.2.4-h295c915_1.conda:  34%|▎| 25/73 [00:01<00:03, 15.26it/s]Extracting : requests-2.31.0-py312h06a4308_1.conda:  36%|▎| 26/73 [00:01<00:03, 15.26itExtracting : zstd-1.5.5-hc292b87_0.conda:  37%|██▉     | 27/73 [00:01<00:03, 15.26it/s]Extracting : wheel-0.41.2-py312h06a4308_0.conda:  38%|▍| 28/73 [00:01<00:02, 15.26it/s]Extracting : yaml-cpp-0.8.0-h6a678d5_0.conda:  40%|█▌  | 29/73 [00:01<00:02, 15.26it/s]Extracting : fmt-9.1.0-hdb19cb5_0.conda:  41%|███▋     | 30/73 [00:01<00:02, 15.26it/s]Extracting : reproc-14.2.4-h295c915_1.conda:  42%|██   | 31/73 [00:01<00:02, 15.26it/s]Extracting : platformdirs-3.10.0-py312h06a4308_0.conda:  44%|▍| 32/73 [00:01<00:02, 15.Extracting : packaging-23.1-py312h06a4308_0.conda:  45%|▍| 33/73 [00:01<00:02, 15.26it/Extracting : _openmp_mutex-5.1-1_gnu.conda:  47%|██▊   | 34/73 [00:01<00:02, 15.26it/s]Extracting : menuinst-2.0.2-py312h06a4308_0.conda:  48%|▍| 35/73 [00:01<00:02, 15.26it/Extracting : openssl-3.0.13-h7f8727e_0.conda:  49%|█▉  | 36/73 [00:01<00:02, 15.26it/s]Extracting : pysocks-1.7.1-py312h06a4308_0.conda:  51%|▌| 37/73 [00:01<00:02, 15.26it/sExtracting : pluggy-1.0.0-py312h06a4308_1.conda:  52%|▌| 38/73 [00:01<00:02, 15.26it/s]Extracting : c-ares-1.19.1-h5eee18b_0.conda:  53%|██▋  | 39/73 [00:01<00:02, 15.26it/s]Extracting : certifi-2024.2.2-py312h06a4308_0.conda:  55%|▌| 40/73 [00:01<00:02, 15.26iExtracting : pip-23.3.1-py312h06a4308_0.conda:  56%|█▋ | 41/73 [00:01<00:02, 15.26it/s]Extracting : libedit-3.1.20230828-h5eee18b_0.conda:  58%|▌| 42/73 [00:01<00:02, 15.26itExtracting : cffi-1.16.0-py312h5eee18b_0.conda:  59%|█▏| 43/73 [00:01<00:01, 15.26it/s]Extracting : _libgcc_mutex-0.1-main.conda:  60%|████▏  | 44/73 [00:01<00:01, 15.26it/s]Extracting : libstdcxx-ng-11.2.0-h1234567_1.conda:  62%|▌| 45/73 [00:01<00:01, 15.26it/Extracting : distro-1.8.0-py312h06a4308_0.conda:  63%|▋| 46/73 [00:01<00:01, 15.26it/s]Extracting : zstandard-0.19.0-py312h5eee18b_0.conda:  64%|▋| 47/73 [00:01<00:01, 15.26iExtracting : charset-normalizer-2.0.4-pyhd3eb1b0_0.conda:  66%|▋| 48/73 [00:01<00:01, 1Extracting : jsonpointer-2.1-pyhd3eb1b0_0.conda:  67%|▋| 49/73 [00:01<00:01, 15.26it/s]Extracting : expat-2.5.0-h6a678d5_0.conda:  68%|████▊  | 50/73 [00:01<00:01, 15.26it/s]Extracting : jsonpatch-1.32-pyhd3eb1b0_0.conda:  70%|█▍| 51/73 [00:01<00:01, 15.26it/s]Extracting : conda-content-trust-0.2.0-py312h06a4308_0.conda:  71%|▋| 52/73 [00:01<00:0Extracting : conda-24.1.2-py312h06a4308_0.conda:  73%|▋| 53/73 [00:01<00:01, 15.26it/s]Extracting : libxml2-2.10.4-hf1b16e4_1.conda:  74%|██▉ | 54/73 [00:01<00:01, 15.26it/s]Extracting : krb5-1.20.1-h143b758_1.conda:  75%|█████▎ | 55/73 [00:01<00:01, 15.26it/s]Extracting : pycosat-0.6.6-py312h5eee18b_0.conda:  77%|▊| 56/73 [00:01<00:01, 15.26it/sExtracting : urllib3-2.1.0-py312h06a4308_1.conda:  78%|▊| 57/73 [00:01<00:01, 15.26it/sExtracting : brotli-python-1.0.9-py312h6a678d5_7.conda:  79%|▊| 58/73 [00:01<00:00, 15.Extracting : libmambapy-1.5.3-py312h2dafd23_0.conda:  81%|▊| 59/73 [00:01<00:00, 15.26iExtracting : libffi-3.4.4-h6a678d5_0.conda:  82%|████▉ | 60/73 [00:01<00:00, 15.26it/s]Extracting : libssh2-1.10.0-hdbd6064_2.conda:  84%|███▎| 61/73 [00:01<00:00, 15.26it/s]Extracting : zlib-1.2.13-h5eee18b_0.conda:  85%|█████▉ | 62/73 [00:01<00:00, 15.26it/s]Extracting : libgcc-ng-11.2.0-h1234567_1.conda:  86%|█▋| 63/73 [00:01<00:00, 15.26it/s]Extracting : bzip2-1.0.8-h7b6447c_0.conda:  88%|██████▏| 64/73 [00:01<00:00, 15.26it/s]Extracting : truststore-0.8.0-py312h06a4308_0.conda:  89%|▉| 65/73 [00:01<00:00, 15.26iExtracting : lz4-c-1.9.4-h6a678d5_0.conda:  90%|██████▎| 66/73 [00:01<00:00, 15.26it/s]Extracting : setuptools-68.2.2-py312h06a4308_0.conda:  92%|▉| 67/73 [00:01<00:00, 15.26Extracting : setuptools-68.2.2-py312h06a4308_0.conda:  93%|▉| 68/73 [00:01<00:00, 56.99Extracting : boltons-23.0.0-py312h06a4308_0.conda:  93%|▉| 68/73 [00:01<00:00, 56.99it/Extracting : libarchive-3.6.2-h6ac8c49_2.conda:  95%|█▉| 69/73 [00:01<00:00, 56.99it/s]Extracting : ncurses-6.4-h6a678d5_0.conda:  96%|██████▋| 70/73 [00:01<00:00, 56.99it/s]Extracting : conda-libmamba-solver-23.12.0-pyhd3eb1b0_1.conda:  97%|▉| 71/73 [00:01<00:Extracting : libmamba-1.5.3-haf1ee3a_0.conda:  99%|███▉| 72/73 [00:01<00:00, 56.99it/s]                                                                                       
+Installing base environment...
+
+
+Downloading and Extracting Packages:
+
+Preparing transaction: - done
+Executing transaction: | done
+installation finished.
+[?2004h]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ rm -rf ~/miniconda3/miniconda.sh [K
+[?2004l[?2004h]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ `[K~/miniconda3/bin/conda init bash
+[?2004lno change     /home/vikram6259/miniconda3/condabin/conda
+no change     /home/vikram6259/miniconda3/bin/conda
+no change     /home/vikram6259/miniconda3/bin/conda-env
+no change     /home/vikram6259/miniconda3/bin/activate
+no change     /home/vikram6259/miniconda3/bin/deactivate
+no change     /home/vikram6259/miniconda3/etc/profile.d/conda.sh
+no change     /home/vikram6259/miniconda3/etc/fish/conf.d/conda.fish
+no change     /home/vikram6259/miniconda3/shell/condabin/Conda.psm1
+no change     /home/vikram6259/miniconda3/shell/condabin/conda-hook.ps1
+no change     /home/vikram6259/miniconda3/lib/python3.12/site-packages/xontrib/conda.xsh
+no change     /home/vikram6259/miniconda3/etc/profile.d/conda.csh
+modified      /home/vikram6259/.bashrc
+
+==> For changes to take effect, close and re-open your current shell. <==
+
+[?2004h]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ ~/miniconda3/bin/conda init bash[C[C[C[C[C[K[K[K[Kzsh
+[?2004lno change     /home/vikram6259/miniconda3/condabin/conda
+no change     /home/vikram6259/miniconda3/bin/conda
+no change     /home/vikram6259/miniconda3/bin/conda-env
+no change     /home/vikram6259/miniconda3/bin/activate
+no change     /home/vikram6259/miniconda3/bin/deactivate
+no change     /home/vikram6259/miniconda3/etc/profile.d/conda.sh
+no change     /home/vikram6259/miniconda3/etc/fish/conf.d/conda.fish
+no change     /home/vikram6259/miniconda3/shell/condabin/Conda.psm1
+no change     /home/vikram6259/miniconda3/shell/condabin/conda-hook.ps1
+no change     /home/vikram6259/miniconda3/lib/python3.12/site-packages/xontrib/conda.xsh
+no change     /home/vikram6259/miniconda3/etc/profile.d/conda.csh
+modified      /home/vikram6259/.zshrc
+
+==> For changes to take effect, close and re-open your current shell. <==
+
+[?2004h]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda create -n <[Ktigertrive[K[Kbe6259_conda python numy[Kpy pma[Kndas[K[K[K[K[Kandas
+[?2004lconda: command not found
+[?2004h]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ Handihal[K[K[K[K[K[K[K[Kexit 
+[?2004lexit
+
+Script done on 2024-04-05 15:43:59+05:30 [COMMAND_EXIT_CODE="127"]
+Script started on 2024-04-05 15:45:05+05:30 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="173" LINES="34"]
+[?2004h(base) ]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ cd ~
+[?2004l[?2004h(base) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ cd [K[Kona [K[Kda [2Pd ~exitscript -a ./M1_A1/my_unix_session [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit [Kconda create -n tigertribe6259_conda python numpy pandas
+[?2004lChannels:
+ - defaults
+Platform: linux-64
+Collecting package metadata (repodata.json): - \ | / - \ | / - \ | / done
+Solving environment: \ | done
+
+## Package Plan ##
+
+  environment location: /home/vikram6259/miniconda3/envs/tigertribe6259_conda
+
+  added / updated specs:
+    - numpy
+    - pandas
+    - python
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    blas-1.0                   |              mkl           6 KB
+    bottleneck-1.3.7           |  py312ha883a20_0         140 KB
+    bzip2-1.0.8                |       h5eee18b_5         262 KB
+    ca-certificates-2024.3.11  |       h06a4308_0         127 KB
+    intel-openmp-2023.1.0      |   hdb19cb5_46306        17.2 MB
+    mkl-2023.1.0               |   h213fc3f_46344       171.5 MB
+    mkl-service-2.4.0          |  py312h5eee18b_1          66 KB
+    mkl_fft-1.3.8              |  py312h5eee18b_0         204 KB
+    mkl_random-1.2.4           |  py312hdb19cb5_0         284 KB
+    numexpr-2.8.7              |  py312hf827012_0         149 KB
+    numpy-1.26.4               |  py312hc5e2394_0          11 KB
+    numpy-base-1.26.4          |  py312h0da6c21_0         7.7 MB
+    pandas-2.2.1               |  py312h526ad5a_0        15.4 MB
+    python-3.12.2              |       h996f2a0_0        35.3 MB
+    python-dateutil-2.8.2      |     pyhd3eb1b0_0         233 KB
+    python-tzdata-2023.3       |     pyhd3eb1b0_0         140 KB
+    pytz-2023.3.post1          |  py312h06a4308_0         197 KB
+    six-1.16.0                 |     pyhd3eb1b0_1          18 KB
+    tbb-2021.8.0               |       hdb19cb5_0         1.6 MB
+    tzdata-2024a               |       h04d1e81_0         116 KB
+    xz-5.4.6                   |       h5eee18b_0         651 KB
+    ------------------------------------------------------------
+                                           Total:       251.2 MB
+
+The following NEW packages will be INSTALLED:
+
+  _libgcc_mutex      pkgs/main/linux-64::_libgcc_mutex-0.1-main 
+  _openmp_mutex      pkgs/main/linux-64::_openmp_mutex-5.1-1_gnu 
+  blas               pkgs/main/linux-64::blas-1.0-mkl 
+  bottleneck         pkgs/main/linux-64::bottleneck-1.3.7-py312ha883a20_0 
+  bzip2              pkgs/main/linux-64::bzip2-1.0.8-h5eee18b_5 
+  ca-certificates    pkgs/main/linux-64::ca-certificates-2024.3.11-h06a4308_0 
+  expat              pkgs/main/linux-64::expat-2.5.0-h6a678d5_0 
+  intel-openmp       pkgs/main/linux-64::intel-openmp-2023.1.0-hdb19cb5_46306 
+  ld_impl_linux-64   pkgs/main/linux-64::ld_impl_linux-64-2.38-h1181459_1 
+  libffi             pkgs/main/linux-64::libffi-3.4.4-h6a678d5_0 
+  libgcc-ng          pkgs/main/linux-64::libgcc-ng-11.2.0-h1234567_1 
+  libgomp            pkgs/main/linux-64::libgomp-11.2.0-h1234567_1 
+  libstdcxx-ng       pkgs/main/linux-64::libstdcxx-ng-11.2.0-h1234567_1 
+  libuuid            pkgs/main/linux-64::libuuid-1.41.5-h5eee18b_0 
+  mkl                pkgs/main/linux-64::mkl-2023.1.0-h213fc3f_46344 
+  mkl-service        pkgs/main/linux-64::mkl-service-2.4.0-py312h5eee18b_1 
+  mkl_fft            pkgs/main/linux-64::mkl_fft-1.3.8-py312h5eee18b_0 
+  mkl_random         pkgs/main/linux-64::mkl_random-1.2.4-py312hdb19cb5_0 
+  ncurses            pkgs/main/linux-64::ncurses-6.4-h6a678d5_0 
+  numexpr            pkgs/main/linux-64::numexpr-2.8.7-py312hf827012_0 
+  numpy              pkgs/main/linux-64::numpy-1.26.4-py312hc5e2394_0 
+  numpy-base         pkgs/main/linux-64::numpy-base-1.26.4-py312h0da6c21_0 
+  openssl            pkgs/main/linux-64::openssl-3.0.13-h7f8727e_0 
+  pandas             pkgs/main/linux-64::pandas-2.2.1-py312h526ad5a_0 
+  pip                pkgs/main/linux-64::pip-23.3.1-py312h06a4308_0 
+  python             pkgs/main/linux-64::python-3.12.2-h996f2a0_0 
+  python-dateutil    pkgs/main/noarch::python-dateutil-2.8.2-pyhd3eb1b0_0 
+  python-tzdata      pkgs/main/noarch::python-tzdata-2023.3-pyhd3eb1b0_0 
+  pytz               pkgs/main/linux-64::pytz-2023.3.post1-py312h06a4308_0 
+  readline           pkgs/main/linux-64::readline-8.2-h5eee18b_0 
+  setuptools         pkgs/main/linux-64::setuptools-68.2.2-py312h06a4308_0 
+  six                pkgs/main/noarch::six-1.16.0-pyhd3eb1b0_1 
+  sqlite             pkgs/main/linux-64::sqlite-3.41.2-h5eee18b_0 
+  tbb                pkgs/main/linux-64::tbb-2021.8.0-hdb19cb5_0 
+  tk                 pkgs/main/linux-64::tk-8.6.12-h1ccaba5_0 
+  tzdata             pkgs/main/noarch::tzdata-2024a-h04d1e81_0 
+  wheel              pkgs/main/linux-64::wheel-0.41.2-py312h06a4308_0 
+  xz                 pkgs/main/linux-64::xz-5.4.6-h5eee18b_0 
+  zlib               pkgs/main/linux-64::zlib-1.2.13-h5eee18b_0 
+
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages:
+mkl-2023.1.0         | 171.5 MB  |                                                                                                                                    |   0% 
+python-3.12.2        | 35.3 MB   |                                                                                                                                    |   0% [A
+
+intel-openmp-2023.1. | 17.2 MB   |                                                                                                                                    |   0% [A[A
+
+
+pandas-2.2.1         | 15.4 MB   |                                                                                                                                    |   0% [A[A[A
+
+
+
+numpy-base-1.26.4    | 7.7 MB    |                                                                                                                                    |   0% [A[A[A[A
+
+
+
+
+tbb-2021.8.0         | 1.6 MB    |                                                                                                                                    |   0% [A[A[A[A[A
+
+
+
+
+
+xz-5.4.6             | 651 KB    |                                                                                                                                    |   0% [A[A[A[A[A[A
+
+
+
+
+
+
+mkl_random-1.2.4     | 284 KB    |                                                                                                                                    |   0% [A[A[A[A[A[A[A
+
+
+
+
+
+
+
+bzip2-1.0.8          | 262 KB    |                                                                                                                                    |   0% [A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+python-dateutil-2.8. | 233 KB    |                                                                                                                                    |   0% [A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+mkl_fft-1.3.8        | 204 KB    |                                                                                                                                    |   0% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+pytz-2023.3.post1    | 197 KB    |                                                                                                                                    |   0% [A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+numexpr-2.8.7        | 149 KB    |                                                                                                                                    |   0% [A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+python-tzdata-2023.3 | 140 KB    |                                                                                                                                    |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+bottleneck-1.3.7     | 140 KB    |                                                                                                                                    |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ca-certificates-2024 | 127 KB    |                                                                                                                                    |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tzdata-2024a         | 116 KB    |                                                                                                                                    |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-service-2.4.0    | 66 KB     |                                                                                                                                    |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+six-1.16.0           | 18 KB     |                                                                                                                                    |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+numpy-1.26.4         | 11 KB     |                                                                                                                                    |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+blas-1.0             | 6 KB      |                                                                                                                                    |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+intel-openmp-2023.1. | 17.2 MB   | 1                                                                                                                                  |   0% [A[A
+
+
+
+numpy-base-1.26.4    | 7.7 MB    | 2                                                                                                                                  |   0% [A[A[A[A
+python-3.12.2        | 35.3 MB   |                                                                                                                                    |   0% [A
+
+intel-openmp-2023.1. | 17.2 MB   | ############8                                                                                                                      |  10% [A[A
+
+
+
+numpy-base-1.26.4    | 7.7 MB    | ##1                                                                                                                                |   2% [A[A[A[A
+python-3.12.2        | 35.3 MB   | 7                                                                                                                                  |   1% [A
+
+intel-openmp-2023.1. | 17.2 MB   | ################################1                                                                                                  |  25% [A[A
+python-3.12.2        | 35.3 MB   | #9                                                                                                                                 |   1% [A
+
+
+
+numpy-base-1.26.4    | 7.7 MB    | #######9                                                                                                                           |   6% [A[A[A[Amkl-2023.1.0         | 171.5 MB  |                                                                                                                                    |   0% 
+
+intel-openmp-2023.1. | 17.2 MB   | #############################################                                                                                      |  35% [A[A
+python-3.12.2        | 35.3 MB   | ####                                                                                                                               |   3% [A
+
+intel-openmp-2023.1. | 17.2 MB   | ##########################################################7                                                                        |  45% [A[A
+
+
+
+numpy-base-1.26.4    | 7.7 MB    | ############9                                                                                                                      |  10% [A[A[A[A
+python-3.12.2        | 35.3 MB   | ######9                                                                                                                            |   5% [A
+
+
+
+numpy-base-1.26.4    | 7.7 MB    | ########################8                                                                                                          |  19% [A[A[A[Amkl-2023.1.0         | 171.5 MB  |                                                                                                                                    |   0% 
+python-3.12.2        | 35.3 MB   | #########2                                                                                                                         |   7% [A
+
+
+pandas-2.2.1         | 15.4 MB   | 1                                                                                                                                  |   0% [A[A[A
+
+
+
+numpy-base-1.26.4    | 7.7 MB    | ####################################4                                                                                              |  28% [A[A[A[Amkl-2023.1.0         | 171.5 MB  |                                                                                                                                    |   0% 
+
+intel-openmp-2023.1. | 17.2 MB   | ######################################################################                                                             |  54% [A[A
+
+intel-openmp-2023.1. | 17.2 MB   | ##################################################################################                                                 |  63% [A[A
+python-3.12.2        | 35.3 MB   | #############3                                                                                                                     |  10% [A
+
+
+
+numpy-base-1.26.4    | 7.7 MB    | ###################################################4                                                                               |  40% [A[A[A[Amkl-2023.1.0         | 171.5 MB  | 1                                                                                                                                  |   0% mkl-2023.1.0         | 171.5 MB  | 1                                                                                                                                  |   0% 
+
+
+pandas-2.2.1         | 15.4 MB   | 5                                                                                                                                  |   0% [A[A[A
+
+intel-openmp-2023.1. | 17.2 MB   | ###########################################################################################4                                       |  70% [A[A
+python-3.12.2        | 35.3 MB   | ###############                                                                                                                    |  12% [A
+
+
+
+numpy-base-1.26.4    | 7.7 MB    | ##########################################################8                                                                        |  45% [A[A[A[Amkl-2023.1.0         | 171.5 MB  | 3                                                                                                                                  |   0% 
+
+
+pandas-2.2.1         | 15.4 MB   | #5                                                                                                                                 |   1% [A[A[A
+
+intel-openmp-2023.1. | 17.2 MB   | ########################################################################################################5                          |  80% [A[A
+python-3.12.2        | 35.3 MB   | ################3                                                                                                                  |  13% [A
+
+
+
+numpy-base-1.26.4    | 7.7 MB    | ######################################################################################                                             |  66% [A[A[A[Amkl-2023.1.0         | 171.5 MB  | 9                                                                                                                                  |   1% 
+
+
+pandas-2.2.1         | 15.4 MB   | ###4                                                                                                                               |   3% [A[A[A
+python-3.12.2        | 35.3 MB   | #########################6                                                                                                         |  20% [A
+
+
+
+numpy-base-1.26.4    | 7.7 MB    | ##########################################################################################################3                        |  82% [A[A[A[Amkl-2023.1.0         | 171.5 MB  | #2                                                                                                                                 |   1% 
+
+intel-openmp-2023.1. | 17.2 MB   | #################################################################################################################6                 |  87% [A[A
+
+
+pandas-2.2.1         | 15.4 MB   | ####4                                                                                                                              |   3% [A[A[Amkl-2023.1.0         | 171.5 MB  | #5                                                                                                                                 |   1% 
+
+
+
+numpy-base-1.26.4    | 7.7 MB    | #########################################################################################################################1         |  93% [A[A[A[A
+python-3.12.2        | 35.3 MB   | #############################4                                                                                                     |  23% [A
+
+
+pandas-2.2.1         | 15.4 MB   | #####5                                                                                                                             |   4% [A[A[Amkl-2023.1.0         | 171.5 MB  | #7                                                                                                                                 |   1% 
+
+intel-openmp-2023.1. | 17.2 MB   | #########################################################################################################################3         |  93% [A[A
+python-3.12.2        | 35.3 MB   | ################################7                                                                                                  |  25% [A
+
+
+pandas-2.2.1         | 15.4 MB   | ########8                                                                                                                          |   7% [A[A[Amkl-2023.1.0         | 171.5 MB  | ##6                                                                                                                                |   2% 
+python-3.12.2        | 35.3 MB   | ####################################3                                                                                              |  28% [Amkl-2023.1.0         | 171.5 MB  | ###1                                                                                                                               |   2% 
+
+
+pandas-2.2.1         | 15.4 MB   | ###########7                                                                                                                       |   9% [A[A[A
+
+
+
+
+tbb-2021.8.0         | 1.6 MB    | #2                                                                                                                                 |   1% [A[A[A[A[A
+
+intel-openmp-2023.1. | 17.2 MB   | ###############################################################################################################################4   |  98% [A[A
+
+
+
+numpy-base-1.26.4    | 7.7 MB    | ################################################################################################################################## | 100% [A[A[A[Amkl-2023.1.0         | 171.5 MB  | ###5                                                                                                                               |   3% 
+
+
+pandas-2.2.1         | 15.4 MB   | #############7                                                                                                                     |  11% [A[A[A
+python-3.12.2        | 35.3 MB   | #######################################3                                                                                           |  30% [A
+
+
+
+
+tbb-2021.8.0         | 1.6 MB    | ############3                                                                                                                      |   9% [A[A[A[A[Amkl-2023.1.0         | 171.5 MB  | ####4                                                                                                                              |   3% 
+
+
+pandas-2.2.1         | 15.4 MB   | ########################7                                                                                                          |  19% [A[A[A
+python-3.12.2        | 35.3 MB   | ############################################1                                                                                      |  34% [A
+
+
+
+
+tbb-2021.8.0         | 1.6 MB    | ################################################################################################################################## | 100% [A[A[A[A[A
+
+
+
+
+tbb-2021.8.0         | 1.6 MB    | ################################################################################################################################## | 100% [A[A[A[A[A
+
+
+
+
+
+xz-5.4.6             | 651 KB    | ###1                                                                                                                               |   2% [A[A[A[A[A[Amkl-2023.1.0         | 171.5 MB  | #####6                                                                                                                             |   4% 
+
+
+pandas-2.2.1         | 15.4 MB   | #############################                                                                                                      |  22% [A[A[A
+python-3.12.2        | 35.3 MB   | #################################################8                                                                                 |  38% [A
+
+
+
+
+
+xz-5.4.6             | 651 KB    | ######################################################################3                                                            |  54% [A[A[A[A[A[A
+
+
+
+
+
+
+mkl_random-1.2.4     | 284 KB    | #######3                                                                                                                           |   6% [A[A[A[A[A[A[A
+
+
+pandas-2.2.1         | 15.4 MB   | #################################4                                                                                                 |  26% [A[A[A
+python-3.12.2        | 35.3 MB   | #####################################################6                                                                             |  41% [A
+
+intel-openmp-2023.1. | 17.2 MB   | ################################################################################################################################## | 100% [A[Amkl-2023.1.0         | 171.5 MB  | ######2                                                                                                                            |   5% 
+
+
+pandas-2.2.1         | 15.4 MB   | #########################################5                                                                                         |  32% [A[A[A
+python-3.12.2        | 35.3 MB   | ##########################################################1                                                                        |  45% [A
+
+
+
+
+
+
+mkl_random-1.2.4     | 284 KB    | ################################################################################################################################## | 100% [A[A[A[A[A[A[A
+
+
+
+
+
+
+mkl_random-1.2.4     | 284 KB    | ################################################################################################################################## | 100% [A[A[A[A[A[A[A
+
+
+
+
+
+
+
+bzip2-1.0.8          | 262 KB    | #######9                                                                                                                           |   6% [A[A[A[A[A[A[A[A
+
+
+pandas-2.2.1         | 15.4 MB   | ################################################                                                                                   |  37% [A[A[A
+
+
+
+
+
+
+
+
+python-dateutil-2.8. | 233 KB    | ########9                                                                                                                          |   7% [A[A[A[A[A[A[A[A[A
+
+
+
+
+
+xz-5.4.6             | 651 KB    | ################################################################################################################################## | 100% [A[A[A[A[A[A
+
+
+
+
+
+xz-5.4.6             | 651 KB    | ################################################################################################################################## | 100% [A[A[A[A[A[A
+
+
+
+
+
+
+
+
+python-dateutil-2.8. | 233 KB    | ###################################7                                                                                               |  28% [A[A[A[A[A[A[A[A[Amkl-2023.1.0         | 171.5 MB  | ######8                                                                                                                            |   5% 
+
+
+
+
+
+
+
+bzip2-1.0.8          | 262 KB    | ###############################################################5                                                                   |  49% [A[A[A[A[A[A[A[A
+
+
+pandas-2.2.1         | 15.4 MB   | #####################################################3                                                                             |  41% [A[A[Amkl-2023.1.0         | 171.5 MB  | #######3                                                                                                                           |   6% 
+python-3.12.2        | 35.3 MB   | #############################################################6                                                                     |  47% [A
+
+
+pandas-2.2.1         | 15.4 MB   | ###########################################################6                                                                       |  46% [A[A[A
+
+
+
+
+
+
+
+
+
+mkl_fft-1.3.8        | 204 KB    | ##########1                                                                                                                        |   8% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+bzip2-1.0.8          | 262 KB    | ################################################################################################################################## | 100% [A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+bzip2-1.0.8          | 262 KB    | ################################################################################################################################## | 100% [A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+python-dateutil-2.8. | 233 KB    | ################################################################################################################################## | 100% [A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+python-dateutil-2.8. | 233 KB    | ################################################################################################################################## | 100% [A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+mkl_fft-1.3.8        | 204 KB    | ####################3                                                                                                              |  16% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+pytz-2023.3.post1    | 197 KB    | ##########5                                                                                                                        |   8% [A[A[A[A[A[A[A[A[A[A[Amkl-2023.1.0         | 171.5 MB  | #######8                                                                                                                           |   6% 
+python-3.12.2        | 35.3 MB   | ################################################################4                                                                  |  50% [A
+
+
+pandas-2.2.1         | 15.4 MB   | ################################################################8                                                                  |  50% [A[A[A
+
+
+
+
+
+
+
+
+
+mkl_fft-1.3.8        | 204 KB    | ##########################################################################################################################2        |  94% [A[A[A[A[A[A[A[A[A[A
+
+
+pandas-2.2.1         | 15.4 MB   | ########################################################################                                                           |  55% [A[A[A
+
+
+
+
+
+
+
+
+
+
+pytz-2023.3.post1    | 197 KB    | #########################################################################7                                                         |  57% [A[A[A[A[A[A[A[A[A[A[Amkl-2023.1.0         | 171.5 MB  | ########3                                                                                                                          |   6% 
+python-3.12.2        | 35.3 MB   | ###################################################################7                                                               |  52% [A
+
+
+
+
+
+
+
+
+
+
+
+numexpr-2.8.7        | 149 KB    | #############9                                                                                                                     |  11% [A[A[A[A[A[A[A[A[A[A[A[A
+
+
+pandas-2.2.1         | 15.4 MB   | ############################################################################9                                                      |  59% [A[A[Amkl-2023.1.0         | 171.5 MB  | ########7                                                                                                                          |   7% 
+python-3.12.2        | 35.3 MB   | ######################################################################                                                             |  54% [A
+
+
+pandas-2.2.1         | 15.4 MB   | ##################################################################################4                                                |  63% [A[A[Amkl-2023.1.0         | 171.5 MB  | #########2                                                                                                                         |   7% 
+python-3.12.2        | 35.3 MB   | ########################################################################4                                                          |  56% [A
+
+
+
+
+
+
+
+
+
+
+
+
+python-tzdata-2023.3 | 140 KB    | ##############8                                                                                                                    |  11% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+mkl_fft-1.3.8        | 204 KB    | ################################################################################################################################## | 100% [A[A[A[A[A[A[A[A[A[A
+
+
+pandas-2.2.1         | 15.4 MB   | #########################################################################################1                                         |  69% [A[A[Amkl-2023.1.0         | 171.5 MB  | #########9                                                                                                                         |   8% 
+python-3.12.2        | 35.3 MB   | ##########################################################################8                                                        |  58% [A
+
+
+
+
+
+
+
+
+
+
+
+
+python-tzdata-2023.3 | 140 KB    | ########################################################################################8                                          |  68% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+pandas-2.2.1         | 15.4 MB   | ##################################################################################################9                                |  76% [A[A[Amkl-2023.1.0         | 171.5 MB  | ##########5                                                                                                                        |   8% 
+python-3.12.2        | 35.3 MB   | ##############################################################################4                                                    |  60% [A
+
+
+
+
+
+
+
+
+
+
+
+
+
+bottleneck-1.3.7     | 140 KB    | ##############8                                                                                                                    |  11% [A[A[A[A[A[A[A[A[A[A[A[A[A[A
+python-3.12.2        | 35.3 MB   | #################################################################################1                                                 |  62% [Amkl-2023.1.0         | 171.5 MB  | ###########                                                                                                                        |   8% 
+
+
+pandas-2.2.1         | 15.4 MB   | #########################################################################################################6                         |  81% [A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ca-certificates-2024 | 127 KB    | ################3                                                                                                                  |  13% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+python-3.12.2        | 35.3 MB   | ###################################################################################9                                               |  65% [A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tzdata-2024a         | 116 KB    | #################8                                                                                                                 |  14% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[Amkl-2023.1.0         | 171.5 MB  | ###########6                                                                                                                       |   9% 
+
+
+
+
+
+
+
+
+
+
+
+numexpr-2.8.7        | 149 KB    | ################################################################################################################################## | 100% [A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+numexpr-2.8.7        | 149 KB    | ################################################################################################################################## | 100% [A[A[A[A[A[A[A[A[A[A[A[A
+
+
+pandas-2.2.1         | 15.4 MB   | ##################################################################################################################1                |  88% [A[A[A
+python-3.12.2        | 35.3 MB   | ######################################################################################9                                            |  67% [A
+
+
+pandas-2.2.1         | 15.4 MB   | ############################################################################################################################4      |  96% [A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-service-2.4.0    | 66 KB     | ###############################3                                                                                                   |  24% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[Amkl-2023.1.0         | 171.5 MB  | ############2                                                                                                                      |   9% 
+python-3.12.2        | 35.3 MB   | ##########################################################################################8                                        |  70% [A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+six-1.16.0           | 18 KB     | ################################################################################################################7                  |  87% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[Amkl-2023.1.0         | 171.5 MB  | #############2                                                                                                                     |  10% 
+python-3.12.2        | 35.3 MB   | ##############################################################################################9                                    |  73% [A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+numpy-1.26.4         | 11 KB     | ################################################################################################################################## | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+blas-1.0             | 6 KB      | ################################################################################################################################## | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[Amkl-2023.1.0         | 171.5 MB  | #############9                                                                                                                     |  11% 
+python-3.12.2        | 35.3 MB   | ####################################################################################################2                              |  77% [A
+
+
+
+
+
+
+
+
+
+
+
+
+
+bottleneck-1.3.7     | 140 KB    | ################################################################################################################################## | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+bottleneck-1.3.7     | 140 KB    | ################################################################################################################################## | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A
+python-3.12.2        | 35.3 MB   | ########################################################################################################                           |  80% [A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ca-certificates-2024 | 127 KB    | ################################################################################################################################## | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ca-certificates-2024 | 127 KB    | ################################################################################################################################## | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[Amkl-2023.1.0         | 171.5 MB  | ##############5                                                                                                                    |  11% 
+python-3.12.2        | 35.3 MB   | ###########################################################################################################7                       |  83% [Amkl-2023.1.0         | 171.5 MB  | ###############1                                                                                                                   |  12% 
+python-3.12.2        | 35.3 MB   | ###############################################################################################################3                   |  86% [Amkl-2023.1.0         | 171.5 MB  | ###############7                                                                                                                   |  12% 
+python-3.12.2        | 35.3 MB   | ###################################################################################################################1               |  89% [Amkl-2023.1.0         | 171.5 MB  | ################3                                                                                                                  |  13% mkl-2023.1.0         | 171.5 MB  | ################8                                                                                                                  |  13% 
+python-3.12.2        | 35.3 MB   | ######################################################################################################################8            |  91% [Amkl-2023.1.0         | 171.5 MB  | #################8                                                                                                                 |  14% 
+python-3.12.2        | 35.3 MB   | ###########################################################################################################################        |  95% [Amkl-2023.1.0         | 171.5 MB  | ##################5                                                                                                                |  14% 
+python-3.12.2        | 35.3 MB   | ################################################################################################################################1  |  99% [Amkl-2023.1.0         | 171.5 MB  | ###################4                                                                                                               |  15% mkl-2023.1.0         | 171.5 MB  | ####################2                                                                                                              |  16% mkl-2023.1.0         | 171.5 MB  | #####################1                                                                                                             |  16% mkl-2023.1.0         | 171.5 MB  | ######################1                                                                                                            |  17% mkl-2023.1.0         | 171.5 MB  | #######################1                                                                                                           |  18% mkl-2023.1.0         | 171.5 MB  | ########################2                                                                                                          |  19% mkl-2023.1.0         | 171.5 MB  | #########################4                                                                                                         |  20% mkl-2023.1.0         | 171.5 MB  | ##########################6                                                                                                        |  20% mkl-2023.1.0         | 171.5 MB  | ###########################7                                                                                                       |  21% mkl-2023.1.0         | 171.5 MB  | #############################3                                                                                                     |  23% mkl-2023.1.0         | 171.5 MB  | ##############################8                                                                                                    |  24% mkl-2023.1.0         | 171.5 MB  | ################################4                                                                                                  |  25% 
+
+
+
+
+
+
+
+
+
+
+
+
+python-tzdata-2023.3 | 140 KB    | ################################################################################################################################## | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+python-tzdata-2023.3 | 140 KB    | ################################################################################################################################## | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+pytz-2023.3.post1    | 197 KB    | ################################################################################################################################## | 100% [A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+pytz-2023.3.post1    | 197 KB    | ################################################################################################################################## | 100% [A[A[A[A[A[A[A[A[A[A[Amkl-2023.1.0         | 171.5 MB  | ##################################1                                                                                                |  26% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+six-1.16.0           | 18 KB     | ################################################################################################################################## | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+six-1.16.0           | 18 KB     | ################################################################################################################################## | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-service-2.4.0    | 66 KB     | ################################################################################################################################## | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mkl-service-2.4.0    | 66 KB     | ################################################################################################################################## | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[Amkl-2023.1.0         | 171.5 MB  | ###################################8                                                                                               |  28% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+blas-1.0             | 6 KB      | ################################################################################################################################## | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+numpy-1.26.4         | 11 KB     | ################################################################################################################################## | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[Amkl-2023.1.0         | 171.5 MB  | #####################################6                                                                                             |  29% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tzdata-2024a         | 116 KB    | ################################################################################################################################## | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tzdata-2024a         | 116 KB    | ################################################################################################################################## | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[Amkl-2023.1.0         | 171.5 MB  | #######################################3                                                                                           |  30% mkl-2023.1.0         | 171.5 MB  | ########################################9                                                                                          |  31% mkl-2023.1.0         | 171.5 MB  | ##########################################4                                                                                        |  33% mkl-2023.1.0         | 171.5 MB  | #############################################                                                                                      |  35% mkl-2023.1.0         | 171.5 MB  | ##############################################7                                                                                    |  36% mkl-2023.1.0         | 171.5 MB  | ################################################4                                                                                  |  37% mkl-2023.1.0         | 171.5 MB  | #################################################9                                                                                 |  38% mkl-2023.1.0         | 171.5 MB  | ###################################################3                                                                               |  39% mkl-2023.1.0         | 171.5 MB  | #####################################################3                                                                             |  41% mkl-2023.1.0         | 171.5 MB  | #######################################################3                                                                           |  43% mkl-2023.1.0         | 171.5 MB  | #########################################################                                                                          |  44% mkl-2023.1.0         | 171.5 MB  | ###########################################################6                                                                       |  46% mkl-2023.1.0         | 171.5 MB  | #############################################################4                                                                     |  47% mkl-2023.1.0         | 171.5 MB  | ###############################################################2                                                                   |  49% mkl-2023.1.0         | 171.5 MB  | ################################################################7                                                                  |  50% mkl-2023.1.0         | 171.5 MB  | ###################################################################                                                                |  52% mkl-2023.1.0         | 171.5 MB  | #####################################################################1                                                             |  53% mkl-2023.1.0         | 171.5 MB  | ######################################################################9                                                            |  55% mkl-2023.1.0         | 171.5 MB  | #########################################################################8                                                         |  57% mkl-2023.1.0         | 171.5 MB  | ###########################################################################7                                                       |  58% mkl-2023.1.0         | 171.5 MB  | #############################################################################5                                                     |  60% mkl-2023.1.0         | 171.5 MB  | ###############################################################################2                                                   |  61% mkl-2023.1.0         | 171.5 MB  | ################################################################################8                                                  |  62% mkl-2023.1.0         | 171.5 MB  | ###################################################################################2                                               |  64% mkl-2023.1.0         | 171.5 MB  | ####################################################################################9                                              |  65% 
+python-3.12.2        | 35.3 MB   | ################################################################################################################################## | 100% [A
+
+
+pandas-2.2.1         | 15.4 MB   | ################################################################################################################################## | 100% [A[A[Amkl-2023.1.0         | 171.5 MB  | ######################################################################################5                                            |  67% mkl-2023.1.0         | 171.5 MB  | ########################################################################################                                           |  68% mkl-2023.1.0         | 171.5 MB  | #########################################################################################5                                         |  69% mkl-2023.1.0         | 171.5 MB  | ###########################################################################################                                        |  70% mkl-2023.1.0         | 171.5 MB  | ############################################################################################5                                      |  71% mkl-2023.1.0         | 171.5 MB  | #############################################################################################9                                     |  72% mkl-2023.1.0         | 171.5 MB  | ###############################################################################################3                                   |  73% mkl-2023.1.0         | 171.5 MB  | ################################################################################################8                                  |  74% mkl-2023.1.0         | 171.5 MB  | ##################################################################################################2                                |  76% mkl-2023.1.0         | 171.5 MB  | ###################################################################################################6                               |  77% mkl-2023.1.0         | 171.5 MB  | #####################################################################################################                              |  78% mkl-2023.1.0         | 171.5 MB  | ######################################################################################################4                            |  79% mkl-2023.1.0         | 171.5 MB  | #######################################################################################################9                           |  80% mkl-2023.1.0         | 171.5 MB  | #########################################################################################################3                         |  81% mkl-2023.1.0         | 171.5 MB  | ##########################################################################################################6                        |  82% mkl-2023.1.0         | 171.5 MB  | ############################################################################################################                       |  83% mkl-2023.1.0         | 171.5 MB  | #############################################################################################################4                     |  84% mkl-2023.1.0         | 171.5 MB  | ##############################################################################################################8                    |  85% mkl-2023.1.0         | 171.5 MB  | ################################################################################################################2                  |  86% mkl-2023.1.0         | 171.5 MB  | #################################################################################################################6                 |  87% mkl-2023.1.0         | 171.5 MB  | ###################################################################################################################                |  89% mkl-2023.1.0         | 171.5 MB  | ####################################################################################################################5              |  90% mkl-2023.1.0         | 171.5 MB  | #####################################################################################################################9             |  91% mkl-2023.1.0         | 171.5 MB  | #######################################################################################################################3           |  92% mkl-2023.1.0         | 171.5 MB  | ########################################################################################################################7          |  93% mkl-2023.1.0         | 171.5 MB  | ##########################################################################################################################1        |  94% mkl-2023.1.0         | 171.5 MB  | ###########################################################################################################################5       |  95% mkl-2023.1.0         | 171.5 MB  | ############################################################################################################################9      |  96% mkl-2023.1.0         | 171.5 MB  | ##############################################################################################################################3    |  97% mkl-2023.1.0         | 171.5 MB  | ###############################################################################################################################7   |  98% mkl-2023.1.0         | 171.5 MB  | #################################################################################################################################1 |  99% mkl-2023.1.0         | 171.5 MB  | ################################################################################################################################## | 100%                                                                                                                                                                              
+                                                                                                                                                                             [A
+
+                                                                                                                                                                             [A[A
+
+
+                                                                                                                                                                             [A[A[A
+
+
+
+                                                                                                                                                                             [A[A[A[A
+
+
+
+
+                                                                                                                                                                             [A[A[A[A[A
+
+
+
+
+
+                                                                                                                                                                             [A[A[A[A[A[A
+
+
+
+
+
+
+                                                                                                                                                                             [A[A[A[A[A[A[A
+
+
+
+
+
+
+
+                                                                                                                                                                             [A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+                                                                                                                                                                             [A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                             [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                             [A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                             [A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                             [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                             [A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                             [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                             [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                             [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                             [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                             [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                             [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+Preparing transaction: - \ | done
+Verifying transaction: - \ | / - \ | / - \ | / - \ | done
+Executing transaction: - \ | / - \ | / - \ | / done
+#
+# To activate this environment, use
+#
+#     $ conda activate tigertribe6259_conda
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+[?2004h(base) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda info --envs
+[?2004l# conda environments:
+#
+base                  *  /home/vikram6259/miniconda3
+tigertribe6259_conda     /home/vikram6259/miniconda3/envs/tigertribe6259_conda
+
+[?2004h(base) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda activate tiher[K[K[Kgertribe6259_conda
+[?2004l[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda instaal[K[Kll --name tige[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kindo[K[Kfo --in[K[Kenvs
+[?2004l# conda environments:
+#
+base                     /home/vikram6259/miniconda3
+tigertribe6259_conda  *  /home/vikram6259/miniconda3/envs/tigertribe6259_conda
+
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda n[Kinstall --name tigertribe6259_con da matplotlib
+[?2004lChannels:
+ - defaults
+Platform: linux-64
+Collecting package metadata (repodata.json): - \ | / - \ | / - done
+Solving environment: | / done
+
+## Package Plan ##
+
+  environment location: /home/vikram6259/miniconda3/envs/tigertribe6259_conda
+
+  added / updated specs:
+    - matplotlib
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    brotli-1.0.9               |       h5eee18b_7          18 KB
+    brotli-bin-1.0.9           |       h5eee18b_7          19 KB
+    contourpy-1.2.0            |  py312hdb19cb5_0         238 KB
+    cycler-0.11.0              |     pyhd3eb1b0_0          12 KB
+    cyrus-sasl-2.1.28          |       h52b45da_1         237 KB
+    dbus-1.13.18               |       hb2f20db_0         504 KB
+    fontconfig-2.14.1          |       h4c34cd2_2         281 KB
+    fonttools-4.25.0           |     pyhd3eb1b0_0         632 KB
+    freetype-2.12.1            |       h4a9f257_0         626 KB
+    glib-2.78.4                |       h6a678d5_0         508 KB
+    glib-tools-2.78.4          |       h6a678d5_0         115 KB
+    gst-plugins-base-1.14.1    |       h6a678d5_1         2.2 MB
+    gstreamer-1.14.1           |       h5eee18b_1         1.7 MB
+    jpeg-9e                    |       h5eee18b_1         262 KB
+    kiwisolver-1.4.4           |  py312h6a678d5_0          68 KB
+    lcms2-2.12                 |       h3be6417_0         312 KB
+    lerc-3.0                   |       h295c915_0         196 KB
+    libbrotlicommon-1.0.9      |       h5eee18b_7          70 KB
+    libbrotlidec-1.0.9         |       h5eee18b_7          31 KB
+    libbrotlienc-1.0.9         |       h5eee18b_7         264 KB
+    libclang-14.0.6            |default_hc6dbbc7_1         137 KB
+    libclang13-14.0.6          |default_he11475f_1         9.8 MB
+    libcups-2.4.2              |       h2d74bed_1         4.5 MB
+    libdeflate-1.17            |       h5eee18b_1          64 KB
+    libglib-2.78.4             |       hdc74915_0         1.5 MB
+    libiconv-1.16              |       h7f8727e_2         736 KB
+    libllvm14-14.0.6           |       hdb19cb5_3        33.4 MB
+    libpng-1.6.39              |       h5eee18b_0         304 KB
+    libpq-12.17                |       hdbd6064_0         2.4 MB
+    libtiff-4.5.1              |       h6a678d5_0         533 KB
+    libwebp-base-1.3.2         |       h5eee18b_0         387 KB
+    libxcb-1.15                |       h7f8727e_0         505 KB
+    libxkbcommon-1.0.1         |       h5eee18b_1         590 KB
+    matplotlib-3.8.0           |  py312h06a4308_0           8 KB
+    matplotlib-base-3.8.0      |  py312h526ad5a_0         6.9 MB
+    munkres-1.1.4              |             py_0          13 KB
+    mysql-5.7.24               |       h721c034_2        60.0 MB
+    openjpeg-2.4.0             |       h3ad879b_0         331 KB
+    packaging-23.2             |  py312h06a4308_0         168 KB
+    pillow-10.2.0              |  py312h5eee18b_0         909 KB
+    ply-3.11                   |  py312h06a4308_1         109 KB
+    pyparsing-3.0.9            |  py312h06a4308_0         197 KB
+    pyqt-5.15.10               |  py312h6a678d5_0         5.0 MB
+    pyqt5-sip-12.13.0          |  py312h5eee18b_0          88 KB
+    qt-main-5.15.2             |      h53bd1ea_10        53.7 MB
+    sip-6.7.12                 |  py312h6a678d5_0         553 KB
+    tornado-6.3.3              |  py312h5eee18b_0         787 KB
+    ------------------------------------------------------------
+                                           Total:       191.4 MB
+
+The following NEW packages will be INSTALLED:
+
+  brotli             pkgs/main/linux-64::brotli-1.0.9-h5eee18b_7 
+  brotli-bin         pkgs/main/linux-64::brotli-bin-1.0.9-h5eee18b_7 
+  contourpy          pkgs/main/linux-64::contourpy-1.2.0-py312hdb19cb5_0 
+  cycler             pkgs/main/noarch::cycler-0.11.0-pyhd3eb1b0_0 
+  cyrus-sasl         pkgs/main/linux-64::cyrus-sasl-2.1.28-h52b45da_1 
+  dbus               pkgs/main/linux-64::dbus-1.13.18-hb2f20db_0 
+  fontconfig         pkgs/main/linux-64::fontconfig-2.14.1-h4c34cd2_2 
+  fonttools          pkgs/main/noarch::fonttools-4.25.0-pyhd3eb1b0_0 
+  freetype           pkgs/main/linux-64::freetype-2.12.1-h4a9f257_0 
+  glib               pkgs/main/linux-64::glib-2.78.4-h6a678d5_0 
+  glib-tools         pkgs/main/linux-64::glib-tools-2.78.4-h6a678d5_0 
+  gst-plugins-base   pkgs/main/linux-64::gst-plugins-base-1.14.1-h6a678d5_1 
+  gstreamer          pkgs/main/linux-64::gstreamer-1.14.1-h5eee18b_1 
+  icu                pkgs/main/linux-64::icu-73.1-h6a678d5_0 
+  jpeg               pkgs/main/linux-64::jpeg-9e-h5eee18b_1 
+  kiwisolver         pkgs/main/linux-64::kiwisolver-1.4.4-py312h6a678d5_0 
+  krb5               pkgs/main/linux-64::krb5-1.20.1-h143b758_1 
+  lcms2              pkgs/main/linux-64::lcms2-2.12-h3be6417_0 
+  lerc               pkgs/main/linux-64::lerc-3.0-h295c915_0 
+  libbrotlicommon    pkgs/main/linux-64::libbrotlicommon-1.0.9-h5eee18b_7 
+  libbrotlidec       pkgs/main/linux-64::libbrotlidec-1.0.9-h5eee18b_7 
+  libbrotlienc       pkgs/main/linux-64::libbrotlienc-1.0.9-h5eee18b_7 
+  libclang           pkgs/main/linux-64::libclang-14.0.6-default_hc6dbbc7_1 
+  libclang13         pkgs/main/linux-64::libclang13-14.0.6-default_he11475f_1 
+  libcups            pkgs/main/linux-64::libcups-2.4.2-h2d74bed_1 
+  libdeflate         pkgs/main/linux-64::libdeflate-1.17-h5eee18b_1 
+  libedit            pkgs/main/linux-64::libedit-3.1.20230828-h5eee18b_0 
+  libglib            pkgs/main/linux-64::libglib-2.78.4-hdc74915_0 
+  libiconv           pkgs/main/linux-64::libiconv-1.16-h7f8727e_2 
+  libllvm14          pkgs/main/linux-64::libllvm14-14.0.6-hdb19cb5_3 
+  libpng             pkgs/main/linux-64::libpng-1.6.39-h5eee18b_0 
+  libpq              pkgs/main/linux-64::libpq-12.17-hdbd6064_0 
+  libtiff            pkgs/main/linux-64::libtiff-4.5.1-h6a678d5_0 
+  libwebp-base       pkgs/main/linux-64::libwebp-base-1.3.2-h5eee18b_0 
+  libxcb             pkgs/main/linux-64::libxcb-1.15-h7f8727e_0 
+  libxkbcommon       pkgs/main/linux-64::libxkbcommon-1.0.1-h5eee18b_1 
+  libxml2            pkgs/main/linux-64::libxml2-2.10.4-hf1b16e4_1 
+  lz4-c              pkgs/main/linux-64::lz4-c-1.9.4-h6a678d5_0 
+  matplotlib         pkgs/main/linux-64::matplotlib-3.8.0-py312h06a4308_0 
+  matplotlib-base    pkgs/main/linux-64::matplotlib-base-3.8.0-py312h526ad5a_0 
+  munkres            pkgs/main/noarch::munkres-1.1.4-py_0 
+  mysql              pkgs/main/linux-64::mysql-5.7.24-h721c034_2 
+  openjpeg           pkgs/main/linux-64::openjpeg-2.4.0-h3ad879b_0 
+  packaging          pkgs/main/linux-64::packaging-23.2-py312h06a4308_0 
+  pcre2              pkgs/main/linux-64::pcre2-10.42-hebb0a14_0 
+  pillow             pkgs/main/linux-64::pillow-10.2.0-py312h5eee18b_0 
+  ply                pkgs/main/linux-64::ply-3.11-py312h06a4308_1 
+  pyparsing          pkgs/main/linux-64::pyparsing-3.0.9-py312h06a4308_0 
+  pyqt               pkgs/main/linux-64::pyqt-5.15.10-py312h6a678d5_0 
+  pyqt5-sip          pkgs/main/linux-64::pyqt5-sip-12.13.0-py312h5eee18b_0 
+  qt-main            pkgs/main/linux-64::qt-main-5.15.2-h53bd1ea_10 
+  sip                pkgs/main/linux-64::sip-6.7.12-py312h6a678d5_0 
+  tornado            pkgs/main/linux-64::tornado-6.3.3-py312h5eee18b_0 
+  zstd               pkgs/main/linux-64::zstd-1.5.5-hc292b87_0 
+
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages:
+mysql-5.7.24         | 60.0 MB   |                                              |   0% 
+qt-main-5.15.2       | 53.7 MB   |                                              |   0% [A
+
+libllvm14-14.0.6     | 33.4 MB   |                                              |   0% [A[A
+
+
+libclang13-14.0.6    | 9.8 MB    |                                              |   0% [A[A[A
+
+
+
+matplotlib-base-3.8. | 6.9 MB    |                                              |   0% [A[A[A[A
+
+
+
+
+pyqt-5.15.10         | 5.0 MB    |                                              |   0% [A[A[A[A[A
+
+
+
+
+
+libcups-2.4.2        | 4.5 MB    |                                              |   0% [A[A[A[A[A[A
+
+
+
+
+
+
+libpq-12.17          | 2.4 MB    |                                              |   0% [A[A[A[A[A[A[A
+
+
+
+
+
+
+
+gst-plugins-base-1.1 | 2.2 MB    |                                              |   0% [A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+gstreamer-1.14.1     | 1.7 MB    |                                              |   0% [A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+libglib-2.78.4       | 1.5 MB    |                                              |   0% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+pillow-10.2.0        | 909 KB    |                                              |   0% [A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+tornado-6.3.3        | 787 KB    |                                              |   0% [A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+libiconv-1.16        | 736 KB    |                                              |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+fonttools-4.25.0     | 632 KB    |                                              |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+freetype-2.12.1      | 626 KB    |                                              |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libxkbcommon-1.0.1   | 590 KB    |                                              |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sip-6.7.12           | 553 KB    |                                              |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libtiff-4.5.1        | 533 KB    |                                              |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+glib-2.78.4          | 508 KB    |                                              |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libxcb-1.15          | 505 KB    |                                              |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dbus-1.13.18         | 504 KB    |                                              |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libwebp-base-1.3.2   | 387 KB    |                                              |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+openjpeg-2.4.0       | 331 KB    |                                              |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lcms2-2.12           | 312 KB    |                                              |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libpng-1.6.39        | 304 KB    |                                              |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fontconfig-2.14.1    | 281 KB    |                                              |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libbrotlienc-1.0.9   | 264 KB    |                                              |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jpeg-9e              | 262 KB    |                                              |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contourpy-1.2.0      | 238 KB    |                                              |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cyrus-sasl-2.1.28    | 237 KB    |                                              |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pyparsing-3.0.9      | 197 KB    |                                              |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lerc-3.0             | 196 KB    |                                              |   0% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ... (more hidden) ...[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+matplotlib-base-3.8. | 6.9 MB    |                                              |   0% [A[A[A[A
+qt-main-5.15.2       | 53.7 MB   |                                              |   0% [A
+
+
+libclang13-14.0.6    | 9.8 MB    |                                              |   0% [A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   |                                              |   0% [A[A
+
+
+
+matplotlib-base-3.8. | 6.9 MB    | #####5                                       |  13% [A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | 4                                            |   1% [A
+
+
+
+matplotlib-base-3.8. | 6.9 MB    | #######################3                     |  53% [A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | #                                            |   2% [A
+
+
+libclang13-14.0.6    | 9.8 MB    | #                                            |   2% [A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | 1                                            |   0% [A[A
+
+
+libclang13-14.0.6    | 9.8 MB    | ##5                                          |   6% [A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | 4                                            |   1% [A[A
+qt-main-5.15.2       | 53.7 MB   | #3                                           |   3% [A
+
+
+
+matplotlib-base-3.8. | 6.9 MB    | #################################1           |  75% [A[A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | 8                                            |   2% [A[A
+
+
+libclang13-14.0.6    | 9.8 MB    | #####4                                       |  12% [A[A[A
+qt-main-5.15.2       | 53.7 MB   | ###3                                         |   8% [A
+
+
+
+
+pyqt-5.15.10         | 5.0 MB    | 1                                            |   0% [A[A[A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | #6                                           |   4% [A[Amysql-5.7.24         | 60.0 MB   |                                              |   0% 
+
+libllvm14-14.0.6     | 33.4 MB   | ##1                                          |   5% [A[A
+
+
+
+
+pyqt-5.15.10         | 5.0 MB    | #########8                                   |  22% [A[A[A[A[A
+
+
+libclang13-14.0.6    | 9.8 MB    | ######8                                      |  16% [A[A[A
+qt-main-5.15.2       | 53.7 MB   | ####2                                        |  10% [Amysql-5.7.24         | 60.0 MB   |                                              |   0% 
+
+libllvm14-14.0.6     | 33.4 MB   | ##6                                          |   6% [A[A
+
+
+
+
+pyqt-5.15.10         | 5.0 MB    | ###################5                         |  44% [A[A[A[A[A
+
+
+
+
+pyqt-5.15.10         | 5.0 MB    | ###########################1                 |  62% [A[A[A[A[A
+
+
+
+matplotlib-base-3.8. | 6.9 MB    | ############################################ | 100% [A[A[A[A
+
+
+
+matplotlib-base-3.8. | 6.9 MB    | ############################################ | 100% [A[A[A[A
+
+
+libclang13-14.0.6    | 9.8 MB    | #########3                                   |  21% [A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | ###                                          |   7% [A[Amysql-5.7.24         | 60.0 MB   |                                              |   0% 
+qt-main-5.15.2       | 53.7 MB   | ####8                                        |  11% [A
+
+
+
+
+pyqt-5.15.10         | 5.0 MB    | #################################5           |  76% [A[A[A[A[Amysql-5.7.24         | 60.0 MB   | 1                                            |   0% 
+
+libllvm14-14.0.6     | 33.4 MB   | ###4                                         |   8% [A[A
+qt-main-5.15.2       | 53.7 MB   | #####3                                       |  12% [A
+
+
+
+
+pyqt-5.15.10         | 5.0 MB    | ##########################################9  |  98% [A[A[A[A[Amysql-5.7.24         | 60.0 MB   | 3                                            |   1% 
+
+
+libclang13-14.0.6    | 9.8 MB    | ##########5                                  |  24% [A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | ####9                                        |  11% [A[A
+qt-main-5.15.2       | 53.7 MB   | ######4                                      |  15% [Amysql-5.7.24         | 60.0 MB   | 5                                            |   1% 
+
+
+libclang13-14.0.6    | 9.8 MB    | ################                             |  36% [A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | #####8                                       |  13% [A[A
+qt-main-5.15.2       | 53.7 MB   | ########3                                    |  19% [A
+
+
+
+
+
+libcups-2.4.2        | 4.5 MB    | 1                                            |   0% [A[A[A[A[A[A
+
+
+libclang13-14.0.6    | 9.8 MB    | ####################5                        |  47% [A[A[Amysql-5.7.24         | 60.0 MB   | 7                                            |   2% 
+
+
+
+
+
+libcups-2.4.2        | 4.5 MB    | ######3                                      |  14% [A[A[A[A[A[Amysql-5.7.24         | 60.0 MB   | 9                                            |   2% 
+
+
+libclang13-14.0.6    | 9.8 MB    | #######################6                     |  54% [A[A[A
+
+
+
+
+
+libcups-2.4.2        | 4.5 MB    | ###########3                                 |  26% [A[A[A[A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | ######5                                      |  15% [A[Amysql-5.7.24         | 60.0 MB   | #2                                           |   3% 
+qt-main-5.15.2       | 53.7 MB   | #########3                                   |  21% [Amysql-5.7.24         | 60.0 MB   | #6                                           |   4% 
+
+
+
+
+
+libcups-2.4.2        | 4.5 MB    | ###############5                             |  35% [A[A[A[A[A[A
+
+
+libclang13-14.0.6    | 9.8 MB    | ##########################2                  |  60% [A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | #######1                                     |  16% [A[A
+
+
+
+
+pyqt-5.15.10         | 5.0 MB    | ############################################ | 100% [A[A[A[A[Amysql-5.7.24         | 60.0 MB   | ##                                           |   5% 
+
+
+
+
+
+libcups-2.4.2        | 4.5 MB    | ###################3                         |  44% [A[A[A[A[A[A
+
+
+libclang13-14.0.6    | 9.8 MB    | ############################5                |  65% [A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | #######7                                     |  18% [A[Amysql-5.7.24         | 60.0 MB   | ##3                                          |   5% 
+qt-main-5.15.2       | 53.7 MB   | ##########2                                  |  23% [A
+
+
+
+
+
+libcups-2.4.2        | 4.5 MB    | #######################                      |  52% [A[A[A[A[A[A
+
+
+libclang13-14.0.6    | 9.8 MB    | ##############################6              |  70% [A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | ########2                                    |  19% [A[Amysql-5.7.24         | 60.0 MB   | ##7                                          |   6% 
+
+
+
+
+
+libcups-2.4.2        | 4.5 MB    | ##########################2                  |  60% [A[A[A[A[A[A
+
+
+libclang13-14.0.6    | 9.8 MB    | ################################7            |  74% [A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | ########6                                    |  20% [A[A
+qt-main-5.15.2       | 53.7 MB   | ##########9                                  |  25% [Amysql-5.7.24         | 60.0 MB   | ###1                                         |   7% 
+
+
+
+
+
+libcups-2.4.2        | 4.5 MB    | #############################9               |  68% [A[A[A[A[A[A
+
+
+libclang13-14.0.6    | 9.8 MB    | ##################################9          |  79% [A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | #########1                                   |  21% [A[A
+
+
+
+
+
+libcups-2.4.2        | 4.5 MB    | ##################################4          |  78% [A[A[A[A[A[Amysql-5.7.24         | 60.0 MB   | ###4                                         |   8% 
+
+
+libclang13-14.0.6    | 9.8 MB    | ####################################9        |  84% [A[A[A
+qt-main-5.15.2       | 53.7 MB   | ###########4                                 |  26% [A
+
+libllvm14-14.0.6     | 33.4 MB   | #########5                                   |  22% [A[A
+
+
+
+
+
+libcups-2.4.2        | 4.5 MB    | ######################################1      |  87% [A[A[A[A[A[Amysql-5.7.24         | 60.0 MB   | ###7                                         |   9% 
+
+
+libclang13-14.0.6    | 9.8 MB    | #######################################2     |  89% [A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | ##########                                   |  23% [A[A
+
+
+
+
+
+libcups-2.4.2        | 4.5 MB    | #########################################9   |  95% [A[A[A[A[A[Amysql-5.7.24         | 60.0 MB   | ####                                         |   9% 
+qt-main-5.15.2       | 53.7 MB   | ###########9                                 |  27% [A
+
+
+libclang13-14.0.6    | 9.8 MB    | #########################################4   |  94% [A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | ##########4                                  |  24% [A[Amysql-5.7.24         | 60.0 MB   | ####3                                        |  10% 
+
+
+
+
+
+
+libpq-12.17          | 2.4 MB    | 2                                            |   1% [A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | ############3                                |  28% [A
+
+libllvm14-14.0.6     | 33.4 MB   | ##########9                                  |  25% [A[Amysql-5.7.24         | 60.0 MB   | ####7                                        |  11% 
+
+
+
+
+
+
+libpq-12.17          | 2.4 MB    | ##########2                                  |  23% [A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | ############7                                |  29% [A
+
+
+
+
+
+
+
+gst-plugins-base-1.1 | 2.2 MB    | 3                                            |   1% [A[A[A[A[A[A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | ###########3                                 |  26% [A[Amysql-5.7.24         | 60.0 MB   | #####                                        |  12% 
+
+
+
+
+
+
+libpq-12.17          | 2.4 MB    | ###################2                         |  44% [A[A[A[A[A[A[A
+
+
+
+
+
+libcups-2.4.2        | 4.5 MB    | ############################################ | 100% [A[A[A[A[A[A
+
+
+
+
+
+
+
+gst-plugins-base-1.1 | 2.2 MB    | ########6                                    |  20% [A[A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | #############1                               |  30% [A
+
+libllvm14-14.0.6     | 33.4 MB   | ###########7                                 |  27% [A[A
+
+
+
+
+
+
+libpq-12.17          | 2.4 MB    | ###########################4                 |  62% [A[A[A[A[A[A[Amysql-5.7.24         | 60.0 MB   | #####3                                       |  12% 
+
+
+
+
+
+
+
+gst-plugins-base-1.1 | 2.2 MB    | #################8                           |  41% [A[A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | #############5                               |  31% [A
+
+libllvm14-14.0.6     | 33.4 MB   | ############1                                |  28% [A[Amysql-5.7.24         | 60.0 MB   | #####7                                       |  13% 
+
+
+libclang13-14.0.6    | 9.8 MB    | ############################################ | 100% [A[A[A
+
+
+libclang13-14.0.6    | 9.8 MB    | ############################################ | 100% [A[A[A
+
+
+
+
+
+
+libpq-12.17          | 2.4 MB    | ###################################1         |  80% [A[A[A[A[A[A[A
+
+
+
+
+
+
+
+gst-plugins-base-1.1 | 2.2 MB    | #############################                |  66% [A[A[A[A[A[A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | ############5                                |  29% [A[Amysql-5.7.24         | 60.0 MB   | ######                                       |  14% 
+
+
+
+
+
+
+libpq-12.17          | 2.4 MB    | ##########################################5  |  97% [A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | #############8                               |  32% [A
+
+
+
+
+
+
+
+gst-plugins-base-1.1 | 2.2 MB    | #######################################6     |  90% [A[A[A[A[A[A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | #############                                |  30% [A[A
+
+
+
+
+
+
+
+
+gstreamer-1.14.1     | 1.7 MB    | 4                                            |   1% [A[A[A[A[A[A[A[A[Amysql-5.7.24         | 60.0 MB   | ######3                                      |  14% 
+qt-main-5.15.2       | 53.7 MB   | ##############2                              |  32% [A
+
+
+
+
+
+
+
+
+
+libglib-2.78.4       | 1.5 MB    | 4                                            |   1% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+gstreamer-1.14.1     | 1.7 MB    | ##############                               |  32% [A[A[A[A[A[A[A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | #############5                               |  31% [A[A
+qt-main-5.15.2       | 53.7 MB   | ##############6                              |  33% [Amysql-5.7.24         | 60.0 MB   | ######6                                      |  15% 
+
+
+
+
+
+
+
+
+
+libglib-2.78.4       | 1.5 MB    | #############7                               |  31% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+gstreamer-1.14.1     | 1.7 MB    | ##########################4                  |  60% [A[A[A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | ##############9                              |  34% [A
+
+libllvm14-14.0.6     | 33.4 MB   | #############9                               |  32% [A[Amysql-5.7.24         | 60.0 MB   | ######9                                      |  16% 
+
+
+
+
+
+
+
+
+
+libglib-2.78.4       | 1.5 MB    | ###########################4                 |  62% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+gstreamer-1.14.1     | 1.7 MB    | ####################################4        |  83% [A[A[A[A[A[A[A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | ##############3                              |  33% [A[A
+qt-main-5.15.2       | 53.7 MB   | ###############3                             |  35% [Amysql-5.7.24         | 60.0 MB   | #######2                                     |  16% 
+
+libllvm14-14.0.6     | 33.4 MB   | ##############8                              |  34% [A[A
+qt-main-5.15.2       | 53.7 MB   | ###############7                             |  36% [Amysql-5.7.24         | 60.0 MB   | #######6                                     |  17% 
+
+
+
+
+
+
+
+
+
+
+pillow-10.2.0        | 909 KB    | 7                                            |   2% [A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+tornado-6.3.3        | 787 KB    | 8                                            |   2% [A[A[A[A[A[A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | ################2                            |  37% [Amysql-5.7.24         | 60.0 MB   | ########                                     |  18% 
+
+libllvm14-14.0.6     | 33.4 MB   | ###############3                             |  35% [A[A
+
+
+
+
+
+
+
+
+
+
+pillow-10.2.0        | 909 KB    | ########################7                    |  56% [A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+tornado-6.3.3        | 787 KB    | ################################2            |  73% [A[A[A[A[A[A[A[A[A[A[A[Amysql-5.7.24         | 60.0 MB   | ########3                                    |  19% 
+qt-main-5.15.2       | 53.7 MB   | ################7                            |  38% [A
+
+libllvm14-14.0.6     | 33.4 MB   | ###############7                             |  36% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+libiconv-1.16        | 736 KB    | 9                                            |   2% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+libglib-2.78.4       | 1.5 MB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+libglib-2.78.4       | 1.5 MB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[Amysql-5.7.24         | 60.0 MB   | ########8                                    |  20% 
+qt-main-5.15.2       | 53.7 MB   | #################2                           |  39% [A
+
+libllvm14-14.0.6     | 33.4 MB   | ################1                            |  37% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+fonttools-4.25.0     | 632 KB    | #1                                           |   3% [A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+libiconv-1.16        | 736 KB    | ##################################4          |  78% [A[A[A[A[A[A[A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | #################6                           |  40% [Amysql-5.7.24         | 60.0 MB   | #########1                                   |  21% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+fonttools-4.25.0     | 632 KB    | #################################3           |  76% [A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | ################5                            |  38% [A[A
+qt-main-5.15.2       | 53.7 MB   | ##################2                          |  41% [A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+freetype-2.12.1      | 626 KB    | #1                                           |   3% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[Amysql-5.7.24         | 60.0 MB   | #########5                                   |  22% 
+
+
+
+
+
+
+
+gst-plugins-base-1.1 | 2.2 MB    | ############################################ | 100% [A[A[A[A[A[A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | #################                            |  39% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libxkbcommon-1.0.1   | 590 KB    | #1                                           |   3% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+freetype-2.12.1      | 626 KB    | ####################################         |  82% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | ##################7                          |  43% [Amysql-5.7.24         | 60.0 MB   | #########9                                   |  23% 
+
+libllvm14-14.0.6     | 33.4 MB   | #################3                           |  40% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libxkbcommon-1.0.1   | 590 KB    | ########################################5    |  92% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | ###################1                         |  44% [A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sip-6.7.12           | 553 KB    | #2                                           |   3% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[Amysql-5.7.24         | 60.0 MB   | ##########3                                  |  23% 
+
+libllvm14-14.0.6     | 33.4 MB   | #################8                           |  41% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libtiff-4.5.1        | 533 KB    | #3                                           |   3% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | ###################6                         |  45% [A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sip-6.7.12           | 553 KB    | #######################################4     |  90% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[Amysql-5.7.24         | 60.0 MB   | ##########6                                  |  24% 
+
+libllvm14-14.0.6     | 33.4 MB   | ##################2                          |  42% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+glib-2.78.4          | 508 KB    | #3                                           |   3% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | ####################1                        |  46% [Amysql-5.7.24         | 60.0 MB   | ###########                                  |  25% 
+
+libllvm14-14.0.6     | 33.4 MB   | ##################6                          |  42% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libxcb-1.15          | 505 KB    | #3                                           |   3% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | ####################5                        |  47% [Amysql-5.7.24         | 60.0 MB   | ###########4                                 |  26% 
+
+libllvm14-14.0.6     | 33.4 MB   | ###################                          |  43% [A[A
+qt-main-5.15.2       | 53.7 MB   | #####################                        |  48% [Amysql-5.7.24         | 60.0 MB   | ###########8                                 |  27% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dbus-1.13.18         | 504 KB    | #3                                           |   3% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libwebp-base-1.3.2   | 387 KB    | #8                                           |   4% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | ###################5                         |  44% [A[A
+
+
+
+
+
+
+
+
+gstreamer-1.14.1     | 1.7 MB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dbus-1.13.18         | 504 KB    | #######################################1     |  89% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | #####################5                       |  49% [Amysql-5.7.24         | 60.0 MB   | ############2                                |  28% 
+
+libllvm14-14.0.6     | 33.4 MB   | ###################9                         |  45% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+openjpeg-2.4.0       | 331 KB    | ##1                                          |   5% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+tornado-6.3.3        | 787 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | ######################                       |  50% [Amysql-5.7.24         | 60.0 MB   | ############6                                |  29% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lcms2-2.12           | 312 KB    | ##2                                          |   5% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | ####################3                        |  46% [A[A
+qt-main-5.15.2       | 53.7 MB   | ######################5                      |  51% [Amysql-5.7.24         | 60.0 MB   | #############                                |  30% 
+
+libllvm14-14.0.6     | 33.4 MB   | ####################8                        |  47% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libpng-1.6.39        | 304 KB    | ##3                                          |   5% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fontconfig-2.14.1    | 281 KB    | ##5                                          |   6% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | #######################                      |  52% [Amysql-5.7.24         | 60.0 MB   | #############4                               |  31% 
+
+libllvm14-14.0.6     | 33.4 MB   | #####################3                       |  49% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libbrotlienc-1.0.9   | 264 KB    | ##6                                          |   6% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | #######################6                     |  54% [Amysql-5.7.24         | 60.0 MB   | #############9                               |  32% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jpeg-9e              | 262 KB    | ##6                                          |   6% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | #####################7                       |  50% [A[Amysql-5.7.24         | 60.0 MB   | ##############4                              |  33% 
+qt-main-5.15.2       | 53.7 MB   | ########################                     |  55% [A
+
+
+
+
+
+
+
+
+
+
+
+
+libiconv-1.16        | 736 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contourpy-1.2.0      | 238 KB    | ##9                                          |   7% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cyrus-sasl-2.1.28    | 237 KB    | ##9                                          |   7% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | ######################4                      |  51% [A[Amysql-5.7.24         | 60.0 MB   | ##############8                              |  34% 
+qt-main-5.15.2       | 53.7 MB   | ########################5                    |  56% [A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pyparsing-3.0.9      | 197 KB    | ###5                                         |   8% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | ######################9                      |  52% [A[Amysql-5.7.24         | 60.0 MB   | ###############2                             |  35% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lerc-3.0             | 196 KB    | ###5                                         |   8% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | #########################                    |  57% [A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ... (more hidden) ...[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | #######################4                     |  53% [A[Amysql-5.7.24         | 60.0 MB   | ###############6                             |  36% 
+qt-main-5.15.2       | 53.7 MB   | #########################5                   |  58% [A
+
+
+
+
+
+
+
+
+
+
+pillow-10.2.0        | 909 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+pillow-10.2.0        | 909 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | ########################                     |  55% [A[Amysql-5.7.24         | 60.0 MB   | ################1                            |  37% 
+qt-main-5.15.2       | 53.7 MB   | ##########################                   |  59% [A
+
+libllvm14-14.0.6     | 33.4 MB   | ########################6                    |  56% [A[Amysql-5.7.24         | 60.0 MB   | ################6                            |  38% 
+qt-main-5.15.2       | 53.7 MB   | ##########################5                  |  60% [A
+
+libllvm14-14.0.6     | 33.4 MB   | #########################3                   |  58% [A[Amysql-5.7.24         | 60.0 MB   | #################1                           |  39% 
+qt-main-5.15.2       | 53.7 MB   | ###########################                  |  62% [A
+
+libllvm14-14.0.6     | 33.4 MB   | ##########################                   |  59% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+freetype-2.12.1      | 626 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[Amysql-5.7.24         | 60.0 MB   | #################6                           |  40% 
+qt-main-5.15.2       | 53.7 MB   | ###########################6                 |  63% [A
+
+libllvm14-14.0.6     | 33.4 MB   | ##########################6                  |  61% [A[Amysql-5.7.24         | 60.0 MB   | ##################1                          |  41% 
+qt-main-5.15.2       | 53.7 MB   | ############################2                |  64% [A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libxkbcommon-1.0.1   | 590 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | ###########################2                 |  62% [A[Amysql-5.7.24         | 60.0 MB   | ##################6                          |  42% 
+qt-main-5.15.2       | 53.7 MB   | ############################7                |  65% [A
+
+
+
+
+
+
+
+
+
+
+
+
+
+fonttools-4.25.0     | 632 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | ###########################9                 |  64% [A[Amysql-5.7.24         | 60.0 MB   | ###################1                         |  43% 
+qt-main-5.15.2       | 53.7 MB   | #############################2               |  67% [A
+
+libllvm14-14.0.6     | 33.4 MB   | ############################7                |  65% [A[Amysql-5.7.24         | 60.0 MB   | ###################6                         |  45% 
+qt-main-5.15.2       | 53.7 MB   | #############################8               |  68% [A
+
+libllvm14-14.0.6     | 33.4 MB   | #############################5               |  67% [A[Amysql-5.7.24         | 60.0 MB   | ####################1                        |  46% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libtiff-4.5.1        | 533 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libtiff-4.5.1        | 533 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | ##############################3              |  69% [Amysql-5.7.24         | 60.0 MB   | ####################6                        |  47% 
+
+libllvm14-14.0.6     | 33.4 MB   | ##############################2              |  69% [A[A
+qt-main-5.15.2       | 53.7 MB   | ##############################8              |  70% [A
+
+libllvm14-14.0.6     | 33.4 MB   | ###############################1             |  71% [A[Amysql-5.7.24         | 60.0 MB   | #####################2                       |  48% 
+qt-main-5.15.2       | 53.7 MB   | ###############################4             |  71% [A
+
+libllvm14-14.0.6     | 33.4 MB   | ###############################9             |  73% [A[Amysql-5.7.24         | 60.0 MB   | #####################7                       |  49% 
+qt-main-5.15.2       | 53.7 MB   | ###############################9             |  73% [A
+
+libllvm14-14.0.6     | 33.4 MB   | ################################7            |  74% [A[Amysql-5.7.24         | 60.0 MB   | ######################1                      |  50% 
+qt-main-5.15.2       | 53.7 MB   | ################################4            |  74% [A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sip-6.7.12           | 553 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | #################################6           |  77% [A[Amysql-5.7.24         | 60.0 MB   | ######################6                      |  52% 
+qt-main-5.15.2       | 53.7 MB   | ################################9            |  75% [A
+
+libllvm14-14.0.6     | 33.4 MB   | ##################################5          |  79% [A[Amysql-5.7.24         | 60.0 MB   | #######################1                     |  53% 
+qt-main-5.15.2       | 53.7 MB   | #################################4           |  76% [A
+
+libllvm14-14.0.6     | 33.4 MB   | ###################################5         |  81% [A[Amysql-5.7.24         | 60.0 MB   | #######################6                     |  54% 
+qt-main-5.15.2       | 53.7 MB   | #################################9           |  77% [A
+
+libllvm14-14.0.6     | 33.4 MB   | ####################################4        |  83% [A[Amysql-5.7.24         | 60.0 MB   | ########################1                    |  55% 
+qt-main-5.15.2       | 53.7 MB   | ##################################3          |  78% [A
+
+libllvm14-14.0.6     | 33.4 MB   | #####################################5       |  85% [A[Amysql-5.7.24         | 60.0 MB   | ########################5                    |  56% 
+
+
+
+
+
+
+libpq-12.17          | 2.4 MB    | ############################################ | 100% [A[A[A[A[A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | ######################################5      |  88% [A[A
+qt-main-5.15.2       | 53.7 MB   | ##################################8          |  79% [A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libxcb-1.15          | 505 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libxcb-1.15          | 505 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[Amysql-5.7.24         | 60.0 MB   | #########################                    |  57% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+glib-2.78.4          | 508 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+glib-2.78.4          | 508 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | #######################################6     |  90% [A[A
+qt-main-5.15.2       | 53.7 MB   | ###################################2         |  80% [Amysql-5.7.24         | 60.0 MB   | #########################5                   |  58% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libwebp-base-1.3.2   | 387 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libwebp-base-1.3.2   | 387 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+openjpeg-2.4.0       | 331 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+libllvm14-14.0.6     | 33.4 MB   | ########################################8    |  93% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+openjpeg-2.4.0       | 331 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dbus-1.13.18         | 504 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | ###################################6         |  81% [Amysql-5.7.24         | 60.0 MB   | #########################9                   |  59% 
+
+libllvm14-14.0.6     | 33.4 MB   | #########################################9   |  95% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lcms2-2.12           | 312 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lcms2-2.12           | 312 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | ####################################         |  82% [A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libpng-1.6.39        | 304 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libpng-1.6.39        | 304 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[Amysql-5.7.24         | 60.0 MB   | ##########################3                  |  60% 
+
+libllvm14-14.0.6     | 33.4 MB   | ###########################################1 |  98% [A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libbrotlienc-1.0.9   | 264 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+libbrotlienc-1.0.9   | 264 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | ####################################4        |  83% [Amysql-5.7.24         | 60.0 MB   | ##########################8                  |  61% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jpeg-9e              | 262 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jpeg-9e              | 262 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | ####################################9        |  84% [A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fontconfig-2.14.1    | 281 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fontconfig-2.14.1    | 281 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[Amysql-5.7.24         | 60.0 MB   | ###########################3                 |  62% 
+qt-main-5.15.2       | 53.7 MB   | #####################################4       |  85% [Amysql-5.7.24         | 60.0 MB   | ###########################9                 |  64% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contourpy-1.2.0      | 238 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contourpy-1.2.0      | 238 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | ######################################       |  86% [A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pyparsing-3.0.9      | 197 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pyparsing-3.0.9      | 197 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[Amysql-5.7.24         | 60.0 MB   | ############################7                |  65% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lerc-3.0             | 196 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lerc-3.0             | 196 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | ######################################7      |  88% [Amysql-5.7.24         | 60.0 MB   | #############################6               |  67% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cyrus-sasl-2.1.28    | 237 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cyrus-sasl-2.1.28    | 237 KB    | ############################################ | 100% [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | #######################################5     |  90% [Amysql-5.7.24         | 60.0 MB   | ##############################7              |  70% 
+qt-main-5.15.2       | 53.7 MB   | ########################################3    |  92% [Amysql-5.7.24         | 60.0 MB   | ###############################5             |  72% 
+qt-main-5.15.2       | 53.7 MB   | #########################################    |  93% [Amysql-5.7.24         | 60.0 MB   | ################################3            |  73% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ... (more hidden) ...[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ... (more hidden) ...[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+qt-main-5.15.2       | 53.7 MB   | #########################################7   |  95% [Amysql-5.7.24         | 60.0 MB   | #################################1           |  75% 
+qt-main-5.15.2       | 53.7 MB   | ##########################################4  |  96% [Amysql-5.7.24         | 60.0 MB   | #################################9           |  77% 
+qt-main-5.15.2       | 53.7 MB   | ###########################################1 |  98% [Amysql-5.7.24         | 60.0 MB   | ##################################6          |  79% 
+qt-main-5.15.2       | 53.7 MB   | ###########################################9 | 100% [Amysql-5.7.24         | 60.0 MB   | ###################################4         |  81% mysql-5.7.24         | 60.0 MB   | ####################################5        |  83% mysql-5.7.24         | 60.0 MB   | #####################################9       |  86% mysql-5.7.24         | 60.0 MB   | #######################################7     |  90% mysql-5.7.24         | 60.0 MB   | #########################################1   |  93% mysql-5.7.24         | 60.0 MB   | ##########################################5  |  97% mysql-5.7.24         | 60.0 MB   | ###########################################8 | 100% 
+
+libllvm14-14.0.6     | 33.4 MB   | ############################################ | 100% [A[A
+qt-main-5.15.2       | 53.7 MB   | ############################################ | 100% [Amysql-5.7.24         | 60.0 MB   | ############################################ | 100% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A                                                                                       
+                                                                                       [A
+
+                                                                                       [A[A
+
+
+                                                                                       [A[A[A
+
+
+
+                                                                                       [A[A[A[A
+
+
+
+
+                                                                                       [A[A[A[A[A
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A
+
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A
+[A
+
+[A[A
+
+
+[A[A[A
+
+
+
+[A[A[A[A
+
+
+
+
+[A[A[A[A[A
+
+
+
+
+
+[A[A[A[A[A[A
+
+
+
+
+
+
+[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+[A[A[A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+
+
+
+[A[A[A[A[A[A[A[A[A[A[A[A[A
+Preparing transaction: \ 
+| / - \ | done
+Verifying transaction: - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - done
+Executing transaction: | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | done
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ 
+[?2004l[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ cona[Kda install seaborn
+[?2004lChannels:
+ - defaults
+Platform: linux-64
+Collecting package metadata (repodata.json): - \ | / - \ | / - \ | / done
+Solving environment: \ | done
+
+## Package Plan ##
+
+  environment location: /home/vikram6259/miniconda3/envs/tigertribe6259_conda
+
+  added / updated specs:
+    - seaborn
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    seaborn-0.12.2             |  py312h06a4308_0         555 KB
+    ------------------------------------------------------------
+                                           Total:         555 KB
+
+The following NEW packages will be INSTALLED:
+
+  seaborn            pkgs/main/linux-64::seaborn-0.12.2-py312h06a4308_0 
+
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages:
+seaborn-0.12.2       | 555 KB    |                                              |   0% seaborn-0.12.2       | 555 KB    | #2                                           |   3% seaborn-0.12.2       | 555 KB    | ############################################ | 100% seaborn-0.12.2       | 555 KB    | ############################################ | 100%                                                                                        
+Preparing transaction: - done
+Verifying transaction: | done
+Executing transaction: - done
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda install conda-fr=orge[K[K[K[K[K[Korge::numpy
+[?2004lChannels:
+ - defaults
+ - conda-forge
+Platform: linux-64
+Collecting package metadata (repodata.json): - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | done
+Solving environment: - \ | done
+
+# All requested packages already installed.
+
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda versino[K[Kon-version-version
+[?2004lconda 24.1.2
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda list
+[?2004l# packages in environment at /home/vikram6259/miniconda3/envs/tigertribe6259_conda:
+#
+# Name                    Version                   Build  Channel
+_libgcc_mutex             0.1                        main  
+_openmp_mutex             5.1                       1_gnu  
+blas                      1.0                         mkl  
+bottleneck                1.3.7           py312ha883a20_0  
+brotli                    1.0.9                h5eee18b_7  
+brotli-bin                1.0.9                h5eee18b_7  
+bzip2                     1.0.8                h5eee18b_5  
+ca-certificates           2024.3.11            h06a4308_0  
+contourpy                 1.2.0           py312hdb19cb5_0  
+cycler                    0.11.0             pyhd3eb1b0_0  
+cyrus-sasl                2.1.28               h52b45da_1  
+dbus                      1.13.18              hb2f20db_0  
+expat                     2.5.0                h6a678d5_0  
+fontconfig                2.14.1               h4c34cd2_2  
+fonttools                 4.25.0             pyhd3eb1b0_0  
+freetype                  2.12.1               h4a9f257_0  
+glib                      2.78.4               h6a678d5_0  
+glib-tools                2.78.4               h6a678d5_0  
+gst-plugins-base          1.14.1               h6a678d5_1  
+gstreamer                 1.14.1               h5eee18b_1  
+icu                       73.1                 h6a678d5_0  
+intel-openmp              2023.1.0         hdb19cb5_46306  
+jpeg                      9e                   h5eee18b_1  
+kiwisolver                1.4.4           py312h6a678d5_0  
+krb5                      1.20.1               h143b758_1  
+lcms2                     2.12                 h3be6417_0  
+ld_impl_linux-64          2.38                 h1181459_1  
+lerc                      3.0                  h295c915_0  
+libbrotlicommon           1.0.9                h5eee18b_7  
+libbrotlidec              1.0.9                h5eee18b_7  
+libbrotlienc              1.0.9                h5eee18b_7  
+libclang                  14.0.6          default_hc6dbbc7_1  
+libclang13                14.0.6          default_he11475f_1  
+libcups                   2.4.2                h2d74bed_1  
+libdeflate                1.17                 h5eee18b_1  
+libedit                   3.1.20230828         h5eee18b_0  
+libffi                    3.4.4                h6a678d5_0  
+libgcc-ng                 11.2.0               h1234567_1  
+libglib                   2.78.4               hdc74915_0  
+libgomp                   11.2.0               h1234567_1  
+libiconv                  1.16                 h7f8727e_2  
+libllvm14                 14.0.6               hdb19cb5_3  
+libpng                    1.6.39               h5eee18b_0  
+libpq                     12.17                hdbd6064_0  
+libstdcxx-ng              11.2.0               h1234567_1  
+libtiff                   4.5.1                h6a678d5_0  
+libuuid                   1.41.5               h5eee18b_0  
+libwebp-base              1.3.2                h5eee18b_0  
+libxcb                    1.15                 h7f8727e_0  
+libxkbcommon              1.0.1                h5eee18b_1  
+libxml2                   2.10.4               hf1b16e4_1  
+lz4-c                     1.9.4                h6a678d5_0  
+matplotlib                3.8.0           py312h06a4308_0  
+matplotlib-base           3.8.0           py312h526ad5a_0  
+mkl                       2023.1.0         h213fc3f_46344  
+mkl-service               2.4.0           py312h5eee18b_1  
+mkl_fft                   1.3.8           py312h5eee18b_0  
+mkl_random                1.2.4           py312hdb19cb5_0  
+munkres                   1.1.4                      py_0  
+mysql                     5.7.24               h721c034_2  
+ncurses                   6.4                  h6a678d5_0  
+numexpr                   2.8.7           py312hf827012_0  
+numpy                     1.26.4          py312hc5e2394_0  
+numpy-base                1.26.4          py312h0da6c21_0  
+openjpeg                  2.4.0                h3ad879b_0  
+openssl                   3.0.13               h7f8727e_0  
+packaging                 23.2            py312h06a4308_0  
+pandas                    2.2.1           py312h526ad5a_0  
+pcre2                     10.42                hebb0a14_0  
+pillow                    10.2.0          py312h5eee18b_0  
+pip                       23.3.1          py312h06a4308_0  
+ply                       3.11            py312h06a4308_1  
+pyparsing                 3.0.9           py312h06a4308_0  
+pyqt                      5.15.10         py312h6a678d5_0  
+pyqt5-sip                 12.13.0         py312h5eee18b_0  
+python                    3.12.2               h996f2a0_0  
+python-dateutil           2.8.2              pyhd3eb1b0_0  
+python-tzdata             2023.3             pyhd3eb1b0_0  
+pytz                      2023.3.post1    py312h06a4308_0  
+qt-main                   5.15.2              h53bd1ea_10  
+readline                  8.2                  h5eee18b_0  
+seaborn                   0.12.2          py312h06a4308_0  
+setuptools                68.2.2          py312h06a4308_0  
+sip                       6.7.12          py312h6a678d5_0  
+six                       1.16.0             pyhd3eb1b0_1  
+sqlite                    3.41.2               h5eee18b_0  
+tbb                       2021.8.0             hdb19cb5_0  
+tk                        8.6.12               h1ccaba5_0  
+tornado                   6.3.3           py312h5eee18b_0  
+tzdata                    2024a                h04d1e81_0  
+wheel                     0.41.2          py312h06a4308_0  
+xz                        5.4.6                h5eee18b_0  
+zlib                      1.2.13               h5eee18b_0  
+zstd                      1.5.5                hc292b87_0  
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ remove[K[K[K[K[K[Kconda remove -i
+[?2004lusage: conda [-h] [-v] [--no-plugins] [-V] COMMAND ...
+conda: error: unrecognized arguments: -i
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda remove -i-i~i[1Pi[Cndex-cache
+[?2004lusage: conda [-h] [-v] [--no-plugins] [-V] COMMAND ...
+conda: error: unrecognized arguments: --index-cache
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda remove --index-cache[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kclean -i
+[?2004lWill remove 1 index cache(s).
+Proceed ([y]/n)? t y
+
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda ce[Klean -t
+[?2004lWill remove 142 (548.9 MB) tarball(s).
+Proceed ([y]/n)? y
+
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda remove -c
+[?2004lusage: conda remove [-h] [-n ENVIRONMENT | -p PATH] [-c CHANNEL] [--use-local]
+                    [--override-channels] [--repodata-fn REPODATA_FNS]
+                    [--experimental {jlap,lock}] [--no-lock]
+                    [--repodata-use-zst | --no-repodata-use-zst] [--features]
+                    [--force-remove] [--no-pin] [--solver {classic,libmamba}] [-C]
+                    [-k] [--offline] [--json] [-v] [-q] [-d] [-y] [--all]
+                    [--keep-env] [--dev]
+                    [package_name ...]
+conda remove: error: argument -c/--channel: expected one argument
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda remove -c[C[Kl
+[?2004lusage: conda [-h] [-v] [--no-plugins] [-V] COMMAND ...
+conda: error: unrecognized arguments: -l
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda remove -l-[K[K-logi[Kfiles
+[?2004lusage: conda [-h] [-v] [--no-plugins] [-V] COMMAND ...
+conda: error: unrecognized arguments: --logfiles
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ coda[K[K[K[Kconda remove --logfilesl[K[Ki
+[?2004lusage: conda [-h] [-v] [--no-plugins] [-V] COMMAND ...
+conda: error: unrecognized arguments: -i
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda remove -i-logfilesl[Kc[1Pclean -tiremove --index-cacheconda[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kclean -c
+[?2004lThere are no tempfile(s) to remove.
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda clean -l
+[?2004lThere are no logfile(s) to remove.
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ [K(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda create -n dummy_env 
+[?2004lChannels:
+ - defaults
+Platform: linux-64
+Collecting package metadata (repodata.json): - \ | / - \ | / - \ | done
+Solving environment: - done
+
+## Package Plan ##
+
+  environment location: /home/vikram6259/miniconda3/envs/dummy_env
+
+
+
+Proceed ([y]/n)? y
+
+Preparing transaction: | done
+Verifying transaction: - done
+Executing transaction: | done
+#
+# To activate this environment, use
+#
+#     $ conda activate dummy_env
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda info --envs
+[?2004l# conda environments:
+#
+base                     /home/vikram6259/miniconda3
+dummy_env                /home/vikram6259/miniconda3/envs/dummy_env
+tigertribe6259_conda  *  /home/vikram6259/miniconda3/envs/tigertribe6259_conda
+
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda con[Kmapre [K[K[K[K[Kpare dummy_env
+[?2004l
+EnvironmentFileNotFound: '/home/vikram6259/dummy_env' file not found
+
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda comapre [7m/home/vikram6259/miniconda3/envs/dummy_env[27m/home/vikram6259/miniconda3/envs/dummy_env
+[?2004lusage: conda [-h] [-v] [--no-plugins] [-V] COMMAND ...
+conda: error: argument COMMAND: invalid choice: 'comapre' (choose from 'activate', 'deactivate', 'clean', 'compare', 'config', 'create', 'env', 'info', 'init', 'install', 'list', 'notices', 'package', 'remove', 'uninstall', 'rename', 'run', 'search', 'update', 'upgrade', 'content-trust', 'doctor', 'repoquery')
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ c[Kconda comapre /home/vikram6259/miniconda3/envs/dummy_env[1P[1P[1@p[1@a
+[?2004l
+EnvironmentFileNotFound: '/home/vikram6259/miniconda3/envs/dummy_env' file not found
+
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda reo[Kmove [K(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda remove [K(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda remove [K(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda remove -n dummy_env l[Ka-[K[K--all
+[?2004l
+Remove all packages in environment /home/vikram6259/miniconda3/envs/dummy_env:
+
+No packages found in /home/vikram6259/miniconda3/envs/dummy_env. Continuing environment removal
+Everything found within the environment (/home/vikram6259/miniconda3/envs/dummy_env), including any conda environment configurations and any non-conda files, will be deleted. Do you wish to continue?
+ (y/[n])? y
+
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ cin[K[Konda info --envs
+[?2004l# conda environments:
+#
+base                     /home/vikram6259/miniconda3
+tigertribe6259_conda  *  /home/vikram6259/miniconda3/envs/tigertribe6259_conda
+
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda uninsa[Ktall seabon[Ktn [K[K[Ktn [K[K[Krn -n tigertri[Kibe63[K259_cond a
+[?2004lChannels:
+ - defaults
+Platform: linux-64
+Collecting package metadata (repodata.json): - \ | / - \ | / - \ | / - done
+Solving environment: | / done
+
+## Package Plan ##
+
+  environment location: /home/vikram6259/miniconda3/envs/tigertribe6259_conda
+
+  removed specs:
+    - seaborn
+
+
+The following packages will be REMOVED:
+
+  seaborn-0.12.2-py312h06a4308_0
+
+
+Proceed ([y]/n)? y
+
+Preparing transaction: \ done
+Verifying transaction: / done
+Executing transaction: \ done
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda list - [Kn tigertribe9259[K[K[K[K6259_conda --revisions [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ks
+[?2004l2024-04-05 15:45:45  (rev 0)
+    +_libgcc_mutex-0.1 (defaults/linux-64)
+    +_openmp_mutex-5.1 (defaults/linux-64)
+    +blas-1.0 (defaults/linux-64)
+    +bottleneck-1.3.7 (defaults/linux-64)
+    +bzip2-1.0.8 (defaults/linux-64)
+    +ca-certificates-2024.3.11 (defaults/linux-64)
+    +expat-2.5.0 (defaults/linux-64)
+    +intel-openmp-2023.1.0 (defaults/linux-64)
+    +ld_impl_linux-64-2.38 (defaults/linux-64)
+    +libffi-3.4.4 (defaults/linux-64)
+    +libgcc-ng-11.2.0 (defaults/linux-64)
+    +libgomp-11.2.0 (defaults/linux-64)
+    +libstdcxx-ng-11.2.0 (defaults/linux-64)
+    +libuuid-1.41.5 (defaults/linux-64)
+    +mkl-2023.1.0 (defaults/linux-64)
+    +mkl-service-2.4.0 (defaults/linux-64)
+    +mkl_fft-1.3.8 (defaults/linux-64)
+    +mkl_random-1.2.4 (defaults/linux-64)
+    +ncurses-6.4 (defaults/linux-64)
+    +numexpr-2.8.7 (defaults/linux-64)
+    +numpy-1.26.4 (defaults/linux-64)
+    +numpy-base-1.26.4 (defaults/linux-64)
+    +openssl-3.0.13 (defaults/linux-64)
+    +pandas-2.2.1 (defaults/linux-64)
+    +pip-23.3.1 (defaults/linux-64)
+    +python-3.12.2 (defaults/linux-64)
+    +python-dateutil-2.8.2 (defaults/noarch)
+    +python-tzdata-2023.3 (defaults/noarch)
+    +pytz-2023.3.post1 (defaults/linux-64)
+    +readline-8.2 (defaults/linux-64)
+    +setuptools-68.2.2 (defaults/linux-64)
+    +six-1.16.0 (defaults/noarch)
+    +sqlite-3.41.2 (defaults/linux-64)
+    +tbb-2021.8.0 (defaults/linux-64)
+    +tk-8.6.12 (defaults/linux-64)
+    +tzdata-2024a (defaults/noarch)
+    +wheel-0.41.2 (defaults/linux-64)
+    +xz-5.4.6 (defaults/linux-64)
+    +zlib-1.2.13 (defaults/linux-64)
+
+2024-04-05 15:50:26  (rev 1)
+    +brotli-1.0.9 (defaults/linux-64)
+    +brotli-bin-1.0.9 (defaults/linux-64)
+    +contourpy-1.2.0 (defaults/linux-64)
+    +cycler-0.11.0 (defaults/noarch)
+    +cyrus-sasl-2.1.28 (defaults/linux-64)
+    +dbus-1.13.18 (defaults/linux-64)
+    +fontconfig-2.14.1 (defaults/linux-64)
+    +fonttools-4.25.0 (defaults/noarch)
+    +freetype-2.12.1 (defaults/linux-64)
+    +glib-2.78.4 (defaults/linux-64)
+    +glib-tools-2.78.4 (defaults/linux-64)
+    +gst-plugins-base-1.14.1 (defaults/linux-64)
+    +gstreamer-1.14.1 (defaults/linux-64)
+    +icu-73.1 (defaults/linux-64)
+    +jpeg-9e (defaults/linux-64)
+    +kiwisolver-1.4.4 (defaults/linux-64)
+    +krb5-1.20.1 (defaults/linux-64)
+    +lcms2-2.12 (defaults/linux-64)
+    +lerc-3.0 (defaults/linux-64)
+    +libbrotlicommon-1.0.9 (defaults/linux-64)
+    +libbrotlidec-1.0.9 (defaults/linux-64)
+    +libbrotlienc-1.0.9 (defaults/linux-64)
+    +libclang-14.0.6 (defaults/linux-64)
+    +libclang13-14.0.6 (defaults/linux-64)
+    +libcups-2.4.2 (defaults/linux-64)
+    +libdeflate-1.17 (defaults/linux-64)
+    +libedit-3.1.20230828 (defaults/linux-64)
+    +libglib-2.78.4 (defaults/linux-64)
+    +libiconv-1.16 (defaults/linux-64)
+    +libllvm14-14.0.6 (defaults/linux-64)
+    +libpng-1.6.39 (defaults/linux-64)
+    +libpq-12.17 (defaults/linux-64)
+    +libtiff-4.5.1 (defaults/linux-64)
+    +libwebp-base-1.3.2 (defaults/linux-64)
+    +libxcb-1.15 (defaults/linux-64)
+    +libxkbcommon-1.0.1 (defaults/linux-64)
+    +libxml2-2.10.4 (defaults/linux-64)
+    +lz4-c-1.9.4 (defaults/linux-64)
+    +matplotlib-3.8.0 (defaults/linux-64)
+    +matplotlib-base-3.8.0 (defaults/linux-64)
+    +munkres-1.1.4 (defaults/noarch)
+    +mysql-5.7.24 (defaults/linux-64)
+    +openjpeg-2.4.0 (defaults/linux-64)
+    +packaging-23.2 (defaults/linux-64)
+    +pcre2-10.42 (defaults/linux-64)
+    +pillow-10.2.0 (defaults/linux-64)
+    +ply-3.11 (defaults/linux-64)
+    +pyparsing-3.0.9 (defaults/linux-64)
+    +pyqt-5.15.10 (defaults/linux-64)
+    +pyqt5-sip-12.13.0 (defaults/linux-64)
+    +qt-main-5.15.2 (defaults/linux-64)
+    +sip-6.7.12 (defaults/linux-64)
+    +tornado-6.3.3 (defaults/linux-64)
+    +zstd-1.5.5 (defaults/linux-64)
+
+2024-04-05 15:50:56  (rev 2)
+    +seaborn-0.12.2 (defaults/linux-64)
+
+2024-04-05 16:21:07  (rev 3)
+    -seaborn-0.12.2 (defaults/linux-64)
+
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ get i[K[K[K[K[Kconda search seaborn --info
+[?2004lLoading channels: - \ | / - \ | / done
+seaborn 0.8.0 py27h9d2aaa1_0
+----------------------------
+file name   : seaborn-0.8.0-py27h9d2aaa1_0.conda
+name        : seaborn
+version     : 0.8.0
+build       : py27h9d2aaa1_0
+build number: 0
+size        : 315 KB
+license     : BSD 3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.8.0-py27h9d2aaa1_0.conda
+md5         : 3a6e8daf9b95d46954ea8645f96ec547
+timestamp   : 2017-09-18 17:31:39 UTC
+dependencies: 
+  - matplotlib
+  - numpy
+  - pandas
+  - patsy
+  - python >=2.7,<2.8.0a0
+  - scipy
+  - statsmodels
+
+
+seaborn 0.8.0 py35h15a2772_0
+----------------------------
+file name   : seaborn-0.8.0-py35h15a2772_0.conda
+name        : seaborn
+version     : 0.8.0
+build       : py35h15a2772_0
+build number: 0
+size        : 319 KB
+license     : BSD 3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.8.0-py35h15a2772_0.conda
+md5         : cb51c1828372ca75daa4d461f86e76f7
+timestamp   : 2017-09-18 17:32:01 UTC
+dependencies: 
+  - matplotlib
+  - numpy
+  - pandas
+  - patsy
+  - python >=3.5,<3.6.0a0
+  - scipy
+  - statsmodels
+
+
+seaborn 0.8.0 py36h197244f_0
+----------------------------
+file name   : seaborn-0.8.0-py36h197244f_0.conda
+name        : seaborn
+version     : 0.8.0
+build       : py36h197244f_0
+build number: 0
+size        : 319 KB
+license     : BSD 3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.8.0-py36h197244f_0.conda
+md5         : 6566818233a84be12d793c752b6e2f98
+timestamp   : 2017-09-18 17:32:22 UTC
+dependencies: 
+  - matplotlib
+  - numpy
+  - pandas
+  - patsy
+  - python >=3.6,<3.7.0a0
+  - scipy
+  - statsmodels
+
+
+seaborn 0.8.1 py27_0
+--------------------
+file name   : seaborn-0.8.1-py27_0.conda
+name        : seaborn
+version     : 0.8.1
+build       : py27_0
+build number: 0
+size        : 322 KB
+license     : BSD 3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.8.1-py27_0.conda
+md5         : 17aa69f3e98922a520585085af2f4771
+timestamp   : 2018-07-07 10:54:43 UTC
+dependencies: 
+  - matplotlib
+  - numpy
+  - pandas
+  - patsy
+  - python >=2.7,<2.8.0a0
+  - scipy
+  - statsmodels
+
+
+seaborn 0.8.1 py27h633ea1e_0
+----------------------------
+file name   : seaborn-0.8.1-py27h633ea1e_0.conda
+name        : seaborn
+version     : 0.8.1
+build       : py27h633ea1e_0
+build number: 0
+size        : 323 KB
+license     : BSD 3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.8.1-py27h633ea1e_0.conda
+md5         : a5be92763919837c3219d44e94909ef4
+timestamp   : 2017-11-21 20:55:43 UTC
+dependencies: 
+  - matplotlib
+  - numpy
+  - pandas
+  - patsy
+  - python >=2.7,<2.8.0a0
+  - scipy
+  - statsmodels
+
+
+seaborn 0.8.1 py35h04cba02_0
+----------------------------
+file name   : seaborn-0.8.1-py35h04cba02_0.conda
+name        : seaborn
+version     : 0.8.1
+build       : py35h04cba02_0
+build number: 0
+size        : 326 KB
+license     : BSD 3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.8.1-py35h04cba02_0.conda
+md5         : aaf845b4a13e06ac25615fd47eaeba88
+timestamp   : 2017-11-21 20:55:47 UTC
+dependencies: 
+  - matplotlib
+  - numpy
+  - pandas
+  - patsy
+  - python >=3.5,<3.6.0a0
+  - scipy
+  - statsmodels
+
+
+seaborn 0.8.1 py36_0
+--------------------
+file name   : seaborn-0.8.1-py36_0.conda
+name        : seaborn
+version     : 0.8.1
+build       : py36_0
+build number: 0
+size        : 320 KB
+license     : BSD 3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.8.1-py36_0.conda
+md5         : 7b9e5762354042af669ca6047fc1081f
+timestamp   : 2018-07-07 10:55:24 UTC
+dependencies: 
+  - matplotlib
+  - numpy
+  - pandas
+  - patsy
+  - python >=3.6,<3.7.0a0
+  - scipy
+  - statsmodels
+
+
+seaborn 0.8.1 py36hfad7ec4_0
+----------------------------
+file name   : seaborn-0.8.1-py36hfad7ec4_0.conda
+name        : seaborn
+version     : 0.8.1
+build       : py36hfad7ec4_0
+build number: 0
+size        : 321 KB
+license     : BSD 3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.8.1-py36hfad7ec4_0.conda
+md5         : 15bdfebeee1c5c8310a1a5515182611d
+timestamp   : 2017-11-21 20:55:45 UTC
+dependencies: 
+  - matplotlib
+  - numpy
+  - pandas
+  - patsy
+  - python >=3.6,<3.7.0a0
+  - scipy
+  - statsmodels
+
+
+seaborn 0.8.1 py37_0
+--------------------
+file name   : seaborn-0.8.1-py37_0.conda
+name        : seaborn
+version     : 0.8.1
+build       : py37_0
+build number: 0
+size        : 321 KB
+license     : BSD 3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.8.1-py37_0.conda
+md5         : 16b489b2302294e9e3c40de6bdc6d5e1
+timestamp   : 2018-07-07 10:56:05 UTC
+dependencies: 
+  - matplotlib
+  - numpy
+  - pandas
+  - patsy
+  - python >=3.7,<3.8.0a0
+  - scipy
+  - statsmodels
+
+
+seaborn 0.9.0 py27_0
+--------------------
+file name   : seaborn-0.9.0-py27_0.conda
+name        : seaborn
+version     : 0.9.0
+build       : py27_0
+build number: 0
+size        : 360 KB
+license     : BSD 3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.9.0-py27_0.conda
+md5         : 4c23fa1ae729b4f6f63e44fbbe0fb394
+timestamp   : 2018-07-24 21:16:12 UTC
+dependencies: 
+  - matplotlib >=1.4.3
+  - numpy >=1.9.3
+  - pandas >=0.14.0
+  - python >=2.7,<2.8.0a0
+  - scipy >=0.15.2
+  - statsmodels >=0.5.0
+
+
+seaborn 0.9.0 py35_0
+--------------------
+file name   : seaborn-0.9.0-py35_0.conda
+name        : seaborn
+version     : 0.9.0
+build       : py35_0
+build number: 0
+size        : 359 KB
+license     : BSD 3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.9.0-py35_0.conda
+md5         : 03bb7f06f759f88899d95ed1ca1d1e53
+timestamp   : 2018-07-24 21:17:07 UTC
+dependencies: 
+  - matplotlib >=1.4.3
+  - numpy >=1.9.3
+  - pandas >=0.14.0
+  - python >=3.5,<3.6.0a0
+  - scipy >=0.15.2
+  - statsmodels >=0.5.0
+
+
+seaborn 0.9.0 py36_0
+--------------------
+file name   : seaborn-0.9.0-py36_0.conda
+name        : seaborn
+version     : 0.9.0
+build       : py36_0
+build number: 0
+size        : 352 KB
+license     : BSD 3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.9.0-py36_0.conda
+md5         : 77ea35b916ffc80308001690475786cc
+timestamp   : 2018-07-24 21:15:17 UTC
+dependencies: 
+  - matplotlib >=1.4.3
+  - numpy >=1.9.3
+  - pandas >=0.14.0
+  - python >=3.6,<3.7.0a0
+  - scipy >=0.15.2
+  - statsmodels >=0.5.0
+
+
+seaborn 0.9.0 py37_0
+--------------------
+file name   : seaborn-0.9.0-py37_0.conda
+name        : seaborn
+version     : 0.9.0
+build       : py37_0
+build number: 0
+size        : 355 KB
+license     : BSD 3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.9.0-py37_0.conda
+md5         : b3b6720505b4a00544db2d6f4e31e19b
+timestamp   : 2018-07-24 21:17:07 UTC
+dependencies: 
+  - matplotlib >=1.4.3
+  - numpy >=1.9.3
+  - pandas >=0.14.0
+  - python >=3.7,<3.8.0a0
+  - scipy >=0.15.2
+  - statsmodels >=0.5.0
+
+
+seaborn 0.9.0 pyh91ea838_1
+--------------------------
+file name   : seaborn-0.9.0-pyh91ea838_1.conda
+name        : seaborn
+version     : 0.9.0
+build       : pyh91ea838_1
+build number: 1
+size        : 165 KB
+license     : BSD 3-Clause
+subdir      : noarch
+url         : https://repo.anaconda.com/pkgs/main/noarch/seaborn-0.9.0-pyh91ea838_1.conda
+md5         : f9694afdfbecc9f3eb5a904b4e03ba58
+timestamp   : 2019-11-18 14:26:40 UTC
+dependencies: 
+  - matplotlib >=1.4.3
+  - numpy >=1.9.3
+  - pandas >=0.14.0
+  - python
+  - scipy >=0.15.2
+  - statsmodels >=0.5.0
+
+
+seaborn 0.10.0 py_0
+-------------------
+file name   : seaborn-0.10.0-py_0.conda
+name        : seaborn
+version     : 0.10.0
+build       : py_0
+build number: 0
+size        : 163 KB
+license     : BSD 3-Clause
+subdir      : noarch
+url         : https://repo.anaconda.com/pkgs/main/noarch/seaborn-0.10.0-py_0.conda
+md5         : b3dd3a62635b985d06948e106d05e6e8
+timestamp   : 2020-01-31 19:29:46 UTC
+dependencies: 
+  - matplotlib >=2.1.2
+  - numpy >=1.13.3
+  - pandas >=0.22.0
+  - python >=3.6
+  - scipy >=1.0.1
+
+
+seaborn 0.10.1 py_0
+-------------------
+file name   : seaborn-0.10.1-py_0.conda
+name        : seaborn
+version     : 0.10.1
+build       : py_0
+build number: 0
+size        : 163 KB
+license     : BSD 3-Clause
+subdir      : noarch
+url         : https://repo.anaconda.com/pkgs/main/noarch/seaborn-0.10.1-py_0.conda
+md5         : 18bc55951f8ff66dd3a1baaca8bd6234
+timestamp   : 2020-05-03 02:35:26 UTC
+dependencies: 
+  - matplotlib >=2.1.2
+  - numpy >=1.13.3
+  - pandas >=0.22.0
+  - python >=3.6
+  - scipy >=1.0.1
+
+
+seaborn 0.11.0 py_0
+-------------------
+file name   : seaborn-0.11.0-py_0.conda
+name        : seaborn
+version     : 0.11.0
+build       : py_0
+build number: 0
+size        : 210 KB
+license     : BSD 3-Clause
+subdir      : noarch
+url         : https://repo.anaconda.com/pkgs/main/noarch/seaborn-0.11.0-py_0.conda
+md5         : 7bdf099beb473c7a46d3c29080e546cd
+timestamp   : 2020-09-19 22:13:31 UTC
+dependencies: 
+  - matplotlib >=2.1.2
+  - numpy >=1.13.3
+  - pandas >=0.22.0
+  - python >=3.6
+  - scipy >=1.0.1
+
+
+seaborn 0.11.1 pyhd3eb1b0_0
+---------------------------
+file name   : seaborn-0.11.1-pyhd3eb1b0_0.conda
+name        : seaborn
+version     : 0.11.1
+build       : pyhd3eb1b0_0
+build number: 0
+size        : 212 KB
+license     : BSD 3-Clause
+subdir      : noarch
+url         : https://repo.anaconda.com/pkgs/main/noarch/seaborn-0.11.1-pyhd3eb1b0_0.conda
+md5         : ffbd2d692d2acdc84f2cdbd2c66d1098
+timestamp   : 2020-12-21 19:23:03 UTC
+dependencies: 
+  - matplotlib >=2.1.2
+  - numpy >=1.13.3
+  - pandas >=0.22.0
+  - python >=3.6
+  - scipy >=1.0.1
+
+
+seaborn 0.11.2 pyhd3eb1b0_0
+---------------------------
+file name   : seaborn-0.11.2-pyhd3eb1b0_0.conda
+name        : seaborn
+version     : 0.11.2
+build       : pyhd3eb1b0_0
+build number: 0
+size        : 218 KB
+license     : BSD 3-Clause
+subdir      : noarch
+url         : https://repo.anaconda.com/pkgs/main/noarch/seaborn-0.11.2-pyhd3eb1b0_0.conda
+md5         : 36b64fb4e3b76ded59d6388c9582de69
+timestamp   : 2021-08-18 17:31:42 UTC
+dependencies: 
+  - matplotlib >=2.2
+  - numpy >=1.15
+  - pandas >=0.23
+  - python >=3.6
+  - scipy >=1.0
+
+
+seaborn 0.12.0 py310h06a4308_0
+------------------------------
+file name   : seaborn-0.12.0-py310h06a4308_0.conda
+name        : seaborn
+version     : 0.12.0
+build       : py310h06a4308_0
+build number: 0
+size        : 437 KB
+license     : BSD-3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.12.0-py310h06a4308_0.conda
+md5         : 913852a45e1938e78ebe93e73384048b
+timestamp   : 2022-10-20 20:53:59 UTC
+constraints : 
+  - statsmodels >=0.10
+  - scipy >=1.3
+dependencies: 
+  - matplotlib-base >=3.1,!=3.6.1
+  - numpy >=1.17
+  - pandas >=0.25
+  - python >=3.10,<3.11.0a0
+
+
+seaborn 0.12.0 py37h06a4308_0
+-----------------------------
+file name   : seaborn-0.12.0-py37h06a4308_0.conda
+name        : seaborn
+version     : 0.12.0
+build       : py37h06a4308_0
+build number: 0
+size        : 430 KB
+license     : BSD-3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.12.0-py37h06a4308_0.conda
+md5         : e7394bc9df73863ecd7b52cfdcbf7f5b
+timestamp   : 2022-10-20 20:54:32 UTC
+constraints : 
+  - statsmodels >=0.10
+  - scipy >=1.3
+dependencies: 
+  - matplotlib-base >=3.1,!=3.6.1
+  - numpy >=1.17
+  - pandas >=0.25
+  - python >=3.7,<3.8.0a0
+  - typing_extensions
+
+
+seaborn 0.12.0 py38h06a4308_0
+-----------------------------
+file name   : seaborn-0.12.0-py38h06a4308_0.conda
+name        : seaborn
+version     : 0.12.0
+build       : py38h06a4308_0
+build number: 0
+size        : 431 KB
+license     : BSD-3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.12.0-py38h06a4308_0.conda
+md5         : c2250bbbed10dbb53051039517c21dc1
+timestamp   : 2022-10-20 20:53:26 UTC
+constraints : 
+  - statsmodels >=0.10
+  - scipy >=1.3
+dependencies: 
+  - matplotlib-base >=3.1,!=3.6.1
+  - numpy >=1.17
+  - pandas >=0.25
+  - python >=3.8,<3.9.0a0
+
+
+seaborn 0.12.0 py39h06a4308_0
+-----------------------------
+file name   : seaborn-0.12.0-py39h06a4308_0.conda
+name        : seaborn
+version     : 0.12.0
+build       : py39h06a4308_0
+build number: 0
+size        : 428 KB
+license     : BSD-3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.12.0-py39h06a4308_0.conda
+md5         : c913c957d1324b4e83947423fcad701f
+timestamp   : 2022-10-20 20:52:46 UTC
+constraints : 
+  - statsmodels >=0.10
+  - scipy >=1.3
+dependencies: 
+  - matplotlib-base >=3.1,!=3.6.1
+  - numpy >=1.17
+  - pandas >=0.25
+  - python >=3.9,<3.10.0a0
+
+
+seaborn 0.12.1 py310h06a4308_0
+------------------------------
+file name   : seaborn-0.12.1-py310h06a4308_0.conda
+name        : seaborn
+version     : 0.12.1
+build       : py310h06a4308_0
+build number: 0
+size        : 477 KB
+license     : BSD-3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.12.1-py310h06a4308_0.conda
+md5         : 6eb09e8f87376f8b2d1bbb914273694b
+timestamp   : 2022-11-28 09:30:50 UTC
+constraints : 
+  - scipy >=1.3
+  - statsmodels >=0.10
+dependencies: 
+  - matplotlib-base >=3.1,!=3.6.1
+  - numpy >=1.17
+  - pandas >=0.25
+  - python >=3.10,<3.11.0a0
+
+
+seaborn 0.12.1 py37h06a4308_0
+-----------------------------
+file name   : seaborn-0.12.1-py37h06a4308_0.conda
+name        : seaborn
+version     : 0.12.1
+build       : py37h06a4308_0
+build number: 0
+size        : 473 KB
+license     : BSD-3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.12.1-py37h06a4308_0.conda
+md5         : f15728d6442f6d1f569a429c3219eacd
+timestamp   : 2022-11-28 09:31:27 UTC
+constraints : 
+  - scipy >=1.3
+  - statsmodels >=0.10
+dependencies: 
+  - matplotlib-base >=3.1,!=3.6.1
+  - numpy >=1.17
+  - pandas >=0.25
+  - python >=3.7,<3.8.0a0
+  - typing_extensions
+
+
+seaborn 0.12.1 py38h06a4308_0
+-----------------------------
+file name   : seaborn-0.12.1-py38h06a4308_0.conda
+name        : seaborn
+version     : 0.12.1
+build       : py38h06a4308_0
+build number: 0
+size        : 475 KB
+license     : BSD-3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.12.1-py38h06a4308_0.conda
+md5         : 1a80414c1dc556b052b79d557f749d59
+timestamp   : 2022-11-28 09:32:37 UTC
+constraints : 
+  - scipy >=1.3
+  - statsmodels >=0.10
+dependencies: 
+  - matplotlib-base >=3.1,!=3.6.1
+  - numpy >=1.17
+  - pandas >=0.25
+  - python >=3.8,<3.9.0a0
+
+
+seaborn 0.12.1 py39h06a4308_0
+-----------------------------
+file name   : seaborn-0.12.1-py39h06a4308_0.conda
+name        : seaborn
+version     : 0.12.1
+build       : py39h06a4308_0
+build number: 0
+size        : 467 KB
+license     : BSD-3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.12.1-py39h06a4308_0.conda
+md5         : ae83f20f4ed77db0c871c2ef47e67c8b
+timestamp   : 2022-11-28 09:32:02 UTC
+constraints : 
+  - scipy >=1.3
+  - statsmodels >=0.10
+dependencies: 
+  - matplotlib-base >=3.1,!=3.6.1
+  - numpy >=1.17
+  - pandas >=0.25
+  - python >=3.9,<3.10.0a0
+
+
+seaborn 0.12.2 py310h06a4308_0
+------------------------------
+file name   : seaborn-0.12.2-py310h06a4308_0.conda
+name        : seaborn
+version     : 0.12.2
+build       : py310h06a4308_0
+build number: 0
+size        : 491 KB
+license     : BSD-3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.12.2-py310h06a4308_0.conda
+md5         : 64a10b5fd2e49446cf6d633b9871bd6f
+timestamp   : 2023-01-11 23:21:33 UTC
+constraints : 
+  - statsmodels >=0.10
+  - scipy >=1.3
+dependencies: 
+  - matplotlib-base >=3.1,!=3.6.1
+  - numpy >=1.17,!=1.24.0
+  - pandas >=0.25
+  - python >=3.10,<3.11.0a0
+
+
+seaborn 0.12.2 py311h06a4308_0
+------------------------------
+file name   : seaborn-0.12.2-py311h06a4308_0.conda
+name        : seaborn
+version     : 0.12.2
+build       : py311h06a4308_0
+build number: 0
+size        : 570 KB
+license     : BSD-3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.12.2-py311h06a4308_0.conda
+md5         : 74dd2e849c3281d297f7860522b09d7a
+timestamp   : 2023-02-19 22:29:20 UTC
+constraints : 
+  - statsmodels >=0.10
+  - scipy >=1.3
+dependencies: 
+  - matplotlib-base >=3.1,!=3.6.1
+  - numpy >=1.17,!=1.24.0
+  - pandas >=0.25
+  - python >=3.11,<3.12.0a0
+
+
+seaborn 0.12.2 py312h06a4308_0
+------------------------------
+file name   : seaborn-0.12.2-py312h06a4308_0.conda
+name        : seaborn
+version     : 0.12.2
+build       : py312h06a4308_0
+build number: 0
+size        : 555 KB
+license     : BSD-3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.12.2-py312h06a4308_0.conda
+md5         : 1589dbb1ff19865d9f26b668801cc56e
+timestamp   : 2023-11-01 21:34:08 UTC
+constraints : 
+  - scipy >=1.3
+  - statsmodels >=0.10
+dependencies: 
+  - matplotlib-base >=3.1,!=3.6.1
+  - numpy >=1.17,!=1.24.0
+  - pandas >=0.25
+  - python >=3.12,<3.13.0a0
+
+
+seaborn 0.12.2 py37h06a4308_0
+-----------------------------
+file name   : seaborn-0.12.2-py37h06a4308_0.conda
+name        : seaborn
+version     : 0.12.2
+build       : py37h06a4308_0
+build number: 0
+size        : 488 KB
+license     : BSD-3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.12.2-py37h06a4308_0.conda
+md5         : 2d75b88e321bc7f80b04eff8b951802f
+timestamp   : 2023-01-11 23:20:58 UTC
+constraints : 
+  - statsmodels >=0.10
+  - scipy >=1.3
+dependencies: 
+  - matplotlib-base >=3.1,!=3.6.1
+  - numpy >=1.17,!=1.24.0
+  - pandas >=0.25
+  - python >=3.7,<3.8.0a0
+  - typing_extensions
+
+
+seaborn 0.12.2 py38h06a4308_0
+-----------------------------
+file name   : seaborn-0.12.2-py38h06a4308_0.conda
+name        : seaborn
+version     : 0.12.2
+build       : py38h06a4308_0
+build number: 0
+size        : 491 KB
+license     : BSD-3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.12.2-py38h06a4308_0.conda
+md5         : cc3198f0ea6e982b895d847abf206018
+timestamp   : 2023-01-11 23:20:18 UTC
+constraints : 
+  - statsmodels >=0.10
+  - scipy >=1.3
+dependencies: 
+  - matplotlib-base >=3.1,!=3.6.1
+  - numpy >=1.17,!=1.24.0
+  - pandas >=0.25
+  - python >=3.8,<3.9.0a0
+
+
+seaborn 0.12.2 py39h06a4308_0
+-----------------------------
+file name   : seaborn-0.12.2-py39h06a4308_0.conda
+name        : seaborn
+version     : 0.12.2
+build       : py39h06a4308_0
+build number: 0
+size        : 482 KB
+license     : BSD-3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/seaborn-0.12.2-py39h06a4308_0.conda
+md5         : c2b38663403d9cb0075355b8f10a0a25
+timestamp   : 2023-01-11 23:22:10 UTC
+constraints : 
+  - statsmodels >=0.10
+  - scipy >=1.3
+dependencies: 
+  - matplotlib-base >=3.1,!=3.6.1
+  - numpy >=1.17,!=1.24.0
+  - pandas >=0.25
+  - python >=3.9,<3.10.0a0
+
+
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ coda[K[Knda install seaborn sklean[Krn --yes
+[?2004lChannels:
+ - defaults
+Platform: linux-64
+Collecting package metadata (repodata.json): - \ | / - \ | / - \ | done
+Solving environment: - \ | failed
+
+PackagesNotFoundError: The following packages are not available from current channels:
+
+  - sklearn
+
+Current channels:
+
+  - defaults
+
+To search for alternate channels that may provide the conda package you're
+looking for, navigate to
+
+    https://anaconda.org
+
+and use the search bar at the top of the page.
+
+
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda install seaborn sklearn --yes[C[C[1P--yes[1P--yes[1P--yes[1P--yes[1P--yes[1P--yes[1P--yes[1P--yes
+[?2004lChannels:
+ - defaults
+Platform: linux-64
+Collecting package metadata (repodata.json): - \ | / - \ | / - done
+Solving environment: | / done
+
+## Package Plan ##
+
+  environment location: /home/vikram6259/miniconda3/envs/tigertribe6259_conda
+
+  added / updated specs:
+    - seaborn
+
+
+The following NEW packages will be INSTALLED:
+
+  seaborn            pkgs/main/linux-64::seaborn-0.12.2-py312h06a4308_0 
+
+
+
+Downloading and Extracting Packages:
+
+Preparing transaction: \ done
+Verifying transaction: / done
+Executing transaction: \ done
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda install seaborn --yes[1P--yes[1P--yes[1P--yes[1P--yes[1P--yes[1P--yes[1P--yesl--yes[1P--yesk--yesl--yese--yesa--yesr--yesn--yes --yes
+[?2004lChannels:
+ - defaults
+Platform: linux-64
+Collecting package metadata (repodata.json): - \ | / - \ | / - \ | / done
+Solving environment: \ | / failed
+
+PackagesNotFoundError: The following packages are not available from current channels:
+
+  - sklearn
+
+Current channels:
+
+  - defaults
+
+To search for alternate channels that may provide the conda package you're
+looking for, navigate to
+
+    https://anaconda.org
+
+and use the search bar at the top of the page.
+
+
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda install sklearn --yeseabo[C[C[C[C[C[C[C[Csklearn --yes[8Psearch seaborn --infolist -n tigertribe6259_conda --revisions [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19Psearch seaborn --info
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P --info[1P --info[1P --info[1P --info[1P --info[1P --infok --infol --infoe --infoa --infor --infon --info
+[?2004lLoading channels: - \ | / - done
+No match found for: sklearn. Search: *sklearn*
+sklearn-pandas 2.2.0 py310h06a4308_0
+------------------------------------
+file name   : sklearn-pandas-2.2.0-py310h06a4308_0.conda
+name        : sklearn-pandas
+version     : 2.2.0
+build       : py310h06a4308_0
+build number: 0
+size        : 98 KB
+license     : BSD-3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/sklearn-pandas-2.2.0-py310h06a4308_0.conda
+md5         : 4e4c4f4fc83ecc80f8e421df05857053
+timestamp   : 2024-01-25 22:50:45 UTC
+dependencies: 
+  - numpy >=1.18.1
+  - pandas >=1.1.4
+  - python >=3.10,<3.11.0a0
+  - scikit-learn >=0.23.0,<1.2
+  - scipy >=1.5.1
+
+
+sklearn-pandas 2.2.0 py311h06a4308_0
+------------------------------------
+file name   : sklearn-pandas-2.2.0-py311h06a4308_0.conda
+name        : sklearn-pandas
+version     : 2.2.0
+build       : py311h06a4308_0
+build number: 0
+size        : 103 KB
+license     : BSD-3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/sklearn-pandas-2.2.0-py311h06a4308_0.conda
+md5         : d00df9eaba93495a0a3d133b253b9cb9
+timestamp   : 2024-01-25 22:48:48 UTC
+dependencies: 
+  - numpy >=1.18.1
+  - pandas >=1.1.4
+  - python >=3.11,<3.12.0a0
+  - scikit-learn >=0.23.0,<1.2
+  - scipy >=1.5.1
+
+
+sklearn-pandas 2.2.0 py38h06a4308_0
+-----------------------------------
+file name   : sklearn-pandas-2.2.0-py38h06a4308_0.conda
+name        : sklearn-pandas
+version     : 2.2.0
+build       : py38h06a4308_0
+build number: 0
+size        : 98 KB
+license     : BSD-3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/sklearn-pandas-2.2.0-py38h06a4308_0.conda
+md5         : b22ab878578dce57116887e9e3225ee2
+timestamp   : 2024-01-25 22:47:47 UTC
+dependencies: 
+  - numpy >=1.18.1
+  - pandas >=1.1.4
+  - python >=3.8,<3.9.0a0
+  - scikit-learn >=0.23.0,<1.2
+  - scipy >=1.5.1
+
+
+sklearn-pandas 2.2.0 py39h06a4308_0
+-----------------------------------
+file name   : sklearn-pandas-2.2.0-py39h06a4308_0.conda
+name        : sklearn-pandas
+version     : 2.2.0
+build       : py39h06a4308_0
+build number: 0
+size        : 98 KB
+license     : BSD-3-Clause
+subdir      : linux-64
+url         : https://repo.anaconda.com/pkgs/main/linux-64/sklearn-pandas-2.2.0-py39h06a4308_0.conda
+md5         : 9c2e834300a01b36c1864e6344c999e7
+timestamp   : 2024-01-25 22:49:46 UTC
+dependencies: 
+  - numpy >=1.18.1
+  - pandas >=1.1.4
+  - python >=3.9,<3.10.0a0
+  - scikit-learn >=0.23.0,<1.2
+  - scipy >=1.5.1
+
+
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda search sklearn --infoinstall sklearn --yes[1P --yes[1P --yes[1P --yes[1P --yes[1P --yes[1P --yesc --yesi --yesp --yesy --yes
+[?2004lChannels:
+ - defaults
+Platform: linux-64
+Collecting package metadata (repodata.json): - \ | / - \ | / - \ | done
+Solving environment: - \ done
+
+## Package Plan ##
+
+  environment location: /home/vikram6259/miniconda3/envs/tigertribe6259_conda
+
+  added / updated specs:
+    - scipy
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    libgfortran-ng-11.2.0      |       h00389a5_1          20 KB
+    libgfortran5-11.2.0        |       h1234567_1         2.0 MB
+    scipy-1.12.0               |  py312hc5e2394_0        23.3 MB
+    ------------------------------------------------------------
+                                           Total:        25.4 MB
+
+The following NEW packages will be INSTALLED:
+
+  libgfortran-ng     pkgs/main/linux-64::libgfortran-ng-11.2.0-h00389a5_1 
+  libgfortran5       pkgs/main/linux-64::libgfortran5-11.2.0-h1234567_1 
+  scipy              pkgs/main/linux-64::scipy-1.12.0-py312hc5e2394_0 
+
+
+
+Downloading and Extracting Packages:
+scipy-1.12.0         | 23.3 MB   |                                                     |   0% 
+libgfortran5-11.2.0  | 2.0 MB    |                                                     |   0% [A
+
+libgfortran-ng-11.2. | 20 KB     |                                                     |   0% [A[A
+
+libgfortran-ng-11.2. | 20 KB     | #########################################3          |  81% [A[A
+
+libgfortran-ng-11.2. | 20 KB     | ################################################### | 100% [A[A
+libgfortran5-11.2.0  | 2.0 MB    | 3                                                   |   1% [A
+libgfortran5-11.2.0  | 2.0 MB    | #####8                                              |  12% [A
+libgfortran5-11.2.0  | 2.0 MB    | #############################################4      |  89% [A
+libgfortran5-11.2.0  | 2.0 MB    | ################################################### | 100% [Ascipy-1.12.0         | 23.3 MB   |                                                     |   0% scipy-1.12.0         | 23.3 MB   | 1                                                   |   0% scipy-1.12.0         | 23.3 MB   | 2                                                   |   1% scipy-1.12.0         | 23.3 MB   | 4                                                   |   1% scipy-1.12.0         | 23.3 MB   | 6                                                   |   1% scipy-1.12.0         | 23.3 MB   | 8                                                   |   2% scipy-1.12.0         | 23.3 MB   | #1                                                  |   2% scipy-1.12.0         | 23.3 MB   | #5                                                  |   3% scipy-1.12.0         | 23.3 MB   | ##                                                  |   4% scipy-1.12.0         | 23.3 MB   | ##7                                                 |   5% scipy-1.12.0         | 23.3 MB   | ###6                                                |   7% scipy-1.12.0         | 23.3 MB   | ####7                                               |   9% scipy-1.12.0         | 23.3 MB   | ######                                              |  12% scipy-1.12.0         | 23.3 MB   | #######8                                            |  15% scipy-1.12.0         | 23.3 MB   | ##########                                          |  20% scipy-1.12.0         | 23.3 MB   | ############9                                       |  25% scipy-1.12.0         | 23.3 MB   | ################8                                   |  33% scipy-1.12.0         | 23.3 MB   | #####################2                              |  42% scipy-1.12.0         | 23.3 MB   | ########################3                           |  48% scipy-1.12.0         | 23.3 MB   | #################################7                  |  66% scipy-1.12.0         | 23.3 MB   | ######################################5             |  76% scipy-1.12.0         | 23.3 MB   | ###############################################3    |  93% scipy-1.12.0         | 23.3 MB   | ################################################### | 100%                                                                                               
+                                                                                              [A
+
+                                                                                              [A[A
+Preparing transaction: / done
+Verifying transaction: \ | done
+Executing transaction: - \ done
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda cong[Kfig [K --show
+[?2004ladd_anaconda_token: True
+add_pip_as_python_dependency: True
+aggressive_update_packages:
+  - ca-certificates
+  - certifi
+  - openssl
+allow_conda_downgrades: False
+allow_cycles: True
+allow_non_channel_urls: False
+allow_softlinks: False
+allowlist_channels: []
+always_copy: False
+always_softlink: False
+always_yes: None
+anaconda_upload: None
+auto_activate_base: True
+auto_stack: 0
+auto_update_conda: True
+bld_path: 
+changeps1: True
+channel_alias: https://conda.anaconda.org
+channel_priority: flexible
+channel_settings: []
+channels:
+  - defaults
+client_ssl_cert: None
+client_ssl_cert_key: None
+clobber: False
+conda_build: {}
+create_default_packages: []
+croot: /home/vikram6259/miniconda3/conda-bld
+custom_channels:
+  pkgs/main: https://repo.anaconda.com
+  pkgs/r: https://repo.anaconda.com
+  pkgs/pro: https://repo.anaconda.com
+custom_multichannels:
+  defaults: 
+    - https://repo.anaconda.com/pkgs/main
+    - https://repo.anaconda.com/pkgs/r
+  local: 
+debug: False
+default_channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+default_python: 3.12
+default_threads: None
+deps_modifier: not_set
+dev: False
+disallowed_packages: []
+download_only: False
+dry_run: False
+enable_private_envs: False
+env_prompt: ({default_env}) 
+envs_dirs:
+  - /home/vikram6259/miniconda3/envs
+  - /home/vikram6259/.conda/envs
+error_upload_url: https://conda.io/conda-post/unexpected-error
+execute_threads: 1
+experimental: []
+extra_safety_checks: False
+fetch_threads: 5
+force: False
+force_32bit: False
+force_reinstall: False
+force_remove: False
+ignore_pinned: False
+json: False
+local_repodata_ttl: 1
+migrated_channel_aliases: []
+migrated_custom_channels: {}
+no_lock: False
+no_plugins: False
+non_admin_enabled: True
+notify_outdated_conda: True
+number_channel_notices: 5
+offline: False
+override_channels_enabled: True
+path_conflict: clobber
+pinned_packages: []
+pip_interop_enabled: False
+pkgs_dirs:
+  - /home/vikram6259/miniconda3/pkgs
+  - /home/vikram6259/.conda/pkgs
+proxy_servers: {}
+quiet: False
+register_envs: True
+remote_backoff_factor: 1
+remote_connect_timeout_secs: 9.15
+remote_max_retries: 3
+remote_read_timeout_secs: 60.0
+repodata_fns:
+  - current_repodata.json
+  - repodata.json
+repodata_threads: None
+repodata_use_zst: True
+report_errors: None
+restore_free_channel: False
+rollback_enabled: True
+root_prefix: /home/vikram6259/miniconda3
+safety_checks: warn
+sat_solver: pycosat
+separate_format_cache: False
+shortcuts: True
+shortcuts_only: []
+show_channel_urls: None
+signing_metadata_url_base: None
+solver: libmamba
+solver_ignore_timestamps: False
+ssl_verify: True
+subdir: linux-64
+subdirs:
+  - linux-64
+  - noarch
+target_prefix_override: 
+trace: False
+track_features: []
+unsatisfiable_hints: True
+unsatisfiable_hints_check_depth: 2
+update_modifier: update_specs
+use_index_cache: False
+use_local: False
+use_only_tar_bz2: False
+verbosity: 0
+verify_threads: 1
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ conda clean --a;l[K[Kll
+[?2004lWill remove 3 (25.4 MB) tarball(s).
+Proceed ([y]/n)? y
+
+Will remove 1 index cache(s).
+Proceed ([y]/n)? y
+
+Will remove 8 (988 KB) package(s).
+Proceed ([y]/n)? u n
+
+
+CondaSystemExit: Exiting.
+
+[?2004h(tigertribe6259_conda) ]0;vikram6259@TIGER04006: ~[01;32mvikram6259@TIGER04006[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2024-04-05 16:25:16+05:30 [COMMAND_EXIT_CODE="0"]
