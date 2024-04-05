@@ -5289,3 +5289,257 @@ Aborting
 [?2004lexit
 
 Script done on 2024-04-04 12:02:37+05:30 [COMMAND_EXIT_CODE="0"]
+Script started on 2024-04-05 10:17:05+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="201" LINES="34"]
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git st
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git branch
+[?2004l[?1h=* [32mmain[m[m
+[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log -10
+[?2004l[?1h=[33mcommit 428ec0796ca2d1f92210c8d8625853ff88abe5bb[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Thu Apr 4 14:14:34 2024 +0530[m
+[m
+    Removing Unwanted Files[m
+[m
+[33mcommit df65f5e1fdc15b2a4f58816781d3865fb1dfe8ca[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Thu Apr 4 14:12:52 2024 +0530[m
+[m
+    I dono wht is happening[m
+[m
+[33mcommit be3ee9b9effaaec4bfef8340a540e7cad9b9cfcb[m[m
+Merge: c0f1c1e 0a015ba[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Thu Apr 4 14:11:59 2024 +0530[m
+[m
+    Merge branch 'main' of github.com:tigertribe6259/TAMLEP[m
+[m
+[33mcommit 0a015ba35423d14d7bb926f650ac5db6a8333824[m[m
+Author: tigertribe6259 <165360251+tigertribe6259@users.noreply.github.com>[m
+Date:   Thu Apr 4 17:31:05 2024 +0530[m
+[m
+    Delete branch_file.txt[m
+[m
+[33mcommit fc783e0d4d847bf2a68e8f18c8d0069c5021db95[m[m
+Merge: 351fa63 61ba967[m
+Author: tigertribe6259 <165360251+tigertribe6259@users.noreply.github.com>[m
+Date:   Thu Apr 4 15:48:10 2024 +0530[m
+[m
+    Merge pull request #1 from tigertribe6259/testing[m
+    [m
+    Testing[m
+:[K[K[K:[K[K:[K[K[7mNo next tag  (press RETURN)[27m[34;1H[K[K:[K[K:[K[K:[K[K[K:[K[K[m
+[33mcommit 61ba96762a4cddc6e016252e69b3617437ee2ba8[m[33m ([m[1;31morigin/testing[m[33m)[m[m
+Merge: d3a7466 351fa63[m
+Author: tigertribe6259 <165360251+tigertribe6259@users.noreply.github.com>[m
+Date:   Thu Apr 4 15:47:45 2024 +0530[m
+[m
+    Merge branch 'main' into testing[m
+[m
+[33mcommit c0f1c1ebe23ae86e3f04ef1ec22e31a8a1a5b787[m[m
+Merge: 1e897cf b7ea64f[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Thu Apr 4 13:57:15 2024 +0530[m
+[m
+    Merge branch 'testing'[m
+[m
+[33mcommit 1e897cf19001d4604bb2f612a34f5e53bf868f3d[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Thu Apr 4 13:50:11 2024 +0530[m
+[m
+    Merging with Testing[m
+[m
+[33mcommit b7ea64f5f1f135945be258e4e47a7f07f1687a8b[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Thu Apr 4 13:41:47 2024 +0530[m
+[m
+    Modified the testing branch file[m
+[m
+[33mcommit 684480592a656e9feca9fdf06e1790e731735682[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Thu Apr 4 13:37:49 2024 +0530[m
+[m
+    Hotfix Branch Change[m
+[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K [K^X^X[K^?^?[K[7m(END)[27m[K[H[2J[H    Testing[m
+[m
+[33mcommit 61ba96762a4cddc6e016252e69b3617437ee2ba8[m[33m ([m[1;31morigin/testing[m[33m)[m[m
+Merge: d3a7466 351fa63[m
+Author: tigertribe6259 <165360251+tigertribe6259@users.noreply.github.com>[m
+Date:   Thu Apr 4 15:47:45 2024 +0530[m
+[m
+    Merge branch 'main' into testing[m
+[m
+[33mcommit c0f1c1ebe23ae86e3f04ef1ec22e31a8a1a5b787[m[m
+Merge: 1e897cf b7ea64f[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Thu Apr 4 13:57:15 2024 +0530[m
+[m
+    Merge branch 'testing'[m
+[m
+[33mcommit 1e897cf19001d4604bb2f612a34f5e53bf868f3d[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Thu Apr 4 13:50:11 2024 +0530[m
+[m
+    Merging with Testing[m
+[m
+[33mcommit b7ea64f5f1f135945be258e4e47a7f07f1687a8b[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Thu Apr 4 13:41:47 2024 +0530[m
+[m
+    Modified the testing branch file[m
+[m
+[33mcommit 684480592a656e9feca9fdf06e1790e731735682[m[m
+Author: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+Date:   Thu Apr 4 13:37:49 2024 +0530[m
+[m
+    Hotfix Branch Change[m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[HM    [m
+[34;1H[K:[K[K [KESCESC[KOO[KBB[K    Hotfix Branch Change[m
+[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[HM    [m
+[34;1H[K:[K[K [KESCESC[KOO[KBB[K    Hotfix Branch Change[m
+[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[HM    [m
+[HM    Merge pull request #1 from tigertribe6259/testing[m
+[HM[m
+[HMDate:   Thu Apr 4 15:48:10 2024 +0530[m
+[HMAuthor: tigertribe6259 <165360251+tigertribe6259@users.noreply.github.com>[m
+[HMMerge: 351fa63 61ba967[m
+[HM[33mcommit fc783e0d4d847bf2a68e8f18c8d0069c5021db95[m[m
+[HM[m
+[HM    Delete branch_file.txt[m
+[HM[m
+[HMDate:   Thu Apr 4 17:31:05 2024 +0530[m
+[HMAuthor: tigertribe6259 <165360251+tigertribe6259@users.noreply.github.com>[m
+[HM[33mcommit 0a015ba35423d14d7bb926f650ac5db6a8333824[m[m
+[HM[m
+[HM    Merge branch 'main' of github.com:tigertribe6259/TAMLEP[m
+[HM[m
+[HMDate:   Thu Apr 4 14:11:59 2024 +0530[m
+[HMAuthor: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+[HMMerge: c0f1c1e 0a015ba[m
+[HM[33mcommit be3ee9b9effaaec4bfef8340a540e7cad9b9cfcb[m[m
+[HM[m
+[HM    I dono wht is happening[m
+[HM[m
+[HMDate:   Thu Apr 4 14:12:52 2024 +0530[m
+[HMAuthor: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+[HM[33mcommit df65f5e1fdc15b2a4f58816781d3865fb1dfe8ca[m[m
+[HM[m
+[HM    Removing Unwanted Files[m
+[HM[m
+[HMDate:   Thu Apr 4 14:14:34 2024 +0530[m
+[HMAuthor: tigertribe6259 <vikram6259@TIGER04006.tigeranalytics.local>[m
+[HM[33mcommit 428ec0796ca2d1f92210c8d8625853ff88abe5bb[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+[34;1H[K:[K[K[?1l>
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git fetch
+[?2004l[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git remote
+[?2004lorigin
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git fetch origin
+[?2004l[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git log pretty[K[K[K[K[K[K--pretty=oneline -10
+[?2004l[?1h=[33m428ec0796ca2d1f92210c8d8625853ff88abe5bb[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Removing Unwanted Files[m
+[33mdf65f5e1fdc15b2a4f58816781d3865fb1dfe8ca[m I dono wht is happening[m
+[33mbe3ee9b9effaaec4bfef8340a540e7cad9b9cfcb[m Merge branch 'main' of github.com:tigertribe6259/TAMLEP[m
+[33m0a015ba35423d14d7bb926f650ac5db6a8333824[m Delete branch_file.txt[m
+[33mfc783e0d4d847bf2a68e8f18c8d0069c5021db95[m Merge pull request #1 from tigertribe6259/testing[m
+[33m61ba96762a4cddc6e016252e69b3617437ee2ba8[m[33m ([m[1;31morigin/testing[m[33m)[m Merge branch 'main' into testing[m
+[33mc0f1c1ebe23ae86e3f04ef1ec22e31a8a1a5b787[m Merge branch 'testing'[m
+[33m1e897cf19001d4604bb2f612a34f5e53bf868f3d[m Merging with Testing[m
+[33mb7ea64f5f1f135945be258e4e47a7f07f1687a8b[m Modified the testing branch file[m
+[33m684480592a656e9feca9fdf06e1790e731735682[m Hotfix Branch Change[m
+[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ [K]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git brach [K[K[Knch -v
+[?2004l[?1h=* [32mmain[m 428ec07 Removing Unwanted Files[m
+[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git bra[Kach[K[K[Kanch add [K[K[K[Ktesting
+[?2004l[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git brac[Knch
+[?2004l[?1h=* [32mmain[m[m
+  testing[m[m
+[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git branch --merged
+[?2004l[?1h=* [32mmain[m[m
+  testing[m[m
+[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git branch --mergednmergedomerged-merged
+[?2004l[?1h=[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git branch --no-merged[Kgit branch --move testing n[Kbrach[K[Knch_test
+[?2004l[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git push --set-upstream origin branch_test
+[?2004lTotal 0 (delta 0), reused 0 (delta 0), pack-reused 0
+remote: 
+remote: Create a pull request for 'branch_test' on GitHub by visiting:[K
+remote:      https://github.com/tigertribe6259/TAMLEP/pull/new/branch_test[K
+remote: 
+To github.com:tigertribe6259/TAMLEP.git
+ * [new branch]      branch_test -> branch_test
+Branch 'branch_test' set up to track remote branch 'branch_test' from 'origin'.
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git branch
+[?2004l[?1h=  branch_test[m[m
+* [32mmain[m[m
+[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git brac[Knch all[K[K[K-all-all
+[?2004l[?1h=  branch_test[m[m
+* [32mmain[m[m
+  [31mremotes/origin/HEAD[m -> origin/main[m
+  [31mremotes/origin/branch_test[m[m
+  [31mremotes/origin/main[m[m
+  [31mremotes/origin/testing[m[m
+[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git push origin --delete testing
+[?2004lTo github.com:tigertribe6259/TAMLEP.git
+ - [deleted]         testing
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git push origin --delete testing[16Pbranch --all
+[?2004l[?1h=  branch_test[m[m
+* [32mmain[m[m
+  [31mremotes/origin/HEAD[m -> origin/main[m
+  [31mremotes/origin/branch_test[m[m
+  [31mremotes/origin/main[m[m
+[K[?1l>[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git branch --move origin mian[K[K[Kain
+[?2004lfatal: A branch named 'main' already exists.
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git st
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   M1_A1/my_unix_session[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git ls-reo[Kmote
+[?2004lFrom git@github.com:tigertribe6259/TAMLEP.git
+428ec0796ca2d1f92210c8d8625853ff88abe5bb	HEAD
+428ec0796ca2d1f92210c8d8625853ff88abe5bb	refs/heads/branch_test
+428ec0796ca2d1f92210c8d8625853ff88abe5bb	refs/heads/main
+61ba96762a4cddc6e016252e69b3617437ee2ba8	refs/pull/1/head
+846fa3b88b7e21cb9b7d80d2f29493c755506231	refs/tags/v1.0
+a647855a3310fcd714e25f1ff8cb5bfcef64ae52	refs/tags/v1.0^{}
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git remote show origin
+[?2004l* remote origin
+  Fetch URL: git@github.com:tigertribe6259/TAMLEP.git
+  Push  URL: git@github.com:tigertribe6259/TAMLEP.git
+  HEAD branch: main
+  Remote branches:
+    branch_test tracked
+    main        tracked
+  Local branches configured for 'git pull':
+    branch_test merges with remote branch_test
+    main        merges with remote main
+  Local refs configured for 'git push':
+    branch_test pushes to branch_test (up to date)
+    main        pushes to main        (up to date)
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ [K]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ exit
+[?2004lexit
+
+Script done on 2024-04-05 13:09:17+05:30 [COMMAND_EXIT_CODE="0"]
+Script started on 2024-04-05 13:21:51+05:30 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="173" LINES="34"]
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git st
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   M1_A1/my_unix_session[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ git remote -v
+[?2004lorigin	git@github.com:tigertribe6259/TAMLEP.git (fetch)
+origin	git@github.com:tigertribe6259/TAMLEP.git (push)
+[?2004h]0;vikram6259@TIGER04006: /mnt/c/Users/vikram.n/Desktop/TAMLEP[01;32mvikram6259@TIGER04006[00m:[01;34m/mnt/c/Users/vikram.n/Desktop/TAMLEP[00m$ exit
+[?2004lexit
+
+Script done on 2024-04-05 13:22:16+05:30 [COMMAND_EXIT_CODE="0"]
